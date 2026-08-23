@@ -1,0 +1,3 @@
+model,benchmark,robustness_condition,pair_type,cells,mean_interaction,mean_absolute_interaction,max_absolute_interaction
+qwen3_vl_32b,lvbench,hard_distractor,evidence_evidence,25,-0.09118443392782069,2.9002017828838063,12.315590993152
+qwen3_vl_32b,lvbench,hard_distractor,outside_outside,25,0.3091966412387785,0.9158613516392154,7.372416792029981

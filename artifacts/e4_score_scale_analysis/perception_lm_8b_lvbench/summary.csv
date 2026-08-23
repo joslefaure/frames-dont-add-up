@@ -1,0 +1,16 @@
+model,benchmark,pair_type,cells,mean_interaction,mean_absolute_interaction,score_scale
+perception_lm_8b,lvbench,boundary_outside,1500,0.008,0.09066666666666667,accuracy
+perception_lm_8b,lvbench,evidence_boundary,1500,-0.035333333333333335,0.11933333333333333,accuracy
+perception_lm_8b,lvbench,evidence_evidence,1500,-0.07533333333333334,0.174,accuracy
+perception_lm_8b,lvbench,evidence_outside,1500,-0.004,0.09066666666666667,accuracy
+perception_lm_8b,lvbench,outside_outside,1500,-0.007333333333333333,0.07533333333333334,accuracy
+perception_lm_8b,lvbench,boundary_outside,1500,0.030341670175960494,0.27637088501135304,logodds
+perception_lm_8b,lvbench,evidence_boundary,1500,-0.2286090847716044,0.57539357160374,logodds
+perception_lm_8b,lvbench,evidence_evidence,1500,-0.5499312926930354,0.9187043286813765,logodds
+perception_lm_8b,lvbench,evidence_outside,1500,0.012620318512482678,0.3500239322557335,logodds
+perception_lm_8b,lvbench,outside_outside,1500,-0.013920798058383753,0.20557133036542366,logodds
+perception_lm_8b,lvbench,boundary_outside,1500,0.0038450298303098302,0.034107900358041565,probability
+perception_lm_8b,lvbench,evidence_boundary,1500,-0.02650886715930605,0.06567312736582552,probability
+perception_lm_8b,lvbench,evidence_evidence,1500,-0.06592904608147336,0.10544440865576261,probability
+perception_lm_8b,lvbench,evidence_outside,1500,-0.002278341128240632,0.04266942401747568,probability
+perception_lm_8b,lvbench,outside_outside,1500,-0.001561587175842426,0.02450360160321534,probability

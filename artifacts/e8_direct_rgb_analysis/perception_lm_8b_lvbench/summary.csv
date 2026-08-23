@@ -1,0 +1,3 @@
+model,benchmark,robustness_condition,pair_type,cells,mean_interaction,mean_absolute_interaction,max_absolute_interaction
+perception_lm_8b,lvbench,direct_rgb_png,evidence_evidence,75,-0.6241089221901105,0.8208236870235608,7.3136404855467845
+perception_lm_8b,lvbench,direct_rgb_png,outside_outside,75,-0.0006434081888680036,0.1901198719079063,1.8673982007749146

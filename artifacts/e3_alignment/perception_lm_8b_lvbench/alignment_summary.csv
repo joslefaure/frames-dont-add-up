@@ -1,0 +1,6 @@
+model,benchmark,proxy,candidates,items,spearman_pooled,mean_utility_recall_at_k,mean_pointwise_regret
+perception_lm_8b,lvbench,siglip_relevance,4000,500,0.0732288802399202,0.339,0.7156283883479538
+perception_lm_8b,lvbench,dino_local_change,4000,500,0.04135006881504339,0.248,1.1451587452326057
+perception_lm_8b,lvbench,temporal_centrality,4000,500,0.042605977867559215,0.222,1.1898091703060936
+perception_lm_8b,lvbench,visual_spectral_saliency,4000,500,-0.006734053874492637,0.249,1.0577119175541216
+perception_lm_8b,lvbench,annotated_membership,4000,500,0.19938350624008075,0.421,0.46168488762605064

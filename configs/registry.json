@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "sampling": {
+    "seed": 20260720,
+    "causal_holdout_questions": 500
+  },
+  "benchmarks": {
+    "nextgqa": {
+      "source": "official NExT-GQA test release",
+      "split": "test",
+      "qa_file": "datasets/nextgqa/test.csv",
+      "grounding_file": "datasets/nextgqa/gsub_test.json",
+      "video_root": "datasets/nextgqa/videos",
+      "annotation_kind": "official_temporal_grounding"
+    },
+    "videomme": {
+      "source": "lmms-lab/Video-MME",
+      "revision": "ead1408f75b618502df9a1d8e0950166bf0a2a0b",
+      "split": "test",
+      "qa_file": "datasets/videomme/test.parquet",
+      "video_root": "datasets/videomme/videos",
+      "annotation_kind": "none_census_only"
+    },
+    "lvbench": {
+      "source": "official LVBench full source",
+      "revision": "a2ee023e44e4bc39c5f66442d63fee365370b4de",
+      "split": "train",
+      "qa_file": "datasets/lvbench/train.parquet",
+      "video_root": "datasets/lvbench/videos",
+      "annotation_kind": "reference_window"
+    },
+    "herbench": {
+      "source": "HERBench lite_v2 official release",
+      "dataset_config": "lite_v2",
+      "qa_file": "datasets/herbench_lite_v2/data.parquet",
+      "video_root": "datasets/herbench_lite_v2/videos",
+      "annotation_kind": "curated_evidence_segments"
+    },
+    "tvqa_plus": {
+      "status": "excluded_gated_video_release",
+      "annotation_kind": "human_spatiotemporal_grounding"
+    }
+  },
+  "models": {
+    "qwen3_vl_4b": "Qwen/Qwen3-VL-4B-Instruct",
+    "qwen3_vl_32b": "Qwen/Qwen3-VL-32B-Instruct",
+    "internvl35_8b": "OpenGVLab/InternVL3_5-8B-HF",
+    "internvl35_38b": "OpenGVLab/InternVL3_5-38B-HF",
+    "perception_lm_8b": "facebook/Perception-LM-8B",
+    "videollama3_7b": "DAMO-NLP-SG/VideoLLaMA3-7B"
+  },
+  "release_note": "Replace datasets/* with benchmark-license-compliant local locations before running; no benchmark videos are redistributed."
+}

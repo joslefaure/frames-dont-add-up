@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "evaluation": {
+    "decoding": "deterministic constrained one-token multiple-choice decoding",
+    "answer_prompt": "Question: {question}\n(A) {option_a}\n...\nAnswer with the option letter only.",
+    "primary_score": "gold_vs_rest_logodds",
+    "frame_transport": "prepared RGB image files in chronological row order",
+    "common_preprocessing_policy": "fixed prepared RGB frames; dynamic multi-crop expansion disabled where the adapter exposes it"
+  },
+  "models": {
+    "qwen3_vl_4b": {
+      "repository": "Qwen/Qwen3-VL-4B-Instruct",
+      "revision": "ebb281ec70b05090aa6165b016eac8ec08e71b17",
+      "dtype": "bfloat16",
+      "attention": "sdpa",
+      "processor": {"min_pixels": 200704, "max_pixels": 200704}
+    },
+    "qwen3_vl_32b": {
+      "repository": "Qwen/Qwen3-VL-32B-Instruct",
+      "revision": "0cfaf48183f594c314753d30a4c4974bc75f3ccb",
+      "dtype": "bfloat16",
+      "attention": "sdpa",
+      "processor": {"min_pixels": 200704, "max_pixels": 200704}
+    },
+    "internvl35_8b": {
+      "repository": "OpenGVLab/InternVL3_5-8B-HF",
+      "revision": "741a7d03020411e666c6109218ab71e08151ef86",
+      "dtype": "bfloat16",
+      "attention": "sdpa",
+      "processor": {"min_patches": 1, "max_patches": 1, "trust_remote_code": true}
+    },
+    "internvl35_38b": {
+      "repository": "OpenGVLab/InternVL3_5-38B-HF",
+      "revision": "7c830fc25e874f9a861087e3c70587f2b9b555f3",
+      "dtype": "bfloat16",
+      "attention": "sdpa",
+      "processor": {"min_patches": 1, "max_patches": 1, "trust_remote_code": true}
+    },
+    "perception_lm_8b": {
+      "repository": "facebook/Perception-LM-8B",
+      "revision": "969497c228e880aacb82693813f3169330bec9c8",
+      "dtype": "bfloat16",
+      "attention": "eager",
+      "processor": {"video_input": "prepared RGB frame sequence"}
+    },
+    "videollama3_7b": {
+      "repository": "DAMO-NLP-SG/VideoLLaMA3-7B",
+      "revision": "d5b763e368861e7f5096e7ff1b49f92fbccf8ae6",
+      "dtype": "bfloat16",
+      "attention": "sdpa",
+      "processor": {"image_input": "prepared RGB frame sequence", "trust_remote_code": true}
+    }
+  },
+  "runtime": {
+    "python": "3.12",
+    "torch": "2.4.0+cu121",
+    "transformers": "4.57.1",
+    "opencv": "5.0.0",
+    "pandas": "3.0.3",
+    "numpy": "1.26.4"
+  }
+}

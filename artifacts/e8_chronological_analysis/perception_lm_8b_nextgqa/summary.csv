@@ -1,0 +1,3 @@
+model,benchmark,robustness_condition,pair_type,cells,mean_interaction,mean_absolute_interaction,max_absolute_interaction
+perception_lm_8b,nextgqa,chronological,evidence_evidence,1500,-0.4801065833662868,0.9446413113384337,15.349826219840907
+perception_lm_8b,nextgqa,chronological,outside_outside,1500,-0.02189128779854743,0.43379939739487855,10.831963416159851

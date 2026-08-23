@@ -1,0 +1,16 @@
+model,benchmark,pair_type,cells,mean_interaction,mean_absolute_interaction,score_scale
+videollama3_7b,lvbench,boundary_outside,1500,-0.018,0.078,accuracy
+videollama3_7b,lvbench,evidence_boundary,1500,-0.035333333333333335,0.106,accuracy
+videollama3_7b,lvbench,evidence_evidence,1500,-0.076,0.14533333333333334,accuracy
+videollama3_7b,lvbench,evidence_outside,1500,-0.010666666666666666,0.08933333333333333,accuracy
+videollama3_7b,lvbench,outside_outside,1500,-0.007333333333333333,0.066,accuracy
+videollama3_7b,lvbench,boundary_outside,1500,0.0021512738186866046,0.16136897125157218,logodds
+videollama3_7b,lvbench,evidence_boundary,1500,-0.10863661073707044,0.27923009944024185,logodds
+videollama3_7b,lvbench,evidence_evidence,1500,-0.21959764028340578,0.38898475329826276,logodds
+videollama3_7b,lvbench,evidence_outside,1500,0.00963659575022757,0.19213380250645182,logodds
+videollama3_7b,lvbench,outside_outside,1500,0.0008325117003793518,0.13239733780765284,logodds
+videollama3_7b,lvbench,boundary_outside,1500,-0.0002153358495619688,0.025306388088473037,probability
+videollama3_7b,lvbench,evidence_boundary,1500,-0.017560858937130962,0.04356403408196017,probability
+videollama3_7b,lvbench,evidence_evidence,1500,-0.036994564585477084,0.06338450553008458,probability
+videollama3_7b,lvbench,evidence_outside,1500,0.0019644865979101507,0.03194341812251235,probability
+videollama3_7b,lvbench,outside_outside,1500,0.0002552918663650222,0.020313987365287414,probability

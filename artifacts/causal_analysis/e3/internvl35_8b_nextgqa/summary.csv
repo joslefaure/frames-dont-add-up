@@ -1,0 +1,4 @@
+model,benchmark,candidate_stratum,candidates,mean_utility,mean_context_std,sign_instability_rate
+internvl35_8b,nextgqa,boundary,1000,0.1106575351020753,0.5807764627945889,0.584
+internvl35_8b,nextgqa,evidence,1000,0.4357166736323486,0.7275404328881698,0.51
+internvl35_8b,nextgqa,outside,2000,0.0035673416600569244,0.47928345530029587,0.6245

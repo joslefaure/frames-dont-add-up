@@ -1,0 +1,4 @@
+model,benchmark,candidate_stratum,candidates,mean_utility,mean_context_std,sign_instability_rate
+internvl35_8b,herbench,boundary,1000,0.014585708071266707,0.37496319369100084,0.571
+internvl35_8b,herbench,evidence,1000,-0.01881357049452102,0.4803139983936017,0.458
+internvl35_8b,herbench,outside,2000,-0.037436041014712824,0.3531306628553834,0.6125

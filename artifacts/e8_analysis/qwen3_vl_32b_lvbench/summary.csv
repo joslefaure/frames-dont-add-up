@@ -1,0 +1,6 @@
+model,benchmark,robustness_condition,pair_type,cells,mean_interaction,mean_absolute_interaction,max_absolute_interaction
+qwen3_vl_32b,lvbench,noop,noop,75,0.0,0.0,0.0
+qwen3_vl_32b,lvbench,reversed,evidence_evidence,75,-1.4204706056360819,2.830650214517792,22.60375812649727
+qwen3_vl_32b,lvbench,reversed,outside_outside,75,0.05601214589780663,0.591347195331166,2.7211277480237186
+qwen3_vl_32b,lvbench,slot_swap,evidence_evidence,75,-1.508265756535684,3.125381773274471,20.96737313270569
+qwen3_vl_32b,lvbench,slot_swap,outside_outside,75,0.10768622299158011,0.5316115466179674,5.132680171169341

@@ -1,0 +1,4 @@
+model,benchmark,candidate_stratum,candidates,mean_utility,mean_context_std,sign_instability_rate
+videollama3_7b,lvbench,boundary,1000,0.11262590747606009,0.2639515867553051,0.549
+videollama3_7b,lvbench,evidence,1000,0.2454371229140088,0.3025566734585728,0.509
+videollama3_7b,lvbench,outside,2000,0.0015319479253763954,0.22800760107582813,0.6135

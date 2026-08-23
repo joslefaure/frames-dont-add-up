@@ -1,0 +1,11 @@
+Unpenalized logistic regression; source-video cluster sandwich covariance.
+                     term  coefficient  std_error_clustered_source_video   z_value  p_value  odds_ratio_per_sd
+                Intercept    -0.296409                          0.240199 -1.234013 0.217198           0.743483
+       z_interaction_debt     0.055142                          0.084663  0.651315 0.514843           1.056691
+        z_evidence_recall     0.038645                          0.195044  0.198133 0.842941           1.039401
+z_summed_siglip_relevance    -0.097909                          0.136100 -0.719390 0.471900           0.906731
+      z_temporal_coverage    -0.122241                          0.086182 -1.418407 0.156072           0.884935
+  model[perception_lm_8b]    -0.567867                          0.252355 -2.250275 0.024432           0.566733
+      model[qwen3_vl_32b]    -0.292978                          0.188755 -1.552155 0.120625           0.746039
+       benchmark[lvbench]    -0.229449                          0.341755 -0.671386 0.501975           0.794971
+       benchmark[nextgqa]     1.714428                          0.445163  3.851237 0.000118           5.553496

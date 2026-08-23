@@ -1,0 +1,16 @@
+model,benchmark,pair_type,cells,mean_interaction,mean_absolute_interaction,score_scale
+internvl35_38b,lvbench,boundary_outside,1500,0.021333333333333333,0.096,accuracy
+internvl35_38b,lvbench,evidence_boundary,1500,-0.048666666666666664,0.15666666666666668,accuracy
+internvl35_38b,lvbench,evidence_evidence,1500,-0.074,0.178,accuracy
+internvl35_38b,lvbench,evidence_outside,1500,0.011333333333333334,0.10066666666666667,accuracy
+internvl35_38b,lvbench,outside_outside,1500,0.007333333333333333,0.059333333333333335,accuracy
+internvl35_38b,lvbench,boundary_outside,1500,0.030105187241191288,0.26263646389058326,logodds
+internvl35_38b,lvbench,evidence_boundary,1500,-0.14209107387522787,0.5511684613736946,logodds
+internvl35_38b,lvbench,evidence_evidence,1500,-0.3964235753229709,0.815796336100443,logodds
+internvl35_38b,lvbench,evidence_outside,1500,0.030479368300036336,0.31758686986283663,logodds
+internvl35_38b,lvbench,outside_outside,1500,0.02260205746040856,0.18442870542556966,logodds
+internvl35_38b,lvbench,boundary_outside,1500,0.004307464799523615,0.03634508931503863,probability
+internvl35_38b,lvbench,evidence_boundary,1500,-0.024256362587341148,0.07866106137863459,probability
+internvl35_38b,lvbench,evidence_evidence,1500,-0.05711798598591917,0.11150742987924588,probability
+internvl35_38b,lvbench,evidence_outside,1500,0.004210369408404835,0.04471325026447074,probability
+internvl35_38b,lvbench,outside_outside,1500,0.0034936694356694385,0.025506923655729017,probability

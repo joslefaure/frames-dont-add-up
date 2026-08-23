@@ -1,0 +1,4 @@
+model,benchmark,candidate_stratum,candidates,mean_utility,mean_context_std,sign_instability_rate
+perception_lm_8b,herbench,boundary,1000,0.06611931933042554,0.4148000350796545,0.603
+perception_lm_8b,herbench,evidence,1000,0.16068235245870163,0.5454395090390584,0.539
+perception_lm_8b,herbench,outside,2000,0.013079696171830923,0.3582059158422064,0.63

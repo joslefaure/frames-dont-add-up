@@ -1,0 +1,3 @@
+model,benchmark,robustness_condition,pair_type,cells,mean_interaction,mean_absolute_interaction,max_absolute_interaction
+qwen3_vl_32b,nextgqa,chronological,evidence_evidence,1500,-0.8377082243775043,1.9793287018864716,20.189351603388815
+qwen3_vl_32b,nextgqa,chronological,outside_outside,1500,-0.06796276032176542,0.8077015953237321,15.127177850614316

@@ -1,0 +1,3 @@
+model,benchmark,robustness_condition,pair_type,cells,mean_interaction,mean_absolute_interaction,max_absolute_interaction
+internvl35_8b,herbench,chronological,evidence_evidence,1500,-0.00889445350443566,0.6247369208141875,5.294425750151277
+internvl35_8b,herbench,chronological,outside_outside,1500,-0.011997363881848288,0.45277092375055267,4.972087927162647

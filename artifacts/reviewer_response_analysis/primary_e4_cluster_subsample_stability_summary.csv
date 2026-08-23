@@ -1,0 +1,5 @@
+cluster_fraction,settings,median_subsample_gap,minimum_positive_fraction,median_positive_fraction,settings_at_least_95pct_positive
+0.25,18,0.515420580441297,1.0,1.0,18
+0.5,18,0.5124335784882559,1.0,1.0,18
+0.75,18,0.5128373015357609,1.0,1.0,18
+1.0,18,0.5130642342709834,1.0,1.0,18

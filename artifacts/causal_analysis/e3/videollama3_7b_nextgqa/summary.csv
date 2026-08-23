@@ -1,0 +1,4 @@
+model,benchmark,candidate_stratum,candidates,mean_utility,mean_context_std,sign_instability_rate
+videollama3_7b,nextgqa,boundary,1000,-0.007896605441657207,0.1584523876813899,0.549
+videollama3_7b,nextgqa,evidence,1000,0.0728074334229653,0.19249059972890997,0.519
+videollama3_7b,nextgqa,outside,2000,-0.02852041818543027,0.13781280641073818,0.548

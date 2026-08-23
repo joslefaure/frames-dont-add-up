@@ -1,0 +1,6 @@
+model,benchmark,robustness_condition,pair_type,cells,mean_interaction,mean_absolute_interaction,max_absolute_interaction
+perception_lm_8b,lvbench,noop,noop,75,0.0,0.0,0.0
+perception_lm_8b,lvbench,reversed,evidence_evidence,75,-0.2659995347959921,0.6621908155782148,4.61127196252346
+perception_lm_8b,lvbench,reversed,outside_outside,75,-0.021746017578601215,0.2416516527653827,3.0578834356274456
+perception_lm_8b,lvbench,slot_swap,evidence_evidence,75,-0.6059425057975265,0.7713266011009303,6.788619154394837
+perception_lm_8b,lvbench,slot_swap,outside_outside,75,0.043669182329516235,0.21570039020036347,1.4396076884004287

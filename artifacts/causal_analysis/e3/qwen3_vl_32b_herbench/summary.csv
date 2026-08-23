@@ -1,0 +1,4 @@
+model,benchmark,candidate_stratum,candidates,mean_utility,mean_context_std,sign_instability_rate
+qwen3_vl_32b,herbench,boundary,1000,0.1089060871604838,0.6813624130743701,0.578
+qwen3_vl_32b,herbench,evidence,1000,0.4246191864711965,1.023133736703079,0.49
+qwen3_vl_32b,herbench,outside,2000,0.012150196800773979,0.6256675465868702,0.612
