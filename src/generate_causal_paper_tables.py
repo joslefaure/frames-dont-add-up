@@ -16,6 +16,7 @@ CONDITION_NAMES = {
     'dino_diversity8': 'DINO diversity',
     'siglip_dino_submodular8': 'Relevance-diversity',
     'aks_fixedk8': 'AKS (alias of relevance)', 'bolt_its8': 'BOLT-ITS',
+    'mdp3_8': 'MDP3', 'plain_dpp_8': 'Plain DPP',
 }
 
 
@@ -28,13 +29,18 @@ def write_table(frame: pd.DataFrame, output: Path, title: str):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--e2-root', type=Path, default=Path('outputs/e2_causal_analysis'))
-    parser.add_argument('--e3-summary', type=Path, default=Path('outputs/e3_alignment/all_summary.csv'))
-    parser.add_argument('--e4-root', type=Path, default=Path('outputs/e4_topology_analysis'))
-    parser.add_argument('--output-dir', type=Path, default=Path('tables'))
+    parser.add_argument('--e2-root', type=Path, default=Path('artifacts/e2_causal_analysis'))
+    parser.add_argument('--selector-extension-root', type=Path,
+                        default=Path('artifacts/mdp3_dpp_question_only_analysis'))
+    parser.add_argument('--e3-summary', type=Path, default=Path('artifacts/e3_alignment/all_summary.csv'))
+    parser.add_argument('--e4-root', type=Path, default=Path('artifacts/e4_topology_analysis'))
+    parser.add_argument('--output-dir', type=Path, default=Path('reproduced/tables'))
     args = parser.parse_args()
 
     e2 = pd.read_csv(args.e2_root / 'all_summary.csv')
+    extension_paths = sorted(args.selector_extension_root.glob('*/summary.csv'))
+    if extension_paths:
+        e2 = pd.concat([e2, *(pd.read_csv(path) for path in extension_paths)], ignore_index=True)
     selector = (e2.groupby('condition', as_index=False)
                   .agg(completed_cells=('model', 'size'), accuracy=('accuracy', 'mean'),
                        log_odds=('mean_logodds', 'mean'), evidence_recall=('evidence_recall_at_k', 'mean'),

@@ -1,0 +1,3 @@
+model,benchmark,condition,items,accuracy,mean_logodds,evidence_recall_at_k,temporal_coverage,charged_candidate_frames,mean_seconds
+videollama3_7b,lvbench,mdp3_8,500,0.318,-1.2469167877435685,0.027,0.8332380952380952,64.0,1.4881087508201598
+videollama3_7b,lvbench,plain_dpp_8,500,0.314,-1.239399190504104,0.0285,0.8143492063492064,64.0,1.486978338241577

@@ -27,6 +27,7 @@ Generated files are written to `reproduced/`; the checked-in paper versions rema
 |---|---|
 | `artifacts/causal_analysis/` | Per-candidate utility and per-pair factorial records for the 18 grounded settings |
 | `artifacts/e1_*`–`artifacts/e9_*` | Analysis-ready records and compact summaries for the interventions, selector census, higher-order audit, controls, and scale analysis |
+| `artifacts/mdp3_dpp_*` | Matched question-only MDP$^3$/DPP outcomes, richer-query sensitivity outcomes, frozen selections, paired inference, and query-interface diagnostics |
 | `artifacts/qualitative_registry.csv` | Frozen 148-case registry metadata; benchmark frames are not redistributed |
 | `manifests/` | Frozen causal holdouts, census manifests, and documented exclusions |
 | `configs/` | Exact model revisions, prompt, decoding policy, seed, and portable dataset paths |
@@ -64,3 +65,9 @@ The input table must contain prepared RGB frame paths and the intervention colum
 
 All resampling uses seed `20260720`. Primary confidence intervals use 10,000 source-video-cluster bootstrap resamples; paired randomization tests use 10,000 source-video sign-flip draws. Model outputs use deterministic constrained one-token decoding.
 
+The MDP$^3$/DPP extension uses seed `20260828` for its 10,000-draw clustered
+analyses. Its primary selector query contains the question alone, matching the
+incumbent SigLIP-based selectors. A separately labeled sensitivity appends the answer
+choices; both completed runs are released rather than choosing the interface by
+outcome. Reconstructing selections requires the official MDP$^3$ implementation at
+commit `45616806d1173f1a3d8b9c7210edcd764ea45c31` and locally available pool frames.

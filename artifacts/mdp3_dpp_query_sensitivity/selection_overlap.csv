@@ -1,0 +1,7 @@
+benchmark,condition,items,exact_set_fraction,mean_overlap_of_8,median_overlap_of_8,minimum_overlap_of_8
+herbench,mdp3_8,500,0.008,3.51,3.0,0
+herbench,plain_dpp_8,500,0.01,3.704,4.0,0
+lvbench,mdp3_8,500,0.02,4.576,5.0,0
+lvbench,plain_dpp_8,500,0.016,4.708,5.0,0
+nextgqa,mdp3_8,495,0.046464646464646465,5.094949494949495,5.0,1
+nextgqa,plain_dpp_8,495,0.048484848484848485,5.191919191919192,5.0,1

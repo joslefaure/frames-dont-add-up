@@ -33,8 +33,12 @@ def read_e4(root):
     return pd.DataFrame(values)
 
 
-def read_e2(path):
+def read_e2(path, extension_root=None):
     table = pd.read_csv(path)
+    if extension_root is not None:
+        paths = sorted(extension_root.glob('*/summary.csv'))
+        if paths:
+            table = pd.concat([table, *(pd.read_csv(p) for p in paths)], ignore_index=True)
     return table.groupby(['model', 'benchmark']).agg(
         best_selector_logodds=('mean_logodds', 'max'), selector_accuracy=('accuracy', 'max')).reset_index()
 
@@ -44,10 +48,13 @@ def main():
     parser.add_argument('--e3-root', required=True, type=Path)
     parser.add_argument('--e4-root', required=True, type=Path)
     parser.add_argument('--e2-summary', required=True, type=Path)
+    parser.add_argument('--selector-extension-root', type=Path,
+                        default=Path('artifacts/mdp3_dpp_question_only_analysis'))
     parser.add_argument('--output', required=True, type=Path)
     args = parser.parse_args()
     table = read_e3(args.e3_root).merge(read_e4(args.e4_root), on=['model', 'benchmark'], how='outer')
-    table = table.merge(read_e2(args.e2_summary), on=['model', 'benchmark'], how='outer')
+    table = table.merge(read_e2(args.e2_summary, args.selector_extension_root),
+                        on=['model', 'benchmark'], how='outer')
     rows = []
     for family, (small, large) in PAIRS.items():
         left = table[table.model == small].set_index('benchmark')

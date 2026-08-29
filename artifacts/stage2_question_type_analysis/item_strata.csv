@@ -1,0 +1,2172 @@
+item_id,source_video_id,scheme,stratum,benchmark
+herbench:AC_3833,P05-20240427-150402,native,Action Counting,herbench
+herbench:TSO_0598,Furious 7 - Official Trailer HD,native,Temporal Shot Ordering,herbench
+herbench:AC_8731,P02-20240211-100250,native,Action Counting,herbench
+herbench:ASII_17957,P06-20240510-121619,native,Action Sequence Integrity Identification,herbench
+herbench:AC_8325,P04-20240414-064514,native,Action Counting,herbench
+herbench:FOM_401481,P07-20240529-191007,native,False Object Memory,herbench
+herbench:AC_8327,P01-20240203-130505,native,Action Counting,herbench
+herbench:FAM_436537,P07-20240529-102652,native,False Action Memory,herbench
+herbench:FOM_331794,P07-20240529-102652,native,False Object Memory,herbench
+herbench:AC_5427,P04-20240414-162242,native,Action Counting,herbench
+herbench:TSO_0595,Furious 7 - Official Trailer HD,native,Temporal Shot Ordering,herbench
+herbench:SVA_2061,Into the Wild 2007 Trailer 1 Movieclips Classic Trailers,native,Scene Verification & Arrangement,herbench
+herbench:TSO_0696,Groundhog Day Trailer HD,native,Temporal Shot Ordering,herbench
+herbench:ASII_11569,P01-20240203-121517,native,Action Sequence Integrity Identification,herbench
+herbench:TSO_0928,Jurassic Park Trailer,native,Temporal Shot Ordering,herbench
+herbench:ASII_17759,P06-20240510-121619,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_1411,Furious 7 - Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:FAM_436544,P01-20240204-120411,native,False Action Memory,herbench
+herbench:TSO_0864,Into the Wild 2007 Trailer 1 Movieclips Classic Trailers,native,Temporal Shot Ordering,herbench
+herbench:FOM_379862,P04-20240415-175615,native,False Object Memory,herbench
+herbench:SVA_4976,Toy Story 3 Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:FOM_388695,P07-20240529-194518,native,False Object Memory,herbench
+herbench:SVA_1642,Groundhog Day Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:AC_8581,P06-20240511-121048,native,Action Counting,herbench
+herbench:FAM_426540,P07-20240529-102652,native,False Action Memory,herbench
+herbench:ASII_9462,P09-20240623-153253,native,Action Sequence Integrity Identification,herbench
+herbench:FOM_339493,P04-20240414-162242,native,False Object Memory,herbench
+herbench:SVA_1424,Furious 7 - Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:SVA_3399,Singin in the Rain 1952 Official Trailer - Gene Kelly Debbie Reynolds Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:FAM_314685,P01-20240203-121517,native,False Action Memory,herbench
+herbench:SVA_5140,Werner Herzog Reads Curious George,native,Scene Verification & Arrangement,herbench
+herbench:ASII_19156,P09-20240624-160737,native,Action Sequence Integrity Identification,herbench
+herbench:TSO_0908,John Wick Official Trailer 1 2014 - Keanu Reeves Willem Dafoe Movie HD,native,Temporal Shot Ordering,herbench
+herbench:SVA_2420,Marvel Studios Avengers - Endgame - Official Trailer,native,Scene Verification & Arrangement,herbench
+herbench:FAM_436488,P03-20240217-192543,native,False Action Memory,herbench
+herbench:SVA_2407,Marvel Studios Avengers - Endgame - Official Trailer,native,Scene Verification & Arrangement,herbench
+herbench:SVA_2092,Into the Wild 2007 Trailer 1 Movieclips Classic Trailers,native,Scene Verification & Arrangement,herbench
+herbench:FOM_22,P01-20240202-161354,native,False Object Memory,herbench
+herbench:SVA_3210,Se7en 1995 Official Trailer - Brad Pitt Morgan Freeman Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:TSO_2137,Werner Herzog Reads Curious George,native,Temporal Shot Ordering,herbench
+herbench:AC_477,P02-20240211-104948,native,Action Counting,herbench
+herbench:AC_135,P01-20240203-130505,native,Action Counting,herbench
+herbench:FAM_436542,P07-20240531-201703,native,False Action Memory,herbench
+herbench:AC_111,P01-20240203-121517,native,Action Counting,herbench
+herbench:FAM_354756,P09-20240624-160737,native,False Action Memory,herbench
+herbench:FAM_196595,P01-20240202-161354,native,False Action Memory,herbench
+herbench:AC_8743,P09-20240622-162302,native,Action Counting,herbench
+herbench:AC_1645,P07-20240529-191007,native,Action Counting,herbench
+herbench:AC_8584,P01-20240202-161354,native,Action Counting,herbench
+herbench:AC_750,P03-20240217-152152,native,Action Counting,herbench
+herbench:FOM_1845,P07-20240529-191007,native,False Object Memory,herbench
+herbench:SVA_4821,There Will Be Blood 2007 Official Trailer - Daniel Day-Lewis Paul Dano Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:ASII_6663,P04-20240414-064514,native,Action Sequence Integrity Identification,herbench
+herbench:AC_8753,P02-20240211-104948,native,Action Counting,herbench
+herbench:SVA_5119,Werner Herzog Reads Curious George,native,Scene Verification & Arrangement,herbench
+herbench:SVA_0599,Anchorman - The Legend of Ron Burgundy - Trailer,native,Scene Verification & Arrangement,herbench
+herbench:SVA_2453,Marvel Studios Avengers - Endgame - Official Trailer,native,Scene Verification & Arrangement,herbench
+herbench:SVA_4975,Toy Story 3 Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:SVA_2493,Marvel s Guardians of the Galaxy - Trailer 1 OFFICIAL,native,Scene Verification & Arrangement,herbench
+herbench:SVA_1436,Furious 7 - Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:AC_1423,P05-20240427-150402,native,Action Counting,herbench
+herbench:ASII_16992,P03-20240217-192543,native,Action Sequence Integrity Identification,herbench
+herbench:FOM_358351,P07-20240529-194518,native,False Object Memory,herbench
+herbench:FAM_83573,P01-20240204-120411,native,False Action Memory,herbench
+herbench:TSO_0868,Into the Wild 2007 Trailer 1 Movieclips Classic Trailers,native,Temporal Shot Ordering,herbench
+herbench:SVA_3818,Thank You for Your Service Trailer 1 2017 Movieclips Trailers,native,Scene Verification & Arrangement,herbench
+herbench:SVA_3822,Thank You for Your Service Trailer 1 2017 Movieclips Trailers,native,Scene Verification & Arrangement,herbench
+herbench:SVA_4318,The Longest Ride Official Trailer HD 20th Century FOX,native,Scene Verification & Arrangement,herbench
+herbench:SVA_3204,Se7en 1995 Official Trailer - Brad Pitt Morgan Freeman Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:FAM_328841,P01-20240203-121517,native,False Action Memory,herbench
+herbench:SVA_0582,Anchorman - The Legend of Ron Burgundy - Trailer,native,Scene Verification & Arrangement,herbench
+herbench:SVA_1397,Furious 7 - Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:ASII_13134,P04-20240413-142619,native,Action Sequence Integrity Identification,herbench
+herbench:AC_1515,P06-20240510-121619,native,Action Counting,herbench
+herbench:SVA_4263,The Longest Ride Official Trailer HD 20th Century FOX,native,Scene Verification & Arrangement,herbench
+herbench:FAM_1819,P07-20240529-191007,native,False Action Memory,herbench
+herbench:FOM_303629,P01-20240203-184214,native,False Object Memory,herbench
+herbench:SVA_4303,The Longest Ride Official Trailer HD 20th Century FOX,native,Scene Verification & Arrangement,herbench
+herbench:FOM_365509,P09-20240624-160737,native,False Object Memory,herbench
+herbench:FAM_436530,P05-20240425-083515,native,False Action Memory,herbench
+herbench:SVA_1631,Groundhog Day Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:TSO_1903,The Secret Life of Walter Mitty Official Trailer 1 2013 - Ben Stiller Movie HD,native,Temporal Shot Ordering,herbench
+herbench:SVA_4564,The Secret Life of Walter Mitty Official Trailer 1 2013 - Ben Stiller Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:SVA_4943,Toy Story 3 Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:FOM_538,P02-20240211-100250,native,False Object Memory,herbench
+herbench:AC_1419,P05-20240427-150402,native,Action Counting,herbench
+herbench:FOM_1887,P07-20240530-102543,native,False Object Memory,herbench
+herbench:SVA_4572,The Secret Life of Walter Mitty Official Trailer 1 2013 - Ben Stiller Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:SVA_0563,Anchorman - The Legend of Ron Burgundy - Trailer,native,Scene Verification & Arrangement,herbench
+herbench:FOM_338284,P04-20240414-064514,native,False Object Memory,herbench
+herbench:TSO_0945,Jurassic Park Trailer,native,Temporal Shot Ordering,herbench
+herbench:FAM_436546,P02-20240211-100250,native,False Action Memory,herbench
+herbench:TSO_1025,Marvel s Guardians of the Galaxy - Trailer 1 OFFICIAL,native,Temporal Shot Ordering,herbench
+herbench:SVA_3839,Thank You for Your Service Trailer 1 2017 Movieclips Trailers,native,Scene Verification & Arrangement,herbench
+herbench:FOM_530,P02-20240211-100250,native,False Object Memory,herbench
+herbench:SVA_4565,The Secret Life of Walter Mitty Official Trailer 1 2013 - Ben Stiller Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:SVA_3827,Thank You for Your Service Trailer 1 2017 Movieclips Trailers,native,Scene Verification & Arrangement,herbench
+herbench:FAM_320737,P01-20240203-184214,native,False Action Memory,herbench
+herbench:SVA_2480,Marvel s Guardians of the Galaxy - Trailer 1 OFFICIAL,native,Scene Verification & Arrangement,herbench
+herbench:SVA_1676,Groundhog Day Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:SVA_2245,Jurassic Park Trailer,native,Scene Verification & Arrangement,herbench
+herbench:SVA_4905,Titanic TBT Trailer 20th Century FOX,native,Scene Verification & Arrangement,herbench
+herbench:FOM_378,P01-20240204-152537,native,False Object Memory,herbench
+herbench:AC_6478,P07-20240529-102652,native,Action Counting,herbench
+herbench:SVA_0543,Anchorman - The Legend of Ron Burgundy - Trailer,native,Scene Verification & Arrangement,herbench
+herbench:TSO_1402,Singin in the Rain 1952 Official Trailer - Gene Kelly Debbie Reynolds Movie HD,native,Temporal Shot Ordering,herbench
+herbench:FOM_294624,P09-20240623-153253,native,False Object Memory,herbench
+herbench:AC_8630,P01-20240204-142301,native,Action Counting,herbench
+herbench:SVA_2170,John Wick Official Trailer 1 2014 - Keanu Reeves Willem Dafoe Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:FOM_1065,P04-20240414-162242,native,False Object Memory,herbench
+herbench:FOM_621,P02-20240211-141313,native,False Object Memory,herbench
+herbench:ASII_17340,P07-20240530-102543,native,Action Sequence Integrity Identification,herbench
+herbench:AC_8768,P09-20240623-153253,native,Action Counting,herbench
+herbench:FOM_377216,P04-20240413-142619,native,False Object Memory,herbench
+herbench:FAM_418441,P03-20240217-192543,native,False Action Memory,herbench
+herbench:ASII_7255,P01-20240203-121517,native,Action Sequence Integrity Identification,herbench
+herbench:FOM_24,P01-20240202-161354,native,False Object Memory,herbench
+herbench:SVA_1670,Groundhog Day Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:SVA_4593,The Secret Life of Walter Mitty Official Trailer 1 2013 - Ben Stiller Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:ASII_14912,P07-20240529-191007,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_2087,Into the Wild 2007 Trailer 1 Movieclips Classic Trailers,native,Scene Verification & Arrangement,herbench
+herbench:FAM_348735,P04-20240414-162242,native,False Action Memory,herbench
+herbench:SVA_3407,Singin in the Rain 1952 Official Trailer - Gene Kelly Debbie Reynolds Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:FOM_244716,P01-20240202-161354,native,False Object Memory,herbench
+herbench:SVA_4844,There Will Be Blood 2007 Official Trailer - Daniel Day-Lewis Paul Dano Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:AC_3767,P01-20240203-121517,native,Action Counting,herbench
+herbench:FAM_424820,P06-20240510-100047,native,False Action Memory,herbench
+herbench:TSO_2136,Werner Herzog Reads Curious George,native,Temporal Shot Ordering,herbench
+herbench:FOM_201606,P05-20240427-150402,native,False Object Memory,herbench
+herbench:FAM_429104,P09-20240622-162302,native,False Action Memory,herbench
+herbench:TSO_0901,John Wick Official Trailer 1 2014 - Keanu Reeves Willem Dafoe Movie HD,native,Temporal Shot Ordering,herbench
+herbench:AC_1947,P09-20240622-162302,native,Action Counting,herbench
+herbench:SVA_0470,A Quiet Place 2018 - Official Trailer - Paramount Pictures,native,Scene Verification & Arrangement,herbench
+herbench:SVA_4310,The Longest Ride Official Trailer HD 20th Century FOX,native,Scene Verification & Arrangement,herbench
+herbench:SVA_0450,A Quiet Place 2018 - Official Trailer - Paramount Pictures,native,Scene Verification & Arrangement,herbench
+herbench:ASII_10959,P04-20240413-142619,native,Action Sequence Integrity Identification,herbench
+herbench:AC_8531,P05-20240425-083515,native,Action Counting,herbench
+herbench:FOM_1672,P06-20240510-100047,native,False Object Memory,herbench
+herbench:TSO_1920,The Secret Life of Walter Mitty Official Trailer 1 2013 - Ben Stiller Movie HD,native,Temporal Shot Ordering,herbench
+herbench:ASII_2973,P05-20240425-083515,native,Action Sequence Integrity Identification,herbench
+herbench:FAM_436540,P07-20240529-191007,native,False Action Memory,herbench
+herbench:TSO_0940,Jurassic Park Trailer,native,Temporal Shot Ordering,herbench
+herbench:AC_8639,P01-20240204-142301,native,Action Counting,herbench
+herbench:SVA_4939,Toy Story 3 Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:TSO_0177,A Quiet Place 2018 - Official Trailer - Paramount Pictures,native,Temporal Shot Ordering,herbench
+herbench:FOM_623,P02-20240211-141313,native,False Object Memory,herbench
+herbench:ASII_11726,P05-20240427-150402,native,Action Sequence Integrity Identification,herbench
+herbench:FOM_352394,P06-20240511-121048,native,False Object Memory,herbench
+herbench:SVA_2487,Marvel s Guardians of the Galaxy - Trailer 1 OFFICIAL,native,Scene Verification & Arrangement,herbench
+herbench:TSO_0684,Groundhog Day Trailer HD,native,Temporal Shot Ordering,herbench
+herbench:FAM_431804,P06-20240510-121619,native,False Action Memory,herbench
+herbench:FAM_290620,P09-20240624-160737,native,False Action Memory,herbench
+herbench:AC_8863,P07-20240530-102543,native,Action Counting,herbench
+herbench:SVA_2459,Marvel Studios Avengers - Endgame - Official Trailer,native,Scene Verification & Arrangement,herbench
+herbench:SVA_4929,Toy Story 3 Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:SVA_2222,Jurassic Park Trailer,native,Scene Verification & Arrangement,herbench
+herbench:FAM_350758,P09-20240623-153253,native,False Action Memory,herbench
+herbench:SVA_4903,Titanic TBT Trailer 20th Century FOX,native,Scene Verification & Arrangement,herbench
+herbench:ASII_5779,P02-20240211-100250,native,Action Sequence Integrity Identification,herbench
+herbench:ASII_14494,P02-20240211-100250,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_5113,Werner Herzog Reads Curious George,native,Scene Verification & Arrangement,herbench
+herbench:SVA_2511,Marvel s Guardians of the Galaxy - Trailer 1 OFFICIAL,native,Scene Verification & Arrangement,herbench
+herbench:AC_993,P04-20240414-162242,native,Action Counting,herbench
+herbench:FOM_1676,P06-20240510-100047,native,False Object Memory,herbench
+herbench:SVA_1672,Groundhog Day Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:FOM_393304,P06-20240510-100047,native,False Object Memory,herbench
+herbench:TSO_0228,Anchorman - The Legend of Ron Burgundy - Trailer,native,Temporal Shot Ordering,herbench
+herbench:FAM_380398,P01-20240203-130505,native,False Action Memory,herbench
+herbench:SVA_5141,Werner Herzog Reads Curious George,native,Scene Verification & Arrangement,herbench
+herbench:AC_6235,P01-20240204-120411,native,Action Counting,herbench
+herbench:AC_8623,P01-20240204-120411,native,Action Counting,herbench
+herbench:AC_996,P04-20240414-162242,native,Action Counting,herbench
+herbench:ASII_17839,P06-20240510-100047,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_2085,Into the Wild 2007 Trailer 1 Movieclips Classic Trailers,native,Scene Verification & Arrangement,herbench
+herbench:TSO_1592,Thank You for Your Service Trailer 1 2017 Movieclips Trailers,native,Temporal Shot Ordering,herbench
+herbench:TSO_1336,Se7en 1995 Official Trailer - Brad Pitt Morgan Freeman Movie HD,native,Temporal Shot Ordering,herbench
+herbench:SVA_0547,Anchorman - The Legend of Ron Burgundy - Trailer,native,Scene Verification & Arrangement,herbench
+herbench:ASII_18702,P08-20240618-163547,native,Action Sequence Integrity Identification,herbench
+herbench:FOM_1723,P06-20240510-121619,native,False Object Memory,herbench
+herbench:FAM_425735,P06-20240510-121619,native,False Action Memory,herbench
+herbench:FOM_1934,P07-20240531-201703,native,False Object Memory,herbench
+herbench:SVA_1419,Furious 7 - Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:FAM_405492,P04-20240413-142619,native,False Action Memory,herbench
+herbench:SVA_2242,Jurassic Park Trailer,native,Scene Verification & Arrangement,herbench
+herbench:AC_1576,P06-20240511-121048,native,Action Counting,herbench
+herbench:ASII_14963,P02-20240211-104948,native,Action Sequence Integrity Identification,herbench
+herbench:FAM_375172,P07-20240529-194518,native,False Action Memory,herbench
+herbench:FAM_371890,P08-20240618-163547,native,False Action Memory,herbench
+herbench:ASII_10277,P02-20240211-100250,native,Action Sequence Integrity Identification,herbench
+herbench:FAM_421601,P07-20240529-191007,native,False Action Memory,herbench
+herbench:FOM_1869,P07-20240529-194518,native,False Object Memory,herbench
+herbench:TSO_2017,There Will Be Blood 2007 Official Trailer - Daniel Day-Lewis Paul Dano Movie HD,native,Temporal Shot Ordering,herbench
+herbench:TSO_0586,Furious 7 - Official Trailer HD,native,Temporal Shot Ordering,herbench
+herbench:SVA_2478,Marvel s Guardians of the Galaxy - Trailer 1 OFFICIAL,native,Scene Verification & Arrangement,herbench
+herbench:SVA_2237,Jurassic Park Trailer,native,Scene Verification & Arrangement,herbench
+herbench:AC_8779,P09-20240623-153253,native,Action Counting,herbench
+herbench:SVA_2239,Jurassic Park Trailer,native,Scene Verification & Arrangement,herbench
+herbench:AC_8569,P06-20240510-121619,native,Action Counting,herbench
+herbench:SVA_4904,Titanic TBT Trailer 20th Century FOX,native,Scene Verification & Arrangement,herbench
+herbench:TSO_1038,Marvel s Guardians of the Galaxy - Trailer 1 OFFICIAL,native,Temporal Shot Ordering,herbench
+herbench:ASII_18442,P08-20240618-163547,native,Action Sequence Integrity Identification,herbench
+herbench:AC_8893,P03-20240217-192543,native,Action Counting,herbench
+herbench:SVA_2223,Jurassic Park Trailer,native,Scene Verification & Arrangement,herbench
+herbench:AC_8561,P01-20240203-130505,native,Action Counting,herbench
+herbench:FAM_432650,P07-20240529-194518,native,False Action Memory,herbench
+herbench:FAM_342760,P05-20240425-083515,native,False Action Memory,herbench
+herbench:ASII_16600,P07-20240529-194518,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_3190,Se7en 1995 Official Trailer - Brad Pitt Morgan Freeman Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:ASII_18568,P09-20240624-160737,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_2508,Marvel s Guardians of the Galaxy - Trailer 1 OFFICIAL,native,Scene Verification & Arrangement,herbench
+herbench:AC_8791,P03-20240216-084005,native,Action Counting,herbench
+herbench:SVA_4942,Toy Story 3 Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:AC_356,P01-20240204-152537,native,Action Counting,herbench
+herbench:AC_5732,P07-20240529-191007,native,Action Counting,herbench
+herbench:FOM_165588,P02-20240211-100250,native,False Object Memory,herbench
+herbench:ASII_16038,P01-20240202-161354,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_2464,Marvel s Guardians of the Galaxy - Trailer 1 OFFICIAL,native,Scene Verification & Arrangement,herbench
+herbench:FAM_359762,P01-20240204-142301,native,False Action Memory,herbench
+herbench:SVA_1393,Furious 7 - Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:ASII_9781,P01-20240203-184214,native,Action Sequence Integrity Identification,herbench
+herbench:TSO_2133,Werner Herzog Reads Curious George,native,Temporal Shot Ordering,herbench
+herbench:AC_8518,P04-20240415-175615,native,Action Counting,herbench
+herbench:FOM_845,P03-20240217-192543,native,False Object Memory,herbench
+herbench:TSO_0859,Into the Wild 2007 Trailer 1 Movieclips Classic Trailers,native,Temporal Shot Ordering,herbench
+herbench:SVA_0461,A Quiet Place 2018 - Official Trailer - Paramount Pictures,native,Scene Verification & Arrangement,herbench
+herbench:AC_325,P01-20240204-142301,native,Action Counting,herbench
+herbench:TSO_2070,Toy Story 3 Official Trailer HD,native,Temporal Shot Ordering,herbench
+herbench:FOM_8982,P01-20240203-121517,native,False Object Memory,herbench
+herbench:FOM_341489,P01-20240203-121517,native,False Object Memory,herbench
+herbench:SVA_5111,Werner Herzog Reads Curious George,native,Scene Verification & Arrangement,herbench
+herbench:FAM_424335,P09-20240622-162302,native,False Action Memory,herbench
+herbench:TSO_2061,Toy Story 3 Official Trailer HD,native,Temporal Shot Ordering,herbench
+herbench:TSO_0949,Jurassic Park Trailer,native,Temporal Shot Ordering,herbench
+herbench:FAM_317678,P09-20240623-153253,native,False Action Memory,herbench
+herbench:FOM_372462,P01-20240203-184214,native,False Object Memory,herbench
+herbench:SVA_3382,Singin in the Rain 1952 Official Trailer - Gene Kelly Debbie Reynolds Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:FOM_340388,P01-20240203-121517,native,False Object Memory,herbench
+herbench:AC_2665,P09-20240624-160737,native,Action Counting,herbench
+herbench:ASII_16769,P02-20240211-104948,native,Action Sequence Integrity Identification,herbench
+herbench:ASII_18987,P06-20240510-121619,native,Action Sequence Integrity Identification,herbench
+herbench:FOM_286622,P08-20240618-163547,native,False Object Memory,herbench
+herbench:ASII_16926,P07-20240529-102652,native,Action Sequence Integrity Identification,herbench
+herbench:ASII_13792,P01-20240204-142301,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_3381,Singin in the Rain 1952 Official Trailer - Gene Kelly Debbie Reynolds Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:FAM_180585,P04-20240413-142619,native,False Action Memory,herbench
+herbench:TSO_1919,The Secret Life of Walter Mitty Official Trailer 1 2013 - Ben Stiller Movie HD,native,Temporal Shot Ordering,herbench
+herbench:SVA_3231,Se7en 1995 Official Trailer - Brad Pitt Morgan Freeman Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:AC_8803,P02-20240211-141313,native,Action Counting,herbench
+herbench:FOM_674,P03-20240216-084005,native,False Object Memory,herbench
+herbench:TSO_1400,Singin in the Rain 1952 Official Trailer - Gene Kelly Debbie Reynolds Movie HD,native,Temporal Shot Ordering,herbench
+herbench:TSO_1914,The Secret Life of Walter Mitty Official Trailer 1 2013 - Ben Stiller Movie HD,native,Temporal Shot Ordering,herbench
+herbench:FAM_356859,P09-20240624-160737,native,False Action Memory,herbench
+herbench:SVA_2413,Marvel Studios Avengers - Endgame - Official Trailer,native,Scene Verification & Arrangement,herbench
+herbench:ASII_7332,P04-20240415-175615,native,Action Sequence Integrity Identification,herbench
+herbench:AC_8634,P04-20240414-064514,native,Action Counting,herbench
+herbench:SVA_4925,Toy Story 3 Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:ASII_17898,P06-20240510-100047,native,Action Sequence Integrity Identification,herbench
+herbench:ASII_17066,P08-20240618-163547,native,Action Sequence Integrity Identification,herbench
+herbench:FAM_309784,P03-20240217-152152,native,False Action Memory,herbench
+herbench:SVA_1435,Furious 7 - Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:FOM_384513,P01-20240204-142301,native,False Object Memory,herbench
+herbench:FAM_353692,P09-20240624-160737,native,False Action Memory,herbench
+herbench:FAM_190593,P05-20240427-150402,native,False Action Memory,herbench
+herbench:SVA_4811,There Will Be Blood 2007 Official Trailer - Daniel Day-Lewis Paul Dano Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:AC_8868,P07-20240530-102543,native,Action Counting,herbench
+herbench:FOM_183599,P03-20240217-152152,native,False Object Memory,herbench
+herbench:SVA_0477,A Quiet Place 2018 - Official Trailer - Paramount Pictures,native,Scene Verification & Arrangement,herbench
+herbench:TSO_1579,Thank You for Your Service Trailer 1 2017 Movieclips Trailers,native,Temporal Shot Ordering,herbench
+herbench:SVA_0595,Anchorman - The Legend of Ron Burgundy - Trailer,native,Scene Verification & Arrangement,herbench
+herbench:FOM_2058,P08-20240618-163547,native,False Object Memory,herbench
+herbench:SVA_4307,The Longest Ride Official Trailer HD 20th Century FOX,native,Scene Verification & Arrangement,herbench
+herbench:SVA_1675,Groundhog Day Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:ASII_15124,P06-20240511-121048,native,Action Sequence Integrity Identification,herbench
+herbench:FOM_397434,P04-20240413-142619,native,False Object Memory,herbench
+herbench:FAM_276608,P08-20240618-163547,native,False Action Memory,herbench
+herbench:ASII_15343,P02-20240211-104948,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_1413,Furious 7 - Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:ASII_13018,P03-20240217-152152,native,Action Sequence Integrity Identification,herbench
+herbench:ASII_14919,P01-20240204-152537,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_1662,Groundhog Day Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:ASII_12682,P01-20240202-161354,native,Action Sequence Integrity Identification,herbench
+herbench:FAM_429589,P01-20240202-161354,native,False Action Memory,herbench
+herbench:FOM_185595,P03-20240217-192543,native,False Object Memory,herbench
+herbench:TSO_2126,Werner Herzog Reads Curious George,native,Temporal Shot Ordering,herbench
+herbench:FOM_399941,P07-20240529-191007,native,False Object Memory,herbench
+herbench:FAM_428599,P09-20240622-162302,native,False Action Memory,herbench
+herbench:SVA_4590,The Secret Life of Walter Mitty Official Trailer 1 2013 - Ben Stiller Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:FOM_393858,P07-20240531-201703,native,False Object Memory,herbench
+herbench:FAM_381485,P01-20240203-130505,native,False Action Memory,herbench
+herbench:SVA_1437,Furious 7 - Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:ASII_2232,P04-20240414-162242,native,Action Sequence Integrity Identification,herbench
+herbench:FAM_351810,P09-20240623-153253,native,False Action Memory,herbench
+herbench:SVA_4936,Toy Story 3 Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:FAM_161578,P02-20240211-141313,native,False Action Memory,herbench
+herbench:SVA_2259,Jurassic Park Trailer,native,Scene Verification & Arrangement,herbench
+herbench:AC_8709,P02-20240211-104948,native,Action Counting,herbench
+herbench:AC_3301,P02-20240211-100250,native,Action Counting,herbench
+herbench:SVA_3379,Singin in the Rain 1952 Official Trailer - Gene Kelly Debbie Reynolds Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:ASII_7006,P07-20240531-201703,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_4806,There Will Be Blood 2007 Official Trailer - Daniel Day-Lewis Paul Dano Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:SVA_2053,Into the Wild 2007 Trailer 1 Movieclips Classic Trailers,native,Scene Verification & Arrangement,herbench
+herbench:FAM_528,P02-20240211-100250,native,False Action Memory,herbench
+herbench:FAM_535,P02-20240211-100250,native,False Action Memory,herbench
+herbench:SVA_0592,Anchorman - The Legend of Ron Burgundy - Trailer,native,Scene Verification & Arrangement,herbench
+herbench:SVA_2066,Into the Wild 2007 Trailer 1 Movieclips Classic Trailers,native,Scene Verification & Arrangement,herbench
+herbench:SVA_4898,Titanic TBT Trailer 20th Century FOX,native,Scene Verification & Arrangement,herbench
+herbench:FAM_436543,P08-20240618-163547,native,False Action Memory,herbench
+herbench:FAM_436531,P05-20240425-083515,native,False Action Memory,herbench
+herbench:SVA_4901,Titanic TBT Trailer 20th Century FOX,native,Scene Verification & Arrangement,herbench
+herbench:AC_8670,P01-20240203-121517,native,Action Counting,herbench
+herbench:SVA_1637,Groundhog Day Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:FOM_1722,P06-20240510-121619,native,False Object Memory,herbench
+herbench:SVA_0442,A Quiet Place 2018 - Official Trailer - Paramount Pictures,native,Scene Verification & Arrangement,herbench
+herbench:TSO_2071,Toy Story 3 Official Trailer HD,native,Temporal Shot Ordering,herbench
+herbench:AC_8916,P03-20240217-192543,native,Action Counting,herbench
+herbench:FOM_1678,P06-20240510-100047,native,False Object Memory,herbench
+herbench:SVA_2081,Into the Wild 2007 Trailer 1 Movieclips Classic Trailers,native,Scene Verification & Arrangement,herbench
+herbench:SVA_2431,Marvel Studios Avengers - Endgame - Official Trailer,native,Scene Verification & Arrangement,herbench
+herbench:SVA_3394,Singin in the Rain 1952 Official Trailer - Gene Kelly Debbie Reynolds Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:FAM_436536,P06-20240511-121048,native,False Action Memory,herbench
+herbench:FOM_626,P02-20240211-141313,native,False Object Memory,herbench
+herbench:AC_8882,P03-20240217-152152,native,Action Counting,herbench
+herbench:FOM_353500,P06-20240511-121048,native,False Object Memory,herbench
+herbench:TSO_2000,There Will Be Blood 2007 Official Trailer - Daniel Day-Lewis Paul Dano Movie HD,native,Temporal Shot Ordering,herbench
+herbench:FOM_829,P03-20240217-152152,native,False Object Memory,herbench
+herbench:TSO_0904,John Wick Official Trailer 1 2014 - Keanu Reeves Willem Dafoe Movie HD,native,Temporal Shot Ordering,herbench
+herbench:AC_7269,P01-20240203-184214,native,Action Counting,herbench
+herbench:SVA_2458,Marvel Studios Avengers - Endgame - Official Trailer,native,Scene Verification & Arrangement,herbench
+herbench:SVA_0589,Anchorman - The Legend of Ron Burgundy - Trailer,native,Scene Verification & Arrangement,herbench
+herbench:SVA_0548,Anchorman - The Legend of Ron Burgundy - Trailer,native,Scene Verification & Arrangement,herbench
+herbench:FAM_391574,P03-20240216-084005,native,False Action Memory,herbench
+herbench:ASII_2787,P02-20240211-104948,native,Action Sequence Integrity Identification,herbench
+herbench:ASII_12178,P07-20240529-191007,native,Action Sequence Integrity Identification,herbench
+herbench:ASII_19232,P04-20240414-162242,native,Action Sequence Integrity Identification,herbench
+herbench:TSO_2032,Titanic TBT Trailer 20th Century FOX,native,Temporal Shot Ordering,herbench
+herbench:ASII_12578,P09-20240623-153253,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_3185,Se7en 1995 Official Trailer - Brad Pitt Morgan Freeman Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:AC_8472,P01-20240204-120411,native,Action Counting,herbench
+herbench:ASII_17250,P04-20240414-162242,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_2169,John Wick Official Trailer 1 2014 - Keanu Reeves Willem Dafoe Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:SVA_4264,The Longest Ride Official Trailer HD 20th Century FOX,native,Scene Verification & Arrangement,herbench
+herbench:AC_8800,P03-20240216-084005,native,Action Counting,herbench
+herbench:TSO_0927,Jurassic Park Trailer,native,Temporal Shot Ordering,herbench
+herbench:FAM_242612,P06-20240510-100047,native,False Action Memory,herbench
+herbench:FAM_415572,P04-20240414-162242,native,False Action Memory,herbench
+herbench:TSO_1337,Se7en 1995 Official Trailer - Brad Pitt Morgan Freeman Movie HD,native,Temporal Shot Ordering,herbench
+herbench:SVA_4884,Titanic TBT Trailer 20th Century FOX,native,Scene Verification & Arrangement,herbench
+herbench:FAM_430560,P01-20240204-152537,native,False Action Memory,herbench
+herbench:TSO_0865,Into the Wild 2007 Trailer 1 Movieclips Classic Trailers,native,Temporal Shot Ordering,herbench
+herbench:ASII_17810,P05-20240427-150402,native,Action Sequence Integrity Identification,herbench
+herbench:FAM_170582,P03-20240217-152152,native,False Action Memory,herbench
+herbench:SVA_4882,Titanic TBT Trailer 20th Century FOX,native,Scene Verification & Arrangement,herbench
+herbench:ASII_5001,P01-20240202-161354,native,Action Sequence Integrity Identification,herbench
+herbench:TSO_1424,Singin in the Rain 1952 Official Trailer - Gene Kelly Debbie Reynolds Movie HD,native,Temporal Shot Ordering,herbench
+herbench:TSO_2013,There Will Be Blood 2007 Official Trailer - Daniel Day-Lewis Paul Dano Movie HD,native,Temporal Shot Ordering,herbench
+herbench:SVA_3820,Thank You for Your Service Trailer 1 2017 Movieclips Trailers,native,Scene Verification & Arrangement,herbench
+herbench:AC_8795,P03-20240216-084005,native,Action Counting,herbench
+herbench:TSO_0248,Anchorman - The Legend of Ron Burgundy - Trailer,native,Temporal Shot Ordering,herbench
+herbench:TSO_0195,A Quiet Place 2018 - Official Trailer - Paramount Pictures,native,Temporal Shot Ordering,herbench
+herbench:SVA_4970,Toy Story 3 Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:FOM_259,P01-20240203-184214,native,False Object Memory,herbench
+herbench:FAM_436549,P03-20240216-084005,native,False Action Memory,herbench
+herbench:TSO_0694,Groundhog Day Trailer HD,native,Temporal Shot Ordering,herbench
+herbench:FAM_218603,P02-20240211-100250,native,False Action Memory,herbench
+herbench:ASII_9986,P01-20240204-120411,native,Action Sequence Integrity Identification,herbench
+herbench:AC_9031,P04-20240415-175615,native,Action Counting,herbench
+herbench:SVA_3238,Se7en 1995 Official Trailer - Brad Pitt Morgan Freeman Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:FOM_328741,P04-20240414-064514,native,False Object Memory,herbench
+herbench:AC_8991,P01-20240203-184214,native,Action Counting,herbench
+herbench:FAM_408050,P04-20240415-175615,native,False Action Memory,herbench
+herbench:FOM_26,P01-20240202-161354,native,False Object Memory,herbench
+herbench:FOM_364360,P09-20240623-153253,native,False Object Memory,herbench
+herbench:AC_8701,P09-20240622-162302,native,Action Counting,herbench
+herbench:TSO_2125,Werner Herzog Reads Curious George,native,Temporal Shot Ordering,herbench
+herbench:TSO_0692,Groundhog Day Trailer HD,native,Temporal Shot Ordering,herbench
+herbench:ASII_14392,P02-20240211-100250,native,Action Sequence Integrity Identification,herbench
+herbench:TSO_1404,Singin in the Rain 1952 Official Trailer - Gene Kelly Debbie Reynolds Movie HD,native,Temporal Shot Ordering,herbench
+herbench:SVA_4915,Titanic TBT Trailer 20th Century FOX,native,Scene Verification & Arrangement,herbench
+herbench:AC_9028,P07-20240529-102652,native,Action Counting,herbench
+herbench:SVA_0562,Anchorman - The Legend of Ron Burgundy - Trailer,native,Scene Verification & Arrangement,herbench
+herbench:TSO_0589,Furious 7 - Official Trailer HD,native,Temporal Shot Ordering,herbench
+herbench:AC_8729,P04-20240415-175615,native,Action Counting,herbench
+herbench:SVA_1674,Groundhog Day Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:FOM_359402,P07-20240529-194518,native,False Object Memory,herbench
+herbench:TSO_1332,Se7en 1995 Official Trailer - Brad Pitt Morgan Freeman Movie HD,native,Temporal Shot Ordering,herbench
+herbench:FOM_387729,P07-20240530-102543,native,False Object Memory,herbench
+herbench:FOM_1888,P07-20240530-102543,native,False Object Memory,herbench
+herbench:SVA_2432,Marvel Studios Avengers - Endgame - Official Trailer,native,Scene Verification & Arrangement,herbench
+herbench:SVA_2049,Into the Wild 2007 Trailer 1 Movieclips Classic Trailers,native,Scene Verification & Arrangement,herbench
+herbench:SVA_1639,Groundhog Day Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:ASII_18054,P06-20240511-121048,native,Action Sequence Integrity Identification,herbench
+herbench:FOM_362056,P07-20240531-201703,native,False Object Memory,herbench
+herbench:TSO_2140,Werner Herzog Reads Curious George,native,Temporal Shot Ordering,herbench
+herbench:AC_8658,P01-20240203-121517,native,Action Counting,herbench
+herbench:TSO_0242,Anchorman - The Legend of Ron Burgundy - Trailer,native,Temporal Shot Ordering,herbench
+herbench:SVA_1389,Furious 7 - Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:FAM_265,P01-20240203-184214,native,False Action Memory,herbench
+herbench:SVA_4849,There Will Be Blood 2007 Official Trailer - Daniel Day-Lewis Paul Dano Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:TSO_0698,Groundhog Day Trailer HD,native,Temporal Shot Ordering,herbench
+herbench:ASII_18959,P05-20240427-150402,native,Action Sequence Integrity Identification,herbench
+herbench:ASII_2812,P02-20240211-141313,native,Action Sequence Integrity Identification,herbench
+herbench:TSO_0588,Furious 7 - Official Trailer HD,native,Temporal Shot Ordering,herbench
+herbench:SVA_3789,Thank You for Your Service Trailer 1 2017 Movieclips Trailers,native,Scene Verification & Arrangement,herbench
+herbench:FAM_352862,P09-20240623-153253,native,False Action Memory,herbench
+herbench:TSO_1900,The Secret Life of Walter Mitty Official Trailer 1 2013 - Ben Stiller Movie HD,native,Temporal Shot Ordering,herbench
+herbench:AC_8596,P09-20240624-160737,native,Action Counting,herbench
+herbench:AC_3484,P01-20240202-161354,native,Action Counting,herbench
+herbench:ASII_13295,P05-20240425-083515,native,Action Sequence Integrity Identification,herbench
+herbench:FAM_366874,P01-20240202-161354,native,False Action Memory,herbench
+herbench:FOM_324787,P04-20240414-162242,native,False Object Memory,herbench
+herbench:SVA_0558,Anchorman - The Legend of Ron Burgundy - Trailer,native,Scene Verification & Arrangement,herbench
+herbench:ASII_9646,P01-20240203-184214,native,Action Sequence Integrity Identification,herbench
+herbench:TSO_0186,A Quiet Place 2018 - Official Trailer - Paramount Pictures,native,Temporal Shot Ordering,herbench
+herbench:FOM_396392,P01-20240204-142301,native,False Object Memory,herbench
+herbench:SVA_0429,A Quiet Place 2018 - Official Trailer - Paramount Pictures,native,Scene Verification & Arrangement,herbench
+herbench:FAM_360854,P04-20240414-064514,native,False Action Memory,herbench
+herbench:ASII_5055,P09-20240623-153253,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_2206,John Wick Official Trailer 1 2014 - Keanu Reeves Willem Dafoe Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:SVA_4887,Titanic TBT Trailer 20th Century FOX,native,Scene Verification & Arrangement,herbench
+herbench:ASII_12941,P03-20240216-084005,native,Action Sequence Integrity Identification,herbench
+herbench:TSO_1797,The Longest Ride Official Trailer HD 20th Century FOX,native,Temporal Shot Ordering,herbench
+herbench:TSO_0235,Anchorman - The Legend of Ron Burgundy - Trailer,native,Temporal Shot Ordering,herbench
+herbench:ASII_19219,P09-20240624-160737,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_3366,Singin in the Rain 1952 Official Trailer - Gene Kelly Debbie Reynolds Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:FOM_671,P03-20240216-084005,native,False Object Memory,herbench
+herbench:FAM_436547,P02-20240211-141313,native,False Action Memory,herbench
+herbench:ASII_11121,P04-20240414-064514,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_3792,Thank You for Your Service Trailer 1 2017 Movieclips Trailers,native,Scene Verification & Arrangement,herbench
+herbench:TSO_1902,The Secret Life of Walter Mitty Official Trailer 1 2013 - Ben Stiller Movie HD,native,Temporal Shot Ordering,herbench
+herbench:FAM_205601,P09-20240623-153253,native,False Action Memory,herbench
+herbench:FOM_288,P01-20240204-120411,native,False Object Memory,herbench
+herbench:SVA_2502,Marvel s Guardians of the Galaxy - Trailer 1 OFFICIAL,native,Scene Verification & Arrangement,herbench
+herbench:TSO_1915,The Secret Life of Walter Mitty Official Trailer 1 2013 - Ben Stiller Movie HD,native,Temporal Shot Ordering,herbench
+herbench:FOM_336297,P09-20240622-162302,native,False Object Memory,herbench
+herbench:FAM_269610,P04-20240414-162242,native,False Action Memory,herbench
+herbench:SVA_3367,Singin in the Rain 1952 Official Trailer - Gene Kelly Debbie Reynolds Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:SVA_3375,Singin in the Rain 1952 Official Trailer - Gene Kelly Debbie Reynolds Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:SVA_4583,The Secret Life of Walter Mitty Official Trailer 1 2013 - Ben Stiller Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:FAM_436545,P01-20240204-142301,native,False Action Memory,herbench
+herbench:SVA_3372,Singin in the Rain 1952 Official Trailer - Gene Kelly Debbie Reynolds Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:SVA_4906,Titanic TBT Trailer 20th Century FOX,native,Scene Verification & Arrangement,herbench
+herbench:SVA_0449,A Quiet Place 2018 - Official Trailer - Paramount Pictures,native,Scene Verification & Arrangement,herbench
+herbench:TSO_2043,Titanic TBT Trailer 20th Century FOX,native,Temporal Shot Ordering,herbench
+herbench:FOM_375357,P01-20240204-120411,native,False Object Memory,herbench
+herbench:SVA_4972,Toy Story 3 Official Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:FOM_310630,P01-20240204-120411,native,False Object Memory,herbench
+herbench:ASII_15866,P07-20240529-102652,native,Action Sequence Integrity Identification,herbench
+herbench:ASII_16543,P07-20240529-194518,native,Action Sequence Integrity Identification,herbench
+herbench:AC_8946,P09-20240624-160737,native,Action Counting,herbench
+herbench:ASII_5317,P01-20240203-184214,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_2050,Into the Wild 2007 Trailer 1 Movieclips Classic Trailers,native,Scene Verification & Arrangement,herbench
+herbench:SVA_4588,The Secret Life of Walter Mitty Official Trailer 1 2013 - Ben Stiller Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:SVA_2462,Marvel s Guardians of the Galaxy - Trailer 1 OFFICIAL,native,Scene Verification & Arrangement,herbench
+herbench:FAM_346701,P07-20240531-201703,native,False Action Memory,herbench
+herbench:SVA_1641,Groundhog Day Trailer HD,native,Scene Verification & Arrangement,herbench
+herbench:ASII_15659,P05-20240427-150402,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_2189,John Wick Official Trailer 1 2014 - Keanu Reeves Willem Dafoe Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:FOM_344747,P04-20240415-175615,native,False Object Memory,herbench
+herbench:SVA_0471,A Quiet Place 2018 - Official Trailer - Paramount Pictures,native,Scene Verification & Arrangement,herbench
+herbench:FOM_241591,P04-20240414-064514,native,False Object Memory,herbench
+herbench:ASII_10481,P02-20240211-141313,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_3186,Se7en 1995 Official Trailer - Brad Pitt Morgan Freeman Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:FOM_397974,P02-20240211-100250,native,False Object Memory,herbench
+herbench:AC_8677,P01-20240202-161354,native,Action Counting,herbench
+herbench:SVA_4283,The Longest Ride Official Trailer HD 20th Century FOX,native,Scene Verification & Arrangement,herbench
+herbench:ASII_17173,P03-20240217-192543,native,Action Sequence Integrity Identification,herbench
+herbench:AC_7878,P01-20240204-152537,native,Action Counting,herbench
+herbench:FAM_90573,P01-20240204-152537,native,False Action Memory,herbench
+herbench:ASII_17279,P07-20240530-102543,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_5152,Werner Herzog Reads Curious George,native,Scene Verification & Arrangement,herbench
+herbench:FAM_324687,P03-20240216-084005,native,False Action Memory,herbench
+herbench:AC_8898,P03-20240217-152152,native,Action Counting,herbench
+herbench:FOM_371411,P01-20240203-184214,native,False Object Memory,herbench
+herbench:TSO_1784,The Longest Ride Official Trailer HD 20th Century FOX,native,Temporal Shot Ordering,herbench
+herbench:ASII_6042,P02-20240211-141313,native,Action Sequence Integrity Identification,herbench
+herbench:ASII_18756,P07-20240531-201703,native,Action Sequence Integrity Identification,herbench
+herbench:ASII_3296,P04-20240415-175615,native,Action Sequence Integrity Identification,herbench
+herbench:FAM_403440,P01-20240203-130505,native,False Action Memory,herbench
+herbench:TSO_2068,Toy Story 3 Official Trailer HD,native,Temporal Shot Ordering,herbench
+herbench:TSO_1798,The Longest Ride Official Trailer HD 20th Century FOX,native,Temporal Shot Ordering,herbench
+herbench:FOM_848,P03-20240217-192543,native,False Object Memory,herbench
+herbench:FAM_306677,P02-20240211-104948,native,False Action Memory,herbench
+herbench:TSO_2050,Toy Story 3 Official Trailer HD,native,Temporal Shot Ordering,herbench
+herbench:AC_8562,P06-20240510-121619,native,Action Counting,herbench
+herbench:FAM_436548,P02-20240211-141313,native,False Action Memory,herbench
+herbench:TSO_2067,Toy Story 3 Official Trailer HD,native,Temporal Shot Ordering,herbench
+herbench:ASII_7413,P04-20240415-175615,native,Action Sequence Integrity Identification,herbench
+herbench:ASII_11213,P05-20240425-083515,native,Action Sequence Integrity Identification,herbench
+herbench:FOM_373503,P07-20240529-194518,native,False Object Memory,herbench
+herbench:SVA_2191,John Wick Official Trailer 1 2014 - Keanu Reeves Willem Dafoe Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:AC_276,P01-20240204-120411,native,Action Counting,herbench
+herbench:FOM_1430,P05-20240425-083515,native,False Object Memory,herbench
+herbench:TSO_2004,There Will Be Blood 2007 Official Trailer - Daniel Day-Lewis Paul Dano Movie HD,native,Temporal Shot Ordering,herbench
+herbench:FAM_307682,P03-20240217-152152,native,False Action Memory,herbench
+herbench:FOM_531,P02-20240211-100250,native,False Object Memory,herbench
+herbench:SVA_3364,Singin in the Rain 1952 Official Trailer - Gene Kelly Debbie Reynolds Movie HD,native,Scene Verification & Arrangement,herbench
+herbench:ASII_16228,P06-20240510-100047,native,Action Sequence Integrity Identification,herbench
+herbench:SVA_4866,Titanic TBT Trailer 20th Century FOX,native,Scene Verification & Arrangement,herbench
+herbench:TSO_1039,Marvel s Guardians of the Galaxy - Trailer 1 OFFICIAL,native,Temporal Shot Ordering,herbench
+herbench:SVA_4300,The Longest Ride Official Trailer HD 20th Century FOX,native,Scene Verification & Arrangement,herbench
+lvbench:47,Za2Z_JRxCuk,tag_present,temporal grounding,lvbench
+lvbench:47,Za2Z_JRxCuk,tag_present,event understanding,lvbench
+lvbench:4215,Z86xysw5Ncc,tag_present,event understanding,lvbench
+lvbench:4215,Z86xysw5Ncc,tag_present,key information retrieval,lvbench
+lvbench:2376,xECIRjlxM3U,tag_present,event understanding,lvbench
+lvbench:2376,xECIRjlxM3U,tag_present,entity recognition,lvbench
+lvbench:4119,rp4NKWb7dXk,tag_present,event understanding,lvbench
+lvbench:3108,2zkJFv-ro4A,tag_present,entity recognition,lvbench
+lvbench:4461,CgvJqGxzRfE,tag_present,entity recognition,lvbench
+lvbench:1845,7HjNIPIgUg4,tag_present,event understanding,lvbench
+lvbench:4852,NzCO0G8AGLU,tag_present,temporal grounding,lvbench
+lvbench:4852,NzCO0G8AGLU,tag_present,event understanding,lvbench
+lvbench:1750,-WnyRMZqV1U,tag_present,summarization,lvbench
+lvbench:2119,FaV0tIaWWEg,tag_present,key information retrieval,lvbench
+lvbench:749,pXD3txG2bVQ,tag_present,event understanding,lvbench
+lvbench:3789,T1yhBv1ytzw,tag_present,temporal grounding,lvbench
+lvbench:3789,T1yhBv1ytzw,tag_present,event understanding,lvbench
+lvbench:1364,uW9mcG0rdLY,tag_present,entity recognition,lvbench
+lvbench:1364,uW9mcG0rdLY,tag_present,key information retrieval,lvbench
+lvbench:1621,vaL_vSdZKZo,tag_present,key information retrieval,lvbench
+lvbench:2157,rk24OUu_kJQ,tag_present,entity recognition,lvbench
+lvbench:4957,W-BnDvXXfOs,tag_present,key information retrieval,lvbench
+lvbench:627,QgWRyDV9Ozs,tag_present,entity recognition,lvbench
+lvbench:2286,idZkam9zqAs,tag_present,event understanding,lvbench
+lvbench:1129,Z4HGQL_McDQ,tag_present,event understanding,lvbench
+lvbench:1689,t-RtDI2RWQs,tag_present,temporal grounding,lvbench
+lvbench:1689,t-RtDI2RWQs,tag_present,event understanding,lvbench
+lvbench:4152,Aiem1w_TvaA,tag_present,temporal grounding,lvbench
+lvbench:4152,Aiem1w_TvaA,tag_present,reasoning,lvbench
+lvbench:218,28CIeC8cZks,tag_present,entity recognition,lvbench
+lvbench:4222,hjoDzK0siaM,tag_present,key information retrieval,lvbench
+lvbench:5004,4LA_tH-VSnQ,tag_present,entity recognition,lvbench
+lvbench:3378,3_upA09AntU,tag_present,temporal grounding,lvbench
+lvbench:3378,3_upA09AntU,tag_present,entity recognition,lvbench
+lvbench:4704,vZV2WCKMsKs,tag_present,event understanding,lvbench
+lvbench:4704,vZV2WCKMsKs,tag_present,key information retrieval,lvbench
+lvbench:4500,EwskdNETNx8,tag_present,key information retrieval,lvbench
+lvbench:2977,JPPMz8fEml0,tag_present,key information retrieval,lvbench
+lvbench:2736,USfvmoalqsw,tag_present,temporal grounding,lvbench
+lvbench:2736,USfvmoalqsw,tag_present,event understanding,lvbench
+lvbench:1589,ihfjEFGdZdc,tag_present,entity recognition,lvbench
+lvbench:1589,ihfjEFGdZdc,tag_present,key information retrieval,lvbench
+lvbench:1246,aJI8XTa_DII,tag_present,event understanding,lvbench
+lvbench:1246,aJI8XTa_DII,tag_present,entity recognition,lvbench
+lvbench:3927,Hf-n1yfd8II,tag_present,entity recognition,lvbench
+lvbench:353,gXnhqF0TqqI,tag_present,event understanding,lvbench
+lvbench:903,5dZ_lvDgevk,tag_present,reasoning,lvbench
+lvbench:2822,Mcggugol2ts,tag_present,entity recognition,lvbench
+lvbench:5180,20lTg3yUrO4,tag_present,event understanding,lvbench
+lvbench:5180,20lTg3yUrO4,tag_present,entity recognition,lvbench
+lvbench:5173,20lTg3yUrO4,tag_present,event understanding,lvbench
+lvbench:1360,uW9mcG0rdLY,tag_present,reasoning,lvbench
+lvbench:1360,uW9mcG0rdLY,tag_present,entity recognition,lvbench
+lvbench:1572,IsdbCjlZ5cQ,tag_present,temporal grounding,lvbench
+lvbench:1572,IsdbCjlZ5cQ,tag_present,summarization,lvbench
+lvbench:2174,rk24OUu_kJQ,tag_present,entity recognition,lvbench
+lvbench:2174,rk24OUu_kJQ,tag_present,key information retrieval,lvbench
+lvbench:2574,-hgaSElC3wU,tag_present,event understanding,lvbench
+lvbench:2574,-hgaSElC3wU,tag_present,entity recognition,lvbench
+lvbench:38,Za2Z_JRxCuk,tag_present,event understanding,lvbench
+lvbench:38,Za2Z_JRxCuk,tag_present,entity recognition,lvbench
+lvbench:808,XNtNNplAwiI,tag_present,event understanding,lvbench
+lvbench:3369,O14bbpvy2x0,tag_present,temporal grounding,lvbench
+lvbench:3369,O14bbpvy2x0,tag_present,event understanding,lvbench
+lvbench:2828,Mcggugol2ts,tag_present,event understanding,lvbench
+lvbench:2828,Mcggugol2ts,tag_present,entity recognition,lvbench
+lvbench:3934,Hf-n1yfd8II,tag_present,temporal grounding,lvbench
+lvbench:3934,Hf-n1yfd8II,tag_present,entity recognition,lvbench
+lvbench:2370,xECIRjlxM3U,tag_present,entity recognition,lvbench
+lvbench:1098,EpMLAQbSYAw,tag_present,entity recognition,lvbench
+lvbench:3533,oZEVgDXJwCc,tag_present,temporal grounding,lvbench
+lvbench:3533,oZEVgDXJwCc,tag_present,key information retrieval,lvbench
+lvbench:1115,Z4HGQL_McDQ,tag_present,event understanding,lvbench
+lvbench:553,81SbCR6p3Z0,tag_present,temporal grounding,lvbench
+lvbench:553,81SbCR6p3Z0,tag_present,entity recognition,lvbench
+lvbench:3371,3_upA09AntU,tag_present,entity recognition,lvbench
+lvbench:4343,9-gOCOu_KGU,tag_present,event understanding,lvbench
+lvbench:4343,9-gOCOu_KGU,tag_present,key information retrieval,lvbench
+lvbench:2754,evYm0cELO3I,tag_present,temporal grounding,lvbench
+lvbench:2754,evYm0cELO3I,tag_present,entity recognition,lvbench
+lvbench:2459,QWXlvx1GoTY,tag_present,event understanding,lvbench
+lvbench:4966,W-BnDvXXfOs,tag_present,entity recognition,lvbench
+lvbench:2501,QB7FoIpx8os,tag_present,event understanding,lvbench
+lvbench:4010,JlrzSvCsIjE,tag_present,summarization,lvbench
+lvbench:5049,Vk_Af0htZGU,tag_present,temporal grounding,lvbench
+lvbench:5049,Vk_Af0htZGU,tag_present,entity recognition,lvbench
+lvbench:2899,RCAqKnvu_P0,tag_present,key information retrieval,lvbench
+lvbench:2984,JPPMz8fEml0,tag_present,event understanding,lvbench
+lvbench:2984,JPPMz8fEml0,tag_present,entity recognition,lvbench
+lvbench:3025,iA_69g87Ilw,tag_present,entity recognition,lvbench
+lvbench:771,RjDrZkBwzho,tag_present,reasoning,lvbench
+lvbench:771,RjDrZkBwzho,tag_present,event understanding,lvbench
+lvbench:4108,rp4NKWb7dXk,tag_present,event understanding,lvbench
+lvbench:783,RjDrZkBwzho,tag_present,event understanding,lvbench
+lvbench:1123,Z4HGQL_McDQ,tag_present,event understanding,lvbench
+lvbench:1123,Z4HGQL_McDQ,tag_present,entity recognition,lvbench
+lvbench:3924,Hf-n1yfd8II,tag_present,event understanding,lvbench
+lvbench:1420,TZ0j6kr4ZJ0,tag_present,reasoning,lvbench
+lvbench:1420,TZ0j6kr4ZJ0,tag_present,entity recognition,lvbench
+lvbench:3222,LLSJrEgOOtw,tag_present,entity recognition,lvbench
+lvbench:1240,aJI8XTa_DII,tag_present,entity recognition,lvbench
+lvbench:1687,t-RtDI2RWQs,tag_present,reasoning,lvbench
+lvbench:1687,t-RtDI2RWQs,tag_present,event understanding,lvbench
+lvbench:3630,rSE2YPcv89U,tag_present,summarization,lvbench
+lvbench:1934,lDlA7cfNk8A,tag_present,entity recognition,lvbench
+lvbench:2771,evYm0cELO3I,tag_present,event understanding,lvbench
+lvbench:4495,EwskdNETNx8,tag_present,entity recognition,lvbench
+lvbench:2076,f8DKD78BrQA,tag_present,reasoning,lvbench
+lvbench:2076,f8DKD78BrQA,tag_present,key information retrieval,lvbench
+lvbench:202,28CIeC8cZks,tag_present,entity recognition,lvbench
+lvbench:46,Za2Z_JRxCuk,tag_present,reasoning,lvbench
+lvbench:46,Za2Z_JRxCuk,tag_present,event understanding,lvbench
+lvbench:2580,-hgaSElC3wU,tag_present,event understanding,lvbench
+lvbench:2580,-hgaSElC3wU,tag_present,key information retrieval,lvbench
+lvbench:3449,gbDR39yIs3Y,tag_present,key information retrieval,lvbench
+lvbench:1348,uW9mcG0rdLY,tag_present,reasoning,lvbench
+lvbench:1348,uW9mcG0rdLY,tag_present,event understanding,lvbench
+lvbench:1348,uW9mcG0rdLY,tag_present,entity recognition,lvbench
+lvbench:979,GcRKREorGSc,tag_present,reasoning,lvbench
+lvbench:5054,Vk_Af0htZGU,tag_present,event understanding,lvbench
+lvbench:15,qAIRFyR6NyQ,tag_present,key information retrieval,lvbench
+lvbench:1958,8QdE--Y-x7U,tag_present,event understanding,lvbench
+lvbench:1436,TZ0j6kr4ZJ0,tag_present,key information retrieval,lvbench
+lvbench:3390,3_upA09AntU,tag_present,reasoning,lvbench
+lvbench:303,qYMnM5blZIE,tag_present,entity recognition,lvbench
+lvbench:2652,hROKtPqktO8,tag_present,event understanding,lvbench
+lvbench:1853,8NHmfpkxTSw,tag_present,entity recognition,lvbench
+lvbench:2596,KbahC-QCKU8,tag_present,event understanding,lvbench
+lvbench:991,GcRKREorGSc,tag_present,event understanding,lvbench
+lvbench:991,GcRKREorGSc,tag_present,entity recognition,lvbench
+lvbench:2675,tH_5YbklevQ,tag_present,reasoning,lvbench
+lvbench:1323,wNCPgIVz15c,tag_present,entity recognition,lvbench
+lvbench:288,qYMnM5blZIE,tag_present,event understanding,lvbench
+lvbench:288,qYMnM5blZIE,tag_present,entity recognition,lvbench
+lvbench:1745,-WnyRMZqV1U,tag_present,reasoning,lvbench
+lvbench:1745,-WnyRMZqV1U,tag_present,event understanding,lvbench
+lvbench:1745,-WnyRMZqV1U,tag_present,entity recognition,lvbench
+lvbench:2909,RCAqKnvu_P0,tag_present,entity recognition,lvbench
+lvbench:5162,20lTg3yUrO4,tag_present,key information retrieval,lvbench
+lvbench:3124,2zkJFv-ro4A,tag_present,event understanding,lvbench
+lvbench:3124,2zkJFv-ro4A,tag_present,entity recognition,lvbench
+lvbench:3798,T1yhBv1ytzw,tag_present,temporal grounding,lvbench
+lvbench:3798,T1yhBv1ytzw,tag_present,event understanding,lvbench
+lvbench:2912,RCAqKnvu_P0,tag_present,reasoning,lvbench
+lvbench:2912,RCAqKnvu_P0,tag_present,key information retrieval,lvbench
+lvbench:3317,Va_9Q6ekm60,tag_present,event understanding,lvbench
+lvbench:3919,Hf-n1yfd8II,tag_present,event understanding,lvbench
+lvbench:3088,wgBlACG927Y,tag_present,event understanding,lvbench
+lvbench:3088,wgBlACG927Y,tag_present,entity recognition,lvbench
+lvbench:3088,wgBlACG927Y,tag_present,key information retrieval,lvbench
+lvbench:1102,EpMLAQbSYAw,tag_present,entity recognition,lvbench
+lvbench:1904,YlQugR7KSKg,tag_present,entity recognition,lvbench
+lvbench:4703,vZV2WCKMsKs,tag_present,entity recognition,lvbench
+lvbench:2824,Mcggugol2ts,tag_present,event understanding,lvbench
+lvbench:2824,Mcggugol2ts,tag_present,key information retrieval,lvbench
+lvbench:851,TiQBTesZUJQ,tag_present,temporal grounding,lvbench
+lvbench:851,TiQBTesZUJQ,tag_present,event understanding,lvbench
+lvbench:3189,uusf1qG_uZ4,tag_present,reasoning,lvbench
+lvbench:3189,uusf1qG_uZ4,tag_present,entity recognition,lvbench
+lvbench:628,QgWRyDV9Ozs,tag_present,reasoning,lvbench
+lvbench:1965,8QdE--Y-x7U,tag_present,event understanding,lvbench
+lvbench:68,Cm73ma6Ibcs,tag_present,event understanding,lvbench
+lvbench:499,SRq0weUKskM,tag_present,entity recognition,lvbench
+lvbench:5102,pe_LddfHAUU,tag_present,reasoning,lvbench
+lvbench:37,Za2Z_JRxCuk,tag_present,temporal grounding,lvbench
+lvbench:37,Za2Z_JRxCuk,tag_present,event understanding,lvbench
+lvbench:3646,rSE2YPcv89U,tag_present,entity recognition,lvbench
+lvbench:5075,vHlSoxg8WHo,tag_present,temporal grounding,lvbench
+lvbench:5075,vHlSoxg8WHo,tag_present,event understanding,lvbench
+lvbench:4198,Z86xysw5Ncc,tag_present,temporal grounding,lvbench
+lvbench:4198,Z86xysw5Ncc,tag_present,event understanding,lvbench
+lvbench:2672,tH_5YbklevQ,tag_present,entity recognition,lvbench
+lvbench:2672,tH_5YbklevQ,tag_present,key information retrieval,lvbench
+lvbench:4471,CgvJqGxzRfE,tag_present,entity recognition,lvbench
+lvbench:614,S8vPx-u9p_A,tag_present,entity recognition,lvbench
+lvbench:2245,16Z-XQh9jhk,tag_present,temporal grounding,lvbench
+lvbench:2245,16Z-XQh9jhk,tag_present,event understanding,lvbench
+lvbench:2468,QWXlvx1GoTY,tag_present,entity recognition,lvbench
+lvbench:4847,NzCO0G8AGLU,tag_present,entity recognition,lvbench
+lvbench:2783,RbpKkvlHYTw,tag_present,event understanding,lvbench
+lvbench:2783,RbpKkvlHYTw,tag_present,key information retrieval,lvbench
+lvbench:2362,xECIRjlxM3U,tag_present,temporal grounding,lvbench
+lvbench:2362,xECIRjlxM3U,tag_present,event understanding,lvbench
+lvbench:1678,t-RtDI2RWQs,tag_present,event understanding,lvbench
+lvbench:1678,t-RtDI2RWQs,tag_present,key information retrieval,lvbench
+lvbench:638,QgWRyDV9Ozs,tag_present,temporal grounding,lvbench
+lvbench:638,QgWRyDV9Ozs,tag_present,event understanding,lvbench
+lvbench:4319,2LH3JCGkEBU,tag_present,event understanding,lvbench
+lvbench:1193,KktLi3UifPY,tag_present,event understanding,lvbench
+lvbench:2599,KbahC-QCKU8,tag_present,temporal grounding,lvbench
+lvbench:2599,KbahC-QCKU8,tag_present,summarization,lvbench
+lvbench:4305,2LH3JCGkEBU,tag_present,event understanding,lvbench
+lvbench:1605,ihfjEFGdZdc,tag_present,entity recognition,lvbench
+lvbench:3188,uusf1qG_uZ4,tag_present,entity recognition,lvbench
+lvbench:2092,f8DKD78BrQA,tag_present,event understanding,lvbench
+lvbench:4212,Z86xysw5Ncc,tag_present,event understanding,lvbench
+lvbench:4212,Z86xysw5Ncc,tag_present,key information retrieval,lvbench
+lvbench:1957,8QdE--Y-x7U,tag_present,entity recognition,lvbench
+lvbench:4506,EwskdNETNx8,tag_present,key information retrieval,lvbench
+lvbench:4506,EwskdNETNx8,tag_present,summarization,lvbench
+lvbench:1697,t-RtDI2RWQs,tag_present,event understanding,lvbench
+lvbench:2804,RbpKkvlHYTw,tag_present,key information retrieval,lvbench
+lvbench:3444,gbDR39yIs3Y,tag_present,event understanding,lvbench
+lvbench:3444,gbDR39yIs3Y,tag_present,summarization,lvbench
+lvbench:5078,vHlSoxg8WHo,tag_present,reasoning,lvbench
+lvbench:4607,9tBsMSDoDqk,tag_present,temporal grounding,lvbench
+lvbench:4607,9tBsMSDoDqk,tag_present,event understanding,lvbench
+lvbench:510,2sriHX3PbXw,tag_present,entity recognition,lvbench
+lvbench:4090,VTCDQYYKA9o,tag_present,event understanding,lvbench
+lvbench:4738,k2FIFQIYBvA,tag_present,entity recognition,lvbench
+lvbench:633,QgWRyDV9Ozs,tag_present,entity recognition,lvbench
+lvbench:3036,iA_69g87Ilw,tag_present,entity recognition,lvbench
+lvbench:3036,iA_69g87Ilw,tag_present,key information retrieval,lvbench
+lvbench:1354,uW9mcG0rdLY,tag_present,temporal grounding,lvbench
+lvbench:1354,uW9mcG0rdLY,tag_present,reasoning,lvbench
+lvbench:1964,8QdE--Y-x7U,tag_present,reasoning,lvbench
+lvbench:1964,8QdE--Y-x7U,tag_present,entity recognition,lvbench
+lvbench:735,pXD3txG2bVQ,tag_present,event understanding,lvbench
+lvbench:4015,JlrzSvCsIjE,tag_present,summarization,lvbench
+lvbench:4794,AeEYQ62t8hA,tag_present,event understanding,lvbench
+lvbench:4977,W-BnDvXXfOs,tag_present,entity recognition,lvbench
+lvbench:3082,wgBlACG927Y,tag_present,summarization,lvbench
+lvbench:307,qYMnM5blZIE,tag_present,entity recognition,lvbench
+lvbench:2153,rk24OUu_kJQ,tag_present,event understanding,lvbench
+lvbench:5132,JTa_Ue2MSwc,tag_present,event understanding,lvbench
+lvbench:5132,JTa_Ue2MSwc,tag_present,key information retrieval,lvbench
+lvbench:2913,RCAqKnvu_P0,tag_present,event understanding,lvbench
+lvbench:5161,20lTg3yUrO4,tag_present,event understanding,lvbench
+lvbench:252,TJR1oYDDTwg,tag_present,reasoning,lvbench
+lvbench:252,TJR1oYDDTwg,tag_present,entity recognition,lvbench
+lvbench:3633,rSE2YPcv89U,tag_present,key information retrieval,lvbench
+lvbench:4490,EwskdNETNx8,tag_present,entity recognition,lvbench
+lvbench:2453,QWXlvx1GoTY,tag_present,entity recognition,lvbench
+lvbench:4197,Z86xysw5Ncc,tag_present,key information retrieval,lvbench
+lvbench:5069,vHlSoxg8WHo,tag_present,event understanding,lvbench
+lvbench:3131,2zkJFv-ro4A,tag_present,entity recognition,lvbench
+lvbench:5256,moALQl818ZY,tag_present,entity recognition,lvbench
+lvbench:5256,moALQl818ZY,tag_present,key information retrieval,lvbench
+lvbench:4086,VTCDQYYKA9o,tag_present,temporal grounding,lvbench
+lvbench:4086,VTCDQYYKA9o,tag_present,event understanding,lvbench
+lvbench:2407,o-gLbgpzCc8,tag_present,entity recognition,lvbench
+lvbench:1326,wNCPgIVz15c,tag_present,entity recognition,lvbench
+lvbench:4783,AeEYQ62t8hA,tag_present,event understanding,lvbench
+lvbench:1234,aJI8XTa_DII,tag_present,entity recognition,lvbench
+lvbench:1601,ihfjEFGdZdc,tag_present,temporal grounding,lvbench
+lvbench:1601,ihfjEFGdZdc,tag_present,reasoning,lvbench
+lvbench:800,XNtNNplAwiI,tag_present,event understanding,lvbench
+lvbench:2164,rk24OUu_kJQ,tag_present,entity recognition,lvbench
+lvbench:1352,uW9mcG0rdLY,tag_present,temporal grounding,lvbench
+lvbench:1352,uW9mcG0rdLY,tag_present,entity recognition,lvbench
+lvbench:529,2sriHX3PbXw,tag_present,reasoning,lvbench
+lvbench:3166,uusf1qG_uZ4,tag_present,entity recognition,lvbench
+lvbench:1083,xi6r3hZe5Tg,tag_present,event understanding,lvbench
+lvbench:1083,xi6r3hZe5Tg,tag_present,entity recognition,lvbench
+lvbench:1083,xi6r3hZe5Tg,tag_present,key information retrieval,lvbench
+lvbench:4599,9tBsMSDoDqk,tag_present,temporal grounding,lvbench
+lvbench:4599,9tBsMSDoDqk,tag_present,event understanding,lvbench
+lvbench:52,Za2Z_JRxCuk,tag_present,summarization,lvbench
+lvbench:2819,Mcggugol2ts,tag_present,event understanding,lvbench
+lvbench:2651,hROKtPqktO8,tag_present,temporal grounding,lvbench
+lvbench:2651,hROKtPqktO8,tag_present,entity recognition,lvbench
+lvbench:403,HfEVEGf1A8Q,tag_present,event understanding,lvbench
+lvbench:2096,FaV0tIaWWEg,tag_present,key information retrieval,lvbench
+lvbench:1856,8NHmfpkxTSw,tag_present,entity recognition,lvbench
+lvbench:3329,Va_9Q6ekm60,tag_present,summarization,lvbench
+lvbench:1583,ihfjEFGdZdc,tag_present,entity recognition,lvbench
+lvbench:4243,hjoDzK0siaM,tag_present,event understanding,lvbench
+lvbench:4725,k2FIFQIYBvA,tag_present,entity recognition,lvbench
+lvbench:5150,JTa_Ue2MSwc,tag_present,key information retrieval,lvbench
+lvbench:2259,16Z-XQh9jhk,tag_present,event understanding,lvbench
+lvbench:2303,idZkam9zqAs,tag_present,entity recognition,lvbench
+lvbench:3439,gbDR39yIs3Y,tag_present,temporal grounding,lvbench
+lvbench:3439,gbDR39yIs3Y,tag_present,reasoning,lvbench
+lvbench:4748,sk00epALZps,tag_present,temporal grounding,lvbench
+lvbench:4748,sk00epALZps,tag_present,entity recognition,lvbench
+lvbench:2894,_T2Avd3tFHc,tag_present,event understanding,lvbench
+lvbench:2894,_T2Avd3tFHc,tag_present,entity recognition,lvbench
+lvbench:2084,f8DKD78BrQA,tag_present,key information retrieval,lvbench
+lvbench:1596,ihfjEFGdZdc,tag_present,entity recognition,lvbench
+lvbench:4128,rp4NKWb7dXk,tag_present,entity recognition,lvbench
+lvbench:4075,cWEnogdsW78,tag_present,event understanding,lvbench
+lvbench:5257,moALQl818ZY,tag_present,key information retrieval,lvbench
+lvbench:3649,rSE2YPcv89U,tag_present,event understanding,lvbench
+lvbench:274,TJR1oYDDTwg,tag_present,entity recognition,lvbench
+lvbench:4223,hjoDzK0siaM,tag_present,key information retrieval,lvbench
+lvbench:2665,tH_5YbklevQ,tag_present,event understanding,lvbench
+lvbench:3314,Va_9Q6ekm60,tag_present,event understanding,lvbench
+lvbench:3314,Va_9Q6ekm60,tag_present,entity recognition,lvbench
+lvbench:2584,KbahC-QCKU8,tag_present,event understanding,lvbench
+lvbench:2584,KbahC-QCKU8,tag_present,entity recognition,lvbench
+lvbench:2120,FaV0tIaWWEg,tag_present,entity recognition,lvbench
+lvbench:1225,aJI8XTa_DII,tag_present,entity recognition,lvbench
+lvbench:1192,KktLi3UifPY,tag_present,reasoning,lvbench
+lvbench:1180,KktLi3UifPY,tag_present,event understanding,lvbench
+lvbench:5048,Vk_Af0htZGU,tag_present,temporal grounding,lvbench
+lvbench:5048,Vk_Af0htZGU,tag_present,event understanding,lvbench
+lvbench:2763,evYm0cELO3I,tag_present,temporal grounding,lvbench
+lvbench:2763,evYm0cELO3I,tag_present,event understanding,lvbench
+lvbench:1425,TZ0j6kr4ZJ0,tag_present,event understanding,lvbench
+lvbench:1425,TZ0j6kr4ZJ0,tag_present,entity recognition,lvbench
+lvbench:3976,tKIFQI9cH2c,tag_present,event understanding,lvbench
+lvbench:4350,9-gOCOu_KGU,tag_present,reasoning,lvbench
+lvbench:4350,9-gOCOu_KGU,tag_present,key information retrieval,lvbench
+lvbench:4005,JlrzSvCsIjE,tag_present,summarization,lvbench
+lvbench:4201,Z86xysw5Ncc,tag_present,reasoning,lvbench
+lvbench:4201,Z86xysw5Ncc,tag_present,event understanding,lvbench
+lvbench:4201,Z86xysw5Ncc,tag_present,key information retrieval,lvbench
+lvbench:1562,IsdbCjlZ5cQ,tag_present,entity recognition,lvbench
+lvbench:3397,3_upA09AntU,tag_present,reasoning,lvbench
+lvbench:3397,3_upA09AntU,tag_present,entity recognition,lvbench
+lvbench:13,qAIRFyR6NyQ,tag_present,temporal grounding,lvbench
+lvbench:13,qAIRFyR6NyQ,tag_present,reasoning,lvbench
+lvbench:3961,Xjf5N9S3jAA,tag_present,reasoning,lvbench
+lvbench:1821,7HjNIPIgUg4,tag_present,entity recognition,lvbench
+lvbench:1125,Z4HGQL_McDQ,tag_present,temporal grounding,lvbench
+lvbench:1125,Z4HGQL_McDQ,tag_present,event understanding,lvbench
+lvbench:41,Za2Z_JRxCuk,tag_present,temporal grounding,lvbench
+lvbench:41,Za2Z_JRxCuk,tag_present,event understanding,lvbench
+lvbench:4146,Aiem1w_TvaA,tag_present,event understanding,lvbench
+lvbench:918,5dZ_lvDgevk,tag_present,event understanding,lvbench
+lvbench:1896,YlQugR7KSKg,tag_present,temporal grounding,lvbench
+lvbench:1896,YlQugR7KSKg,tag_present,entity recognition,lvbench
+lvbench:3640,rSE2YPcv89U,tag_present,key information retrieval,lvbench
+lvbench:1909,lDlA7cfNk8A,tag_present,entity recognition,lvbench
+lvbench:1890,YlQugR7KSKg,tag_present,temporal grounding,lvbench
+lvbench:1890,YlQugR7KSKg,tag_present,key information retrieval,lvbench
+lvbench:17,qAIRFyR6NyQ,tag_present,key information retrieval,lvbench
+lvbench:1915,lDlA7cfNk8A,tag_present,entity recognition,lvbench
+lvbench:4207,Z86xysw5Ncc,tag_present,key information retrieval,lvbench
+lvbench:1569,IsdbCjlZ5cQ,tag_present,entity recognition,lvbench
+lvbench:806,XNtNNplAwiI,tag_present,event understanding,lvbench
+lvbench:2179,rk24OUu_kJQ,tag_present,entity recognition,lvbench
+lvbench:3097,wgBlACG927Y,tag_present,reasoning,lvbench
+lvbench:4055,cXDT44zT8JY,tag_present,reasoning,lvbench
+lvbench:1136,Z4HGQL_McDQ,tag_present,summarization,lvbench
+lvbench:277,TJR1oYDDTwg,tag_present,event understanding,lvbench
+lvbench:738,pXD3txG2bVQ,tag_present,event understanding,lvbench
+lvbench:63,Cm73ma6Ibcs,tag_present,entity recognition,lvbench
+lvbench:4133,rp4NKWb7dXk,tag_present,event understanding,lvbench
+lvbench:294,qYMnM5blZIE,tag_present,event understanding,lvbench
+lvbench:294,qYMnM5blZIE,tag_present,summarization,lvbench
+lvbench:4730,k2FIFQIYBvA,tag_present,event understanding,lvbench
+lvbench:1744,-WnyRMZqV1U,tag_present,event understanding,lvbench
+lvbench:1744,-WnyRMZqV1U,tag_present,key information retrieval,lvbench
+lvbench:2268,16Z-XQh9jhk,tag_present,entity recognition,lvbench
+lvbench:3475,jp2M1hIEtsk,tag_present,event understanding,lvbench
+lvbench:491,SRq0weUKskM,tag_present,reasoning,lvbench
+lvbench:491,SRq0weUKskM,tag_present,event understanding,lvbench
+lvbench:2079,f8DKD78BrQA,tag_present,entity recognition,lvbench
+lvbench:2079,f8DKD78BrQA,tag_present,key information retrieval,lvbench
+lvbench:135,q01CUy_gwdU,tag_present,temporal grounding,lvbench
+lvbench:135,q01CUy_gwdU,tag_present,reasoning,lvbench
+lvbench:135,q01CUy_gwdU,tag_present,event understanding,lvbench
+lvbench:1829,7HjNIPIgUg4,tag_present,reasoning,lvbench
+lvbench:1829,7HjNIPIgUg4,tag_present,event understanding,lvbench
+lvbench:2390,xECIRjlxM3U,tag_present,event understanding,lvbench
+lvbench:412,HfEVEGf1A8Q,tag_present,event understanding,lvbench
+lvbench:3787,T1yhBv1ytzw,tag_present,entity recognition,lvbench
+lvbench:2265,16Z-XQh9jhk,tag_present,entity recognition,lvbench
+lvbench:126,q01CUy_gwdU,tag_present,entity recognition,lvbench
+lvbench:2597,KbahC-QCKU8,tag_present,temporal grounding,lvbench
+lvbench:2597,KbahC-QCKU8,tag_present,reasoning,lvbench
+lvbench:416,HfEVEGf1A8Q,tag_present,entity recognition,lvbench
+lvbench:2293,idZkam9zqAs,tag_present,key information retrieval,lvbench
+lvbench:503,2sriHX3PbXw,tag_present,entity recognition,lvbench
+lvbench:2807,RbpKkvlHYTw,tag_present,reasoning,lvbench
+lvbench:4331,9-gOCOu_KGU,tag_present,key information retrieval,lvbench
+lvbench:2256,16Z-XQh9jhk,tag_present,temporal grounding,lvbench
+lvbench:2256,16Z-XQh9jhk,tag_present,entity recognition,lvbench
+lvbench:2832,Mcggugol2ts,tag_present,key information retrieval,lvbench
+lvbench:531,2sriHX3PbXw,tag_present,key information retrieval,lvbench
+lvbench:2915,RCAqKnvu_P0,tag_present,event understanding,lvbench
+lvbench:4849,NzCO0G8AGLU,tag_present,event understanding,lvbench
+lvbench:4747,sk00epALZps,tag_present,reasoning,lvbench
+lvbench:54,Za2Z_JRxCuk,tag_present,event understanding,lvbench
+lvbench:4182,KLIa2UaE2KE,tag_present,key information retrieval,lvbench
+lvbench:1928,lDlA7cfNk8A,tag_present,entity recognition,lvbench
+lvbench:4472,CgvJqGxzRfE,tag_present,event understanding,lvbench
+lvbench:4472,CgvJqGxzRfE,tag_present,entity recognition,lvbench
+lvbench:4472,CgvJqGxzRfE,tag_present,key information retrieval,lvbench
+lvbench:1629,vaL_vSdZKZo,tag_present,event understanding,lvbench
+lvbench:3176,uusf1qG_uZ4,tag_present,event understanding,lvbench
+lvbench:3176,uusf1qG_uZ4,tag_present,entity recognition,lvbench
+lvbench:3462,jp2M1hIEtsk,tag_present,entity recognition,lvbench
+lvbench:2805,RbpKkvlHYTw,tag_present,event understanding,lvbench
+lvbench:2805,RbpKkvlHYTw,tag_present,entity recognition,lvbench
+lvbench:62,Cm73ma6Ibcs,tag_present,event understanding,lvbench
+lvbench:4792,AeEYQ62t8hA,tag_present,event understanding,lvbench
+lvbench:4831,NzCO0G8AGLU,tag_present,reasoning,lvbench
+lvbench:3223,LLSJrEgOOtw,tag_present,event understanding,lvbench
+lvbench:1128,Z4HGQL_McDQ,tag_present,entity recognition,lvbench
+lvbench:3174,uusf1qG_uZ4,tag_present,entity recognition,lvbench
+lvbench:3413,1FsiZgGZU70,tag_present,reasoning,lvbench
+lvbench:4339,9-gOCOu_KGU,tag_present,entity recognition,lvbench
+lvbench:4339,9-gOCOu_KGU,tag_present,key information retrieval,lvbench
+lvbench:2250,16Z-XQh9jhk,tag_present,temporal grounding,lvbench
+lvbench:2250,16Z-XQh9jhk,tag_present,entity recognition,lvbench
+lvbench:133,q01CUy_gwdU,tag_present,temporal grounding,lvbench
+lvbench:133,q01CUy_gwdU,tag_present,summarization,lvbench
+lvbench:4498,EwskdNETNx8,tag_present,temporal grounding,lvbench
+lvbench:4498,EwskdNETNx8,tag_present,event understanding,lvbench
+lvbench:753,pXD3txG2bVQ,tag_present,event understanding,lvbench
+lvbench:2502,QB7FoIpx8os,tag_present,entity recognition,lvbench
+lvbench:3453,gbDR39yIs3Y,tag_present,event understanding,lvbench
+lvbench:3027,iA_69g87Ilw,tag_present,event understanding,lvbench
+lvbench:4683,vZV2WCKMsKs,tag_present,entity recognition,lvbench
+lvbench:2176,rk24OUu_kJQ,tag_present,entity recognition,lvbench
+lvbench:487,SRq0weUKskM,tag_present,entity recognition,lvbench
+lvbench:2573,-hgaSElC3wU,tag_present,entity recognition,lvbench
+lvbench:848,TiQBTesZUJQ,tag_present,event understanding,lvbench
+lvbench:848,TiQBTesZUJQ,tag_present,entity recognition,lvbench
+lvbench:2480,QB7FoIpx8os,tag_present,key information retrieval,lvbench
+lvbench:3420,1FsiZgGZU70,tag_present,reasoning,lvbench
+lvbench:3420,1FsiZgGZU70,tag_present,entity recognition,lvbench
+lvbench:2882,_T2Avd3tFHc,tag_present,event understanding,lvbench
+lvbench:2882,_T2Avd3tFHc,tag_present,entity recognition,lvbench
+lvbench:297,qYMnM5blZIE,tag_present,event understanding,lvbench
+lvbench:2779,evYm0cELO3I,tag_present,temporal grounding,lvbench
+lvbench:2779,evYm0cELO3I,tag_present,event understanding,lvbench
+lvbench:2767,evYm0cELO3I,tag_present,entity recognition,lvbench
+lvbench:1099,EpMLAQbSYAw,tag_present,key information retrieval,lvbench
+lvbench:3383,3_upA09AntU,tag_present,event understanding,lvbench
+lvbench:3186,uusf1qG_uZ4,tag_present,entity recognition,lvbench
+lvbench:657,_zrgbA3FMVE,tag_present,event understanding,lvbench
+lvbench:4691,vZV2WCKMsKs,tag_present,entity recognition,lvbench
+lvbench:3419,1FsiZgGZU70,tag_present,event understanding,lvbench
+lvbench:3419,1FsiZgGZU70,tag_present,entity recognition,lvbench
+lvbench:3167,uusf1qG_uZ4,tag_present,reasoning,lvbench
+lvbench:1886,YlQugR7KSKg,tag_present,entity recognition,lvbench
+lvbench:4982,4LA_tH-VSnQ,tag_present,entity recognition,lvbench
+lvbench:736,pXD3txG2bVQ,tag_present,event understanding,lvbench
+lvbench:4980,W-BnDvXXfOs,tag_present,event understanding,lvbench
+lvbench:4980,W-BnDvXXfOs,tag_present,entity recognition,lvbench
+lvbench:4188,KLIa2UaE2KE,tag_present,event understanding,lvbench
+lvbench:2291,idZkam9zqAs,tag_present,entity recognition,lvbench
+lvbench:3785,T1yhBv1ytzw,tag_present,entity recognition,lvbench
+lvbench:1680,t-RtDI2RWQs,tag_present,summarization,lvbench
+lvbench:601,S8vPx-u9p_A,tag_present,event understanding,lvbench
+lvbench:4132,rp4NKWb7dXk,tag_present,entity recognition,lvbench
+lvbench:5129,JTa_Ue2MSwc,tag_present,entity recognition,lvbench
+lvbench:5129,JTa_Ue2MSwc,tag_present,key information retrieval,lvbench
+lvbench:4972,W-BnDvXXfOs,tag_present,key information retrieval,lvbench
+lvbench:50,Za2Z_JRxCuk,tag_present,reasoning,lvbench
+lvbench:5253,moALQl818ZY,tag_present,temporal grounding,lvbench
+lvbench:5253,moALQl818ZY,tag_present,entity recognition,lvbench
+lvbench:2689,tH_5YbklevQ,tag_present,reasoning,lvbench
+lvbench:3446,gbDR39yIs3Y,tag_present,event understanding,lvbench
+lvbench:3446,gbDR39yIs3Y,tag_present,entity recognition,lvbench
+lvbench:3335,O14bbpvy2x0,tag_present,event understanding,lvbench
+lvbench:4325,2LH3JCGkEBU,tag_present,event understanding,lvbench
+lvbench:2728,USfvmoalqsw,tag_present,reasoning,lvbench
+lvbench:4058,cWEnogdsW78,tag_present,entity recognition,lvbench
+lvbench:5127,JTa_Ue2MSwc,tag_present,entity recognition,lvbench
+lvbench:5127,JTa_Ue2MSwc,tag_present,key information retrieval,lvbench
+lvbench:803,XNtNNplAwiI,tag_present,entity recognition,lvbench
+lvbench:2262,16Z-XQh9jhk,tag_present,entity recognition,lvbench
+lvbench:2271,16Z-XQh9jhk,tag_present,reasoning,lvbench
+lvbench:1861,8NHmfpkxTSw,tag_present,key information retrieval,lvbench
+lvbench:4969,W-BnDvXXfOs,tag_present,event understanding,lvbench
+lvbench:1679,t-RtDI2RWQs,tag_present,event understanding,lvbench
+lvbench:1679,t-RtDI2RWQs,tag_present,key information retrieval,lvbench
+lvbench:3098,wgBlACG927Y,tag_present,entity recognition,lvbench
+lvbench:2479,QB7FoIpx8os,tag_present,entity recognition,lvbench
+lvbench:3997,tKIFQI9cH2c,tag_present,key information retrieval,lvbench
+lvbench:3791,T1yhBv1ytzw,tag_present,key information retrieval,lvbench
+lvbench:3490,jp2M1hIEtsk,tag_present,event understanding,lvbench
+lvbench:3472,jp2M1hIEtsk,tag_present,temporal grounding,lvbench
+lvbench:3472,jp2M1hIEtsk,tag_present,summarization,lvbench
+lvbench:2795,RbpKkvlHYTw,tag_present,event understanding,lvbench
+lvbench:1132,Z4HGQL_McDQ,tag_present,key information retrieval,lvbench
+lvbench:2815,Mcggugol2ts,tag_present,event understanding,lvbench
+lvbench:5142,JTa_Ue2MSwc,tag_present,event understanding,lvbench
+lvbench:5142,JTa_Ue2MSwc,tag_present,key information retrieval,lvbench
+lvbench:5061,Vk_Af0htZGU,tag_present,entity recognition,lvbench
+lvbench:3347,O14bbpvy2x0,tag_present,entity recognition,lvbench
+lvbench:3377,3_upA09AntU,tag_present,event understanding,lvbench
+lvbench:3377,3_upA09AntU,tag_present,key information retrieval,lvbench
+lvbench:4104,VTCDQYYKA9o,tag_present,entity recognition,lvbench
+lvbench:2099,FaV0tIaWWEg,tag_present,entity recognition,lvbench
+lvbench:767,RjDrZkBwzho,tag_present,entity recognition,lvbench
+lvbench:2568,-hgaSElC3wU,tag_present,reasoning,lvbench
+lvbench:2568,-hgaSElC3wU,tag_present,event understanding,lvbench
+lvbench:2568,-hgaSElC3wU,tag_present,entity recognition,lvbench
+lvbench:5086,vHlSoxg8WHo,tag_present,key information retrieval,lvbench
+lvbench:4320,2LH3JCGkEBU,tag_present,event understanding,lvbench
+lvbench:3939,Hf-n1yfd8II,tag_present,entity recognition,lvbench
+lvbench:594,S8vPx-u9p_A,tag_present,event understanding,lvbench
+lvbench:1558,IsdbCjlZ5cQ,tag_present,entity recognition,lvbench
+lvbench:2790,RbpKkvlHYTw,tag_present,temporal grounding,lvbench
+lvbench:2790,RbpKkvlHYTw,tag_present,entity recognition,lvbench
+lvbench:3045,iA_69g87Ilw,tag_present,event understanding,lvbench
+lvbench:3352,O14bbpvy2x0,tag_present,event understanding,lvbench
+lvbench:3336,O14bbpvy2x0,tag_present,event understanding,lvbench
+lvbench:3783,T1yhBv1ytzw,tag_present,temporal grounding,lvbench
+lvbench:3783,T1yhBv1ytzw,tag_present,entity recognition,lvbench
+lvbench:752,pXD3txG2bVQ,tag_present,entity recognition,lvbench
+lvbench:3361,O14bbpvy2x0,tag_present,entity recognition,lvbench
+lvbench:2606,KbahC-QCKU8,tag_present,event understanding,lvbench
+lvbench:602,S8vPx-u9p_A,tag_present,entity recognition,lvbench
+lvbench:728,pXD3txG2bVQ,tag_present,event understanding,lvbench
+lvbench:900,5dZ_lvDgevk,tag_present,key information retrieval,lvbench
+lvbench:3416,1FsiZgGZU70,tag_present,entity recognition,lvbench
+lvbench:1626,vaL_vSdZKZo,tag_present,entity recognition,lvbench
+lvbench:26,Za2Z_JRxCuk,tag_present,key information retrieval,lvbench
+lvbench:417,HfEVEGf1A8Q,tag_present,event understanding,lvbench
+lvbench:417,HfEVEGf1A8Q,tag_present,entity recognition,lvbench
+lvbench:117,q01CUy_gwdU,tag_present,event understanding,lvbench
+lvbench:912,5dZ_lvDgevk,tag_present,event understanding,lvbench
+lvbench:302,qYMnM5blZIE,tag_present,event understanding,lvbench
+lvbench:1636,vaL_vSdZKZo,tag_present,event understanding,lvbench
+lvbench:357,gXnhqF0TqqI,tag_present,temporal grounding,lvbench
+lvbench:357,gXnhqF0TqqI,tag_present,event understanding,lvbench
+lvbench:19,qAIRFyR6NyQ,tag_present,event understanding,lvbench
+lvbench:3425,1FsiZgGZU70,tag_present,reasoning,lvbench
+lvbench:3425,1FsiZgGZU70,tag_present,entity recognition,lvbench
+lvbench:1097,EpMLAQbSYAw,tag_present,entity recognition,lvbench
+lvbench:398,HfEVEGf1A8Q,tag_present,entity recognition,lvbench
+lvbench:1757,-WnyRMZqV1U,tag_present,event understanding,lvbench
+lvbench:1757,-WnyRMZqV1U,tag_present,entity recognition,lvbench
+lvbench:4114,rp4NKWb7dXk,tag_present,event understanding,lvbench
+lvbench:1855,8NHmfpkxTSw,tag_present,entity recognition,lvbench
+lvbench:3988,tKIFQI9cH2c,tag_present,event understanding,lvbench
+lvbench:10,qAIRFyR6NyQ,tag_present,reasoning,lvbench
+lvbench:1130,Z4HGQL_McDQ,tag_present,event understanding,lvbench
+lvbench:916,5dZ_lvDgevk,tag_present,temporal grounding,lvbench
+lvbench:916,5dZ_lvDgevk,tag_present,reasoning,lvbench
+lvbench:1320,wNCPgIVz15c,tag_present,entity recognition,lvbench
+lvbench:4345,9-gOCOu_KGU,tag_present,entity recognition,lvbench
+lvbench:4345,9-gOCOu_KGU,tag_present,key information retrieval,lvbench
+lvbench:3248,LLSJrEgOOtw,tag_present,temporal grounding,lvbench
+lvbench:3248,LLSJrEgOOtw,tag_present,key information retrieval,lvbench
+lvbench:1830,7HjNIPIgUg4,tag_present,event understanding,lvbench
+lvbench:3535,oZEVgDXJwCc,tag_present,reasoning,lvbench
+lvbench:4169,KLIa2UaE2KE,tag_present,key information retrieval,lvbench
+lvbench:2121,FaV0tIaWWEg,tag_present,event understanding,lvbench
+lvbench:5148,JTa_Ue2MSwc,tag_present,event understanding,lvbench
+lvbench:5148,JTa_Ue2MSwc,tag_present,key information retrieval,lvbench
+lvbench:4845,NzCO0G8AGLU,tag_present,entity recognition,lvbench
+lvbench:3455,gbDR39yIs3Y,tag_present,reasoning,lvbench
+lvbench:3455,gbDR39yIs3Y,tag_present,key information retrieval,lvbench
+lvbench:82,Cm73ma6Ibcs,tag_present,event understanding,lvbench
+lvbench:304,qYMnM5blZIE,tag_present,event understanding,lvbench
+lvbench:2883,_T2Avd3tFHc,tag_present,entity recognition,lvbench
+lvbench:516,2sriHX3PbXw,tag_present,event understanding,lvbench
+lvbench:516,2sriHX3PbXw,tag_present,entity recognition,lvbench
+lvbench:3802,T1yhBv1ytzw,tag_present,event understanding,lvbench
+lvbench:3802,T1yhBv1ytzw,tag_present,key information retrieval,lvbench
+lvbench:4724,k2FIFQIYBvA,tag_present,key information retrieval,lvbench
+lvbench:4717,k2FIFQIYBvA,tag_present,event understanding,lvbench
+lvbench:1229,aJI8XTa_DII,tag_present,entity recognition,lvbench
+lvbench:2900,RCAqKnvu_P0,tag_present,reasoning,lvbench
+lvbench:2900,RCAqKnvu_P0,tag_present,key information retrieval,lvbench
+lvbench:5171,20lTg3yUrO4,tag_present,event understanding,lvbench
+lvbench:4054,cXDT44zT8JY,tag_present,temporal grounding,lvbench
+lvbench:4054,cXDT44zT8JY,tag_present,entity recognition,lvbench
+lvbench:4961,W-BnDvXXfOs,tag_present,key information retrieval,lvbench
+lvbench:2283,idZkam9zqAs,tag_present,entity recognition,lvbench
+lvbench:5260,moALQl818ZY,tag_present,event understanding,lvbench
+lvbench:2601,KbahC-QCKU8,tag_present,reasoning,lvbench
+lvbench:2601,KbahC-QCKU8,tag_present,event understanding,lvbench
+lvbench:4226,hjoDzK0siaM,tag_present,event understanding,lvbench
+lvbench:1907,YlQugR7KSKg,tag_present,event understanding,lvbench
+lvbench:1907,YlQugR7KSKg,tag_present,entity recognition,lvbench
+lvbench:5038,Vk_Af0htZGU,tag_present,event understanding,lvbench
+lvbench:5038,Vk_Af0htZGU,tag_present,entity recognition,lvbench
+lvbench:532,2sriHX3PbXw,tag_present,event understanding,lvbench
+lvbench:532,2sriHX3PbXw,tag_present,entity recognition,lvbench
+lvbench:254,TJR1oYDDTwg,tag_present,entity recognition,lvbench
+lvbench:4765,sk00epALZps,tag_present,entity recognition,lvbench
+lvbench:2967,JPPMz8fEml0,tag_present,reasoning,lvbench
+lvbench:2456,QWXlvx1GoTY,tag_present,entity recognition,lvbench
+lvbench:5279,moALQl818ZY,tag_present,summarization,lvbench
+lvbench:4694,vZV2WCKMsKs,tag_present,event understanding,lvbench
+lvbench:1586,ihfjEFGdZdc,tag_present,temporal grounding,lvbench
+lvbench:1586,ihfjEFGdZdc,tag_present,event understanding,lvbench
+lvbench:2394,o-gLbgpzCc8,tag_present,entity recognition,lvbench
+lvbench:1109,EpMLAQbSYAw,tag_present,entity recognition,lvbench
+lvbench:637,QgWRyDV9Ozs,tag_present,temporal grounding,lvbench
+lvbench:637,QgWRyDV9Ozs,tag_present,key information retrieval,lvbench
+lvbench:2274,idZkam9zqAs,tag_present,event understanding,lvbench
+lvbench:3792,T1yhBv1ytzw,tag_present,temporal grounding,lvbench
+lvbench:3792,T1yhBv1ytzw,tag_present,entity recognition,lvbench
+lvbench:2750,USfvmoalqsw,tag_present,event understanding,lvbench
+lvbench:2750,USfvmoalqsw,tag_present,entity recognition,lvbench
+lvbench:4496,EwskdNETNx8,tag_present,event understanding,lvbench
+lvbench:911,5dZ_lvDgevk,tag_present,entity recognition,lvbench
+lvbench:1900,YlQugR7KSKg,tag_present,entity recognition,lvbench
+lvbench:4491,EwskdNETNx8,tag_present,entity recognition,lvbench
+lvbench:21,qAIRFyR6NyQ,tag_present,event understanding,lvbench
+lvbench:21,qAIRFyR6NyQ,tag_present,key information retrieval,lvbench
+lvbench:3773,T1yhBv1ytzw,tag_present,event understanding,lvbench
+lvbench:4454,CgvJqGxzRfE,tag_present,entity recognition,lvbench
+lvbench:1322,wNCPgIVz15c,tag_present,entity recognition,lvbench
+lvbench:1937,lDlA7cfNk8A,tag_present,entity recognition,lvbench
+lvbench:5113,pe_LddfHAUU,tag_present,event understanding,lvbench
+lvbench:5113,pe_LddfHAUU,tag_present,entity recognition,lvbench
+lvbench:4706,vZV2WCKMsKs,tag_present,entity recognition,lvbench
+lvbench:5064,vHlSoxg8WHo,tag_present,temporal grounding,lvbench
+lvbench:5064,vHlSoxg8WHo,tag_present,key information retrieval,lvbench
+lvbench:2487,QB7FoIpx8os,tag_present,event understanding,lvbench
+lvbench:8,qAIRFyR6NyQ,tag_present,entity recognition,lvbench
+lvbench:3363,O14bbpvy2x0,tag_present,event understanding,lvbench
+lvbench:1955,8QdE--Y-x7U,tag_present,entity recognition,lvbench
+lvbench:3080,wgBlACG927Y,tag_present,entity recognition,lvbench
+lvbench:5093,vHlSoxg8WHo,tag_present,entity recognition,lvbench
+lvbench:3642,rSE2YPcv89U,tag_present,reasoning,lvbench
+lvbench:2869,_T2Avd3tFHc,tag_present,event understanding,lvbench
+lvbench:2753,evYm0cELO3I,tag_present,entity recognition,lvbench
+lvbench:2753,evYm0cELO3I,tag_present,key information retrieval,lvbench
+lvbench:2809,RbpKkvlHYTw,tag_present,entity recognition,lvbench
+lvbench:2809,RbpKkvlHYTw,tag_present,key information retrieval,lvbench
+lvbench:2893,_T2Avd3tFHc,tag_present,event understanding,lvbench
+lvbench:1617,vaL_vSdZKZo,tag_present,entity recognition,lvbench
+lvbench:341,gXnhqF0TqqI,tag_present,event understanding,lvbench
+lvbench:1114,Z4HGQL_McDQ,tag_present,temporal grounding,lvbench
+lvbench:1114,Z4HGQL_McDQ,tag_present,event understanding,lvbench
+lvbench:399,HfEVEGf1A8Q,tag_present,reasoning,lvbench
+lvbench:399,HfEVEGf1A8Q,tag_present,event understanding,lvbench
+lvbench:4027,JlrzSvCsIjE,tag_present,summarization,lvbench
+lvbench:278,TJR1oYDDTwg,tag_present,reasoning,lvbench
+lvbench:3392,3_upA09AntU,tag_present,temporal grounding,lvbench
+lvbench:3392,3_upA09AntU,tag_present,key information retrieval,lvbench
+lvbench:998,GcRKREorGSc,tag_present,event understanding,lvbench
+lvbench:998,GcRKREorGSc,tag_present,entity recognition,lvbench
+lvbench:2113,FaV0tIaWWEg,tag_present,event understanding,lvbench
+lvbench:2113,FaV0tIaWWEg,tag_present,key information retrieval,lvbench
+lvbench:3480,jp2M1hIEtsk,tag_present,entity recognition,lvbench
+lvbench:542,81SbCR6p3Z0,tag_present,temporal grounding,lvbench
+lvbench:542,81SbCR6p3Z0,tag_present,reasoning,lvbench
+lvbench:999,GcRKREorGSc,tag_present,event understanding,lvbench
+lvbench:999,GcRKREorGSc,tag_present,entity recognition,lvbench
+lvbench:2965,JPPMz8fEml0,tag_present,key information retrieval,lvbench
+lvbench:2483,QB7FoIpx8os,tag_present,temporal grounding,lvbench
+lvbench:2483,QB7FoIpx8os,tag_present,reasoning,lvbench
+lvbench:1703,t-RtDI2RWQs,tag_present,reasoning,lvbench
+lvbench:255,TJR1oYDDTwg,tag_present,reasoning,lvbench
+lvbench:255,TJR1oYDDTwg,tag_present,entity recognition,lvbench
+lvbench:1758,-WnyRMZqV1U,tag_present,entity recognition,lvbench
+lvbench:1758,-WnyRMZqV1U,tag_present,key information retrieval,lvbench
+lvbench:561,81SbCR6p3Z0,tag_present,temporal grounding,lvbench
+lvbench:561,81SbCR6p3Z0,tag_present,entity recognition,lvbench
+lvbench:3937,Hf-n1yfd8II,tag_present,entity recognition,lvbench
+lvbench:5145,JTa_Ue2MSwc,tag_present,entity recognition,lvbench
+lvbench:5145,JTa_Ue2MSwc,tag_present,key information retrieval,lvbench
+lvbench:5114,pe_LddfHAUU,tag_present,key information retrieval,lvbench
+lvbench:484,SRq0weUKskM,tag_present,entity recognition,lvbench
+lvbench:668,_zrgbA3FMVE,tag_present,entity recognition,lvbench
+lvbench:3102,wgBlACG927Y,tag_present,entity recognition,lvbench
+lvbench:3529,oZEVgDXJwCc,tag_present,temporal grounding,lvbench
+lvbench:3529,oZEVgDXJwCc,tag_present,reasoning,lvbench
+lvbench:4838,NzCO0G8AGLU,tag_present,temporal grounding,lvbench
+lvbench:4838,NzCO0G8AGLU,tag_present,key information retrieval,lvbench
+lvbench:136,q01CUy_gwdU,tag_present,event understanding,lvbench
+lvbench:1330,wNCPgIVz15c,tag_present,event understanding,lvbench
+lvbench:3978,tKIFQI9cH2c,tag_present,event understanding,lvbench
+lvbench:5118,pe_LddfHAUU,tag_present,key information retrieval,lvbench
+lvbench:4789,AeEYQ62t8hA,tag_present,event understanding,lvbench
+lvbench:2898,RCAqKnvu_P0,tag_present,temporal grounding,lvbench
+lvbench:2898,RCAqKnvu_P0,tag_present,entity recognition,lvbench
+lvbench:913,5dZ_lvDgevk,tag_present,key information retrieval,lvbench
+lvbench:773,RjDrZkBwzho,tag_present,entity recognition,lvbench
+lvbench:2729,USfvmoalqsw,tag_present,event understanding,lvbench
+lvbench:617,S8vPx-u9p_A,tag_present,entity recognition,lvbench
+lvbench:603,S8vPx-u9p_A,tag_present,entity recognition,lvbench
+lvbench:1746,-WnyRMZqV1U,tag_present,entity recognition,lvbench
+lvbench:2175,rk24OUu_kJQ,tag_present,event understanding,lvbench
+lvbench:3118,2zkJFv-ro4A,tag_present,temporal grounding,lvbench
+lvbench:3118,2zkJFv-ro4A,tag_present,entity recognition,lvbench
+lvbench:4976,W-BnDvXXfOs,tag_present,entity recognition,lvbench
+lvbench:5124,pe_LddfHAUU,tag_present,reasoning,lvbench
+lvbench:5124,pe_LddfHAUU,tag_present,key information retrieval,lvbench
+nextgqa:7238677454:4,7238677454,native,CW,nextgqa
+nextgqa:7238677454:4,7238677454,coarse,causal,nextgqa
+nextgqa:4086138523:2,4086138523,native,CW,nextgqa
+nextgqa:4086138523:2,4086138523,coarse,causal,nextgqa
+nextgqa:3672431760:1,3672431760,native,TN,nextgqa
+nextgqa:3672431760:1,3672431760,coarse,temporal,nextgqa
+nextgqa:5678689001:3,5678689001,native,TC,nextgqa
+nextgqa:5678689001:3,5678689001,coarse,temporal,nextgqa
+nextgqa:2924847675:7,2924847675,native,TN,nextgqa
+nextgqa:2924847675:7,2924847675,coarse,temporal,nextgqa
+nextgqa:4834895241:5,4834895241,native,CW,nextgqa
+nextgqa:4834895241:5,4834895241,coarse,causal,nextgqa
+nextgqa:7533206274:3,7533206274,native,CW,nextgqa
+nextgqa:7533206274:3,7533206274,coarse,causal,nextgqa
+nextgqa:4922092172:7,4922092172,native,CW,nextgqa
+nextgqa:4922092172:7,4922092172,coarse,causal,nextgqa
+nextgqa:11794871936:3,11794871936,native,CW,nextgqa
+nextgqa:11794871936:3,11794871936,coarse,causal,nextgqa
+nextgqa:2416632400:1,2416632400,native,CW,nextgqa
+nextgqa:2416632400:1,2416632400,coarse,causal,nextgqa
+nextgqa:4561357748:3,4561357748,native,CW,nextgqa
+nextgqa:4561357748:3,4561357748,coarse,causal,nextgqa
+nextgqa:2822110402:5,2822110402,native,CH,nextgqa
+nextgqa:2822110402:5,2822110402,coarse,causal,nextgqa
+nextgqa:3439955661:2,3439955661,native,CW,nextgqa
+nextgqa:3439955661:2,3439955661,coarse,causal,nextgqa
+nextgqa:8499569359:4,8499569359,native,TC,nextgqa
+nextgqa:8499569359:4,8499569359,coarse,temporal,nextgqa
+nextgqa:3332953908:1,3332953908,native,CW,nextgqa
+nextgqa:3332953908:1,3332953908,coarse,causal,nextgqa
+nextgqa:6042037966:4,6042037966,native,CW,nextgqa
+nextgqa:6042037966:4,6042037966,coarse,causal,nextgqa
+nextgqa:2676529856:6,2676529856,native,TN,nextgqa
+nextgqa:2676529856:6,2676529856,coarse,temporal,nextgqa
+nextgqa:4167294363:4,4167294363,native,CW,nextgqa
+nextgqa:4167294363:4,4167294363,coarse,causal,nextgqa
+nextgqa:4892549531:0,4892549531,native,CW,nextgqa
+nextgqa:4892549531:0,4892549531,coarse,causal,nextgqa
+nextgqa:12427023395:4,12427023395,native,CH,nextgqa
+nextgqa:12427023395:4,12427023395,coarse,causal,nextgqa
+nextgqa:3312292397:8,3312292397,native,CW,nextgqa
+nextgqa:3312292397:8,3312292397,coarse,causal,nextgqa
+nextgqa:4890173699:3,4890173699,native,TC,nextgqa
+nextgqa:4890173699:3,4890173699,coarse,temporal,nextgqa
+nextgqa:3294811247:2,3294811247,native,TN,nextgqa
+nextgqa:3294811247:2,3294811247,coarse,temporal,nextgqa
+nextgqa:3631211612:0,3631211612,native,CW,nextgqa
+nextgqa:3631211612:0,3631211612,coarse,causal,nextgqa
+nextgqa:5445670939:6,5445670939,native,TC,nextgqa
+nextgqa:5445670939:6,5445670939,coarse,temporal,nextgqa
+nextgqa:9528960175:0,9528960175,native,TN,nextgqa
+nextgqa:9528960175:0,9528960175,coarse,temporal,nextgqa
+nextgqa:5589529025:0,5589529025,native,CW,nextgqa
+nextgqa:5589529025:0,5589529025,coarse,causal,nextgqa
+nextgqa:5728022703:5,5728022703,native,TC,nextgqa
+nextgqa:5728022703:5,5728022703,coarse,temporal,nextgqa
+nextgqa:10682218035:5,10682218035,native,TN,nextgqa
+nextgqa:10682218035:5,10682218035,coarse,temporal,nextgqa
+nextgqa:8340480194:3,8340480194,native,CW,nextgqa
+nextgqa:8340480194:3,8340480194,coarse,causal,nextgqa
+nextgqa:3204890216:5,3204890216,native,TN,nextgqa
+nextgqa:3204890216:5,3204890216,coarse,temporal,nextgqa
+nextgqa:2828927371:1,2828927371,native,CW,nextgqa
+nextgqa:2828927371:1,2828927371,coarse,causal,nextgqa
+nextgqa:6045316181:12,6045316181,native,TN,nextgqa
+nextgqa:6045316181:12,6045316181,coarse,temporal,nextgqa
+nextgqa:6279934011:1,6279934011,native,CW,nextgqa
+nextgqa:6279934011:1,6279934011,coarse,causal,nextgqa
+nextgqa:5553110507:2,5553110507,native,TN,nextgqa
+nextgqa:5553110507:2,5553110507,coarse,temporal,nextgqa
+nextgqa:3081360150:8,3081360150,native,CW,nextgqa
+nextgqa:3081360150:8,3081360150,coarse,causal,nextgqa
+nextgqa:3223951946:2,3223951946,native,CW,nextgqa
+nextgqa:3223951946:2,3223951946,coarse,causal,nextgqa
+nextgqa:4522565412:2,4522565412,native,CW,nextgqa
+nextgqa:4522565412:2,4522565412,coarse,causal,nextgqa
+nextgqa:12397126264:2,12397126264,native,CH,nextgqa
+nextgqa:12397126264:2,12397126264,coarse,causal,nextgqa
+nextgqa:6802770639:4,6802770639,native,CW,nextgqa
+nextgqa:6802770639:4,6802770639,coarse,causal,nextgqa
+nextgqa:7331895158:6,7331895158,native,CW,nextgqa
+nextgqa:7331895158:6,7331895158,coarse,causal,nextgqa
+nextgqa:2906386126:3,2906386126,native,TC,nextgqa
+nextgqa:2906386126:3,2906386126,coarse,temporal,nextgqa
+nextgqa:13887487955:5,13887487955,native,TN,nextgqa
+nextgqa:13887487955:5,13887487955,coarse,temporal,nextgqa
+nextgqa:6071633426:1,6071633426,native,CW,nextgqa
+nextgqa:6071633426:1,6071633426,coarse,causal,nextgqa
+nextgqa:2925748611:2,2925748611,native,CW,nextgqa
+nextgqa:2925748611:2,2925748611,coarse,causal,nextgqa
+nextgqa:2811954360:4,2811954360,native,CW,nextgqa
+nextgqa:2811954360:4,2811954360,coarse,causal,nextgqa
+nextgqa:5875210125:8,5875210125,native,TN,nextgqa
+nextgqa:5875210125:8,5875210125,coarse,temporal,nextgqa
+nextgqa:2419603277:4,2419603277,native,TP,nextgqa
+nextgqa:2419603277:4,2419603277,coarse,temporal,nextgqa
+nextgqa:2449442559:6,2449442559,native,TN,nextgqa
+nextgqa:2449442559:6,2449442559,coarse,temporal,nextgqa
+nextgqa:3057454440:1,3057454440,native,CW,nextgqa
+nextgqa:3057454440:1,3057454440,coarse,causal,nextgqa
+nextgqa:8759087873:7,8759087873,native,TN,nextgqa
+nextgqa:8759087873:7,8759087873,coarse,temporal,nextgqa
+nextgqa:6029706386:5,6029706386,native,CH,nextgqa
+nextgqa:6029706386:5,6029706386,coarse,causal,nextgqa
+nextgqa:3705663920:3,3705663920,native,CH,nextgqa
+nextgqa:3705663920:3,3705663920,coarse,causal,nextgqa
+nextgqa:3759094243:0,3759094243,native,TN,nextgqa
+nextgqa:3759094243:0,3759094243,coarse,temporal,nextgqa
+nextgqa:2756607919:5,2756607919,native,TC,nextgqa
+nextgqa:2756607919:5,2756607919,coarse,temporal,nextgqa
+nextgqa:11794871936:6,11794871936,native,TC,nextgqa
+nextgqa:11794871936:6,11794871936,coarse,temporal,nextgqa
+nextgqa:3425409935:0,3425409935,native,CW,nextgqa
+nextgqa:3425409935:0,3425409935,coarse,causal,nextgqa
+nextgqa:5589529025:1,5589529025,native,CH,nextgqa
+nextgqa:5589529025:1,5589529025,coarse,causal,nextgqa
+nextgqa:4097448142:7,4097448142,native,TN,nextgqa
+nextgqa:4097448142:7,4097448142,coarse,temporal,nextgqa
+nextgqa:4181802718:7,4181802718,native,TN,nextgqa
+nextgqa:4181802718:7,4181802718,coarse,temporal,nextgqa
+nextgqa:11019529085:1,11019529085,native,TC,nextgqa
+nextgqa:11019529085:1,11019529085,coarse,temporal,nextgqa
+nextgqa:5563357894:0,5563357894,native,CH,nextgqa
+nextgqa:5563357894:0,5563357894,coarse,causal,nextgqa
+nextgqa:9667167640:5,9667167640,native,TN,nextgqa
+nextgqa:9667167640:5,9667167640,coarse,temporal,nextgqa
+nextgqa:4740931975:1,4740931975,native,CW,nextgqa
+nextgqa:4740931975:1,4740931975,coarse,causal,nextgqa
+nextgqa:4188739935:0,4188739935,native,CW,nextgqa
+nextgqa:4188739935:0,4188739935,coarse,causal,nextgqa
+nextgqa:4997304873:9,4997304873,native,CH,nextgqa
+nextgqa:4997304873:9,4997304873,coarse,causal,nextgqa
+nextgqa:8208916209:0,8208916209,native,CW,nextgqa
+nextgqa:8208916209:0,8208916209,coarse,causal,nextgqa
+nextgqa:13516621384:3,13516621384,native,CW,nextgqa
+nextgqa:13516621384:3,13516621384,coarse,causal,nextgqa
+nextgqa:5514739631:4,5514739631,native,CW,nextgqa
+nextgqa:5514739631:4,5514739631,coarse,causal,nextgqa
+nextgqa:5012237466:0,5012237466,native,CW,nextgqa
+nextgqa:5012237466:0,5012237466,coarse,causal,nextgqa
+nextgqa:3606510307:5,3606510307,native,TP,nextgqa
+nextgqa:3606510307:5,3606510307,coarse,temporal,nextgqa
+nextgqa:6129191741:0,6129191741,native,CW,nextgqa
+nextgqa:6129191741:0,6129191741,coarse,causal,nextgqa
+nextgqa:7238677454:3,7238677454,native,CH,nextgqa
+nextgqa:7238677454:3,7238677454,coarse,causal,nextgqa
+nextgqa:2891522362:4,2891522362,native,TN,nextgqa
+nextgqa:2891522362:4,2891522362,coarse,temporal,nextgqa
+nextgqa:12299711406:7,12299711406,native,TN,nextgqa
+nextgqa:12299711406:7,12299711406,coarse,temporal,nextgqa
+nextgqa:9221389917:1,9221389917,native,CW,nextgqa
+nextgqa:9221389917:1,9221389917,coarse,causal,nextgqa
+nextgqa:4315349265:7,4315349265,native,CH,nextgqa
+nextgqa:4315349265:7,4315349265,coarse,causal,nextgqa
+nextgqa:2493035685:6,2493035685,native,TC,nextgqa
+nextgqa:2493035685:6,2493035685,coarse,temporal,nextgqa
+nextgqa:4177367968:3,4177367968,native,TC,nextgqa
+nextgqa:4177367968:3,4177367968,coarse,temporal,nextgqa
+nextgqa:3416303524:4,3416303524,native,TN,nextgqa
+nextgqa:3416303524:4,3416303524,coarse,temporal,nextgqa
+nextgqa:8283116453:0,8283116453,native,CW,nextgqa
+nextgqa:8283116453:0,8283116453,coarse,causal,nextgqa
+nextgqa:3524009829:0,3524009829,native,CW,nextgqa
+nextgqa:3524009829:0,3524009829,coarse,causal,nextgqa
+nextgqa:3312292397:6,3312292397,native,TN,nextgqa
+nextgqa:3312292397:6,3312292397,coarse,temporal,nextgqa
+nextgqa:5880312109:5,5880312109,native,CW,nextgqa
+nextgqa:5880312109:5,5880312109,coarse,causal,nextgqa
+nextgqa:4273509832:0,4273509832,native,CW,nextgqa
+nextgqa:4273509832:0,4273509832,coarse,causal,nextgqa
+nextgqa:3223951946:1,3223951946,native,CW,nextgqa
+nextgqa:3223951946:1,3223951946,coarse,causal,nextgqa
+nextgqa:3305288577:7,3305288577,native,TC,nextgqa
+nextgqa:3305288577:7,3305288577,coarse,temporal,nextgqa
+nextgqa:5965267539:7,5965267539,native,TC,nextgqa
+nextgqa:5965267539:7,5965267539,coarse,temporal,nextgqa
+nextgqa:12427023395:5,12427023395,native,TN,nextgqa
+nextgqa:12427023395:5,12427023395,coarse,temporal,nextgqa
+nextgqa:3728184329:5,3728184329,native,CH,nextgqa
+nextgqa:3728184329:5,3728184329,coarse,causal,nextgqa
+nextgqa:6031282471:4,6031282471,native,TN,nextgqa
+nextgqa:6031282471:4,6031282471,coarse,temporal,nextgqa
+nextgqa:3615527856:0,3615527856,native,CW,nextgqa
+nextgqa:3615527856:0,3615527856,coarse,causal,nextgqa
+nextgqa:4967866673:1,4967866673,native,CH,nextgqa
+nextgqa:4967866673:1,4967866673,coarse,causal,nextgqa
+nextgqa:4830393131:9,4830393131,native,TN,nextgqa
+nextgqa:4830393131:9,4830393131,coarse,temporal,nextgqa
+nextgqa:5093765132:4,5093765132,native,TC,nextgqa
+nextgqa:5093765132:4,5093765132,coarse,temporal,nextgqa
+nextgqa:7375575700:4,7375575700,native,TN,nextgqa
+nextgqa:7375575700:4,7375575700,coarse,temporal,nextgqa
+nextgqa:4693242968:1,4693242968,native,TC,nextgqa
+nextgqa:4693242968:1,4693242968,coarse,temporal,nextgqa
+nextgqa:3516935615:1,3516935615,native,TC,nextgqa
+nextgqa:3516935615:1,3516935615,coarse,temporal,nextgqa
+nextgqa:8617869131:1,8617869131,native,CW,nextgqa
+nextgqa:8617869131:1,8617869131,coarse,causal,nextgqa
+nextgqa:6663770743:6,6663770743,native,CW,nextgqa
+nextgqa:6663770743:6,6663770743,coarse,causal,nextgqa
+nextgqa:6292691001:0,6292691001,native,CW,nextgqa
+nextgqa:6292691001:0,6292691001,coarse,causal,nextgqa
+nextgqa:2924847675:3,2924847675,native,CW,nextgqa
+nextgqa:2924847675:3,2924847675,coarse,causal,nextgqa
+nextgqa:6320611157:7,6320611157,native,TN,nextgqa
+nextgqa:6320611157:7,6320611157,coarse,temporal,nextgqa
+nextgqa:3167311763:7,3167311763,native,TN,nextgqa
+nextgqa:3167311763:7,3167311763,coarse,temporal,nextgqa
+nextgqa:8235000713:6,8235000713,native,TC,nextgqa
+nextgqa:8235000713:6,8235000713,coarse,temporal,nextgqa
+nextgqa:4444103383:6,4444103383,native,CW,nextgqa
+nextgqa:4444103383:6,4444103383,coarse,causal,nextgqa
+nextgqa:4158599646:1,4158599646,native,CW,nextgqa
+nextgqa:4158599646:1,4158599646,coarse,causal,nextgqa
+nextgqa:2818950014:0,2818950014,native,CW,nextgqa
+nextgqa:2818950014:0,2818950014,coarse,causal,nextgqa
+nextgqa:9072405003:6,9072405003,native,TN,nextgqa
+nextgqa:9072405003:6,9072405003,coarse,temporal,nextgqa
+nextgqa:4124400853:8,4124400853,native,CW,nextgqa
+nextgqa:4124400853:8,4124400853,coarse,causal,nextgqa
+nextgqa:5750350083:7,5750350083,native,TN,nextgqa
+nextgqa:5750350083:7,5750350083,coarse,temporal,nextgqa
+nextgqa:2407193002:7,2407193002,native,TN,nextgqa
+nextgqa:2407193002:7,2407193002,coarse,temporal,nextgqa
+nextgqa:2930921250:3,2930921250,native,TN,nextgqa
+nextgqa:2930921250:3,2930921250,coarse,temporal,nextgqa
+nextgqa:13482206704:2,13482206704,native,TN,nextgqa
+nextgqa:13482206704:2,13482206704,coarse,temporal,nextgqa
+nextgqa:4740345442:6,4740345442,native,TN,nextgqa
+nextgqa:4740345442:6,4740345442,coarse,temporal,nextgqa
+nextgqa:7000450111:0,7000450111,native,TC,nextgqa
+nextgqa:7000450111:0,7000450111,coarse,temporal,nextgqa
+nextgqa:6199427603:2,6199427603,native,CW,nextgqa
+nextgqa:6199427603:2,6199427603,coarse,causal,nextgqa
+nextgqa:5445670939:10,5445670939,native,TN,nextgqa
+nextgqa:5445670939:10,5445670939,coarse,temporal,nextgqa
+nextgqa:2971706210:7,2971706210,native,CW,nextgqa
+nextgqa:2971706210:7,2971706210,coarse,causal,nextgqa
+nextgqa:5646554288:2,5646554288,native,CH,nextgqa
+nextgqa:5646554288:2,5646554288,coarse,causal,nextgqa
+nextgqa:5706585620:2,5706585620,native,CH,nextgqa
+nextgqa:5706585620:2,5706585620,coarse,causal,nextgqa
+nextgqa:2976591964:5,2976591964,native,CW,nextgqa
+nextgqa:2976591964:5,2976591964,coarse,causal,nextgqa
+nextgqa:4839003204:5,4839003204,native,CW,nextgqa
+nextgqa:4839003204:5,4839003204,coarse,causal,nextgqa
+nextgqa:5493350492:1,5493350492,native,CH,nextgqa
+nextgqa:5493350492:1,5493350492,coarse,causal,nextgqa
+nextgqa:4578959773:7,4578959773,native,TC,nextgqa
+nextgqa:4578959773:7,4578959773,coarse,temporal,nextgqa
+nextgqa:8666185192:3,8666185192,native,CW,nextgqa
+nextgqa:8666185192:3,8666185192,coarse,causal,nextgqa
+nextgqa:3804458046:2,3804458046,native,TC,nextgqa
+nextgqa:3804458046:2,3804458046,coarse,temporal,nextgqa
+nextgqa:4522298433:9,4522298433,native,CW,nextgqa
+nextgqa:4522298433:9,4522298433,coarse,causal,nextgqa
+nextgqa:4625256813:1,4625256813,native,CW,nextgqa
+nextgqa:4625256813:1,4625256813,coarse,causal,nextgqa
+nextgqa:10316970886:3,10316970886,native,CW,nextgqa
+nextgqa:10316970886:3,10316970886,coarse,causal,nextgqa
+nextgqa:7916860778:5,7916860778,native,TN,nextgqa
+nextgqa:7916860778:5,7916860778,coarse,temporal,nextgqa
+nextgqa:13259212584:4,13259212584,native,CH,nextgqa
+nextgqa:13259212584:4,13259212584,coarse,causal,nextgqa
+nextgqa:9175646479:5,9175646479,native,CW,nextgqa
+nextgqa:9175646479:5,9175646479,coarse,causal,nextgqa
+nextgqa:8900428927:5,8900428927,native,CH,nextgqa
+nextgqa:8900428927:5,8900428927,coarse,causal,nextgqa
+nextgqa:7473257354:3,7473257354,native,CW,nextgqa
+nextgqa:7473257354:3,7473257354,coarse,causal,nextgqa
+nextgqa:7064920441:4,7064920441,native,CW,nextgqa
+nextgqa:7064920441:4,7064920441,coarse,causal,nextgqa
+nextgqa:6975125131:0,6975125131,native,TC,nextgqa
+nextgqa:6975125131:0,6975125131,coarse,temporal,nextgqa
+nextgqa:2621535368:0,2621535368,native,CW,nextgqa
+nextgqa:2621535368:0,2621535368,coarse,causal,nextgqa
+nextgqa:2976591964:3,2976591964,native,TN,nextgqa
+nextgqa:2976591964:3,2976591964,coarse,temporal,nextgqa
+nextgqa:4775972536:0,4775972536,native,CW,nextgqa
+nextgqa:4775972536:0,4775972536,coarse,causal,nextgqa
+nextgqa:3141532836:4,3141532836,native,CW,nextgqa
+nextgqa:3141532836:4,3141532836,coarse,causal,nextgqa
+nextgqa:5646554288:4,5646554288,native,CH,nextgqa
+nextgqa:5646554288:4,5646554288,coarse,causal,nextgqa
+nextgqa:4474292288:5,4474292288,native,CW,nextgqa
+nextgqa:4474292288:5,4474292288,coarse,causal,nextgqa
+nextgqa:9023339404:2,9023339404,native,TC,nextgqa
+nextgqa:9023339404:2,9023339404,coarse,temporal,nextgqa
+nextgqa:4968786437:0,4968786437,native,CW,nextgqa
+nextgqa:4968786437:0,4968786437,coarse,causal,nextgqa
+nextgqa:6320611157:4,6320611157,native,TC,nextgqa
+nextgqa:6320611157:4,6320611157,coarse,temporal,nextgqa
+nextgqa:2676529856:3,2676529856,native,CW,nextgqa
+nextgqa:2676529856:3,2676529856,coarse,causal,nextgqa
+nextgqa:9528960175:1,9528960175,native,TN,nextgqa
+nextgqa:9528960175:1,9528960175,coarse,temporal,nextgqa
+nextgqa:4903593284:4,4903593284,native,TN,nextgqa
+nextgqa:4903593284:4,4903593284,coarse,temporal,nextgqa
+nextgqa:2669597217:2,2669597217,native,CW,nextgqa
+nextgqa:2669597217:2,2669597217,coarse,causal,nextgqa
+nextgqa:2562087639:4,2562087639,native,CH,nextgqa
+nextgqa:2562087639:4,2562087639,coarse,causal,nextgqa
+nextgqa:3426605205:2,3426605205,native,CW,nextgqa
+nextgqa:3426605205:2,3426605205,coarse,causal,nextgqa
+nextgqa:5139599690:0,5139599690,native,CW,nextgqa
+nextgqa:5139599690:0,5139599690,coarse,causal,nextgqa
+nextgqa:3255908815:4,3255908815,native,CW,nextgqa
+nextgqa:3255908815:4,3255908815,coarse,causal,nextgqa
+nextgqa:2562087639:2,2562087639,native,TC,nextgqa
+nextgqa:2562087639:2,2562087639,coarse,temporal,nextgqa
+nextgqa:6975125131:3,6975125131,native,CH,nextgqa
+nextgqa:6975125131:3,6975125131,coarse,causal,nextgqa
+nextgqa:4250191168:2,4250191168,native,CW,nextgqa
+nextgqa:4250191168:2,4250191168,coarse,causal,nextgqa
+nextgqa:3626207014:6,3626207014,native,CH,nextgqa
+nextgqa:3626207014:6,3626207014,coarse,causal,nextgqa
+nextgqa:5969368435:4,5969368435,native,TN,nextgqa
+nextgqa:5969368435:4,5969368435,coarse,temporal,nextgqa
+nextgqa:3621121750:1,3621121750,native,CW,nextgqa
+nextgqa:3621121750:1,3621121750,coarse,causal,nextgqa
+nextgqa:5012237466:9,5012237466,native,TN,nextgqa
+nextgqa:5012237466:9,5012237466,coarse,temporal,nextgqa
+nextgqa:3593365697:7,3593365697,native,CW,nextgqa
+nextgqa:3593365697:7,3593365697,coarse,causal,nextgqa
+nextgqa:4522565412:5,4522565412,native,CW,nextgqa
+nextgqa:4522565412:5,4522565412,coarse,causal,nextgqa
+nextgqa:3900682951:1,3900682951,native,CW,nextgqa
+nextgqa:3900682951:1,3900682951,coarse,causal,nextgqa
+nextgqa:5925869325:8,5925869325,native,TN,nextgqa
+nextgqa:5925869325:8,5925869325,coarse,temporal,nextgqa
+nextgqa:8666744695:5,8666744695,native,TC,nextgqa
+nextgqa:8666744695:5,8666744695,coarse,temporal,nextgqa
+nextgqa:2956081853:6,2956081853,native,TN,nextgqa
+nextgqa:2956081853:6,2956081853,coarse,temporal,nextgqa
+nextgqa:4180380438:1,4180380438,native,TC,nextgqa
+nextgqa:4180380438:1,4180380438,coarse,temporal,nextgqa
+nextgqa:8227806049:2,8227806049,native,TP,nextgqa
+nextgqa:8227806049:2,8227806049,coarse,temporal,nextgqa
+nextgqa:2876084443:7,2876084443,native,TN,nextgqa
+nextgqa:2876084443:7,2876084443,coarse,temporal,nextgqa
+nextgqa:4084841090:0,4084841090,native,CW,nextgqa
+nextgqa:4084841090:0,4084841090,coarse,causal,nextgqa
+nextgqa:8109777832:10,8109777832,native,TN,nextgqa
+nextgqa:8109777832:10,8109777832,coarse,temporal,nextgqa
+nextgqa:4863455612:2,4863455612,native,CW,nextgqa
+nextgqa:4863455612:2,4863455612,coarse,causal,nextgqa
+nextgqa:5750350083:1,5750350083,native,CH,nextgqa
+nextgqa:5750350083:1,5750350083,coarse,causal,nextgqa
+nextgqa:4641631235:3,4641631235,native,CW,nextgqa
+nextgqa:4641631235:3,4641631235,coarse,causal,nextgqa
+nextgqa:9297698436:3,9297698436,native,TN,nextgqa
+nextgqa:9297698436:3,9297698436,coarse,temporal,nextgqa
+nextgqa:4641631235:7,4641631235,native,TN,nextgqa
+nextgqa:4641631235:7,4641631235,coarse,temporal,nextgqa
+nextgqa:2811954360:1,2811954360,native,CW,nextgqa
+nextgqa:2811954360:1,2811954360,coarse,causal,nextgqa
+nextgqa:7691046836:4,7691046836,native,TC,nextgqa
+nextgqa:7691046836:4,7691046836,coarse,temporal,nextgqa
+nextgqa:4740345442:2,4740345442,native,CW,nextgqa
+nextgqa:4740345442:2,4740345442,coarse,causal,nextgqa
+nextgqa:2744507539:7,2744507539,native,CW,nextgqa
+nextgqa:2744507539:7,2744507539,coarse,causal,nextgqa
+nextgqa:2876825076:8,2876825076,native,TN,nextgqa
+nextgqa:2876825076:8,2876825076,coarse,temporal,nextgqa
+nextgqa:2405004230:10,2405004230,native,TC,nextgqa
+nextgqa:2405004230:10,2405004230,coarse,temporal,nextgqa
+nextgqa:5297426137:2,5297426137,native,CW,nextgqa
+nextgqa:5297426137:2,5297426137,coarse,causal,nextgqa
+nextgqa:5131508387:7,5131508387,native,CH,nextgqa
+nextgqa:5131508387:7,5131508387,coarse,causal,nextgqa
+nextgqa:3739319683:0,3739319683,native,CW,nextgqa
+nextgqa:3739319683:0,3739319683,coarse,causal,nextgqa
+nextgqa:2416632400:2,2416632400,native,TC,nextgqa
+nextgqa:2416632400:2,2416632400,coarse,temporal,nextgqa
+nextgqa:7344039494:3,7344039494,native,TC,nextgqa
+nextgqa:7344039494:3,7344039494,coarse,temporal,nextgqa
+nextgqa:7916860778:1,7916860778,native,CW,nextgqa
+nextgqa:7916860778:1,7916860778,coarse,causal,nextgqa
+nextgqa:11278971046:4,11278971046,native,CH,nextgqa
+nextgqa:11278971046:4,11278971046,coarse,causal,nextgqa
+nextgqa:3329878386:5,3329878386,native,TN,nextgqa
+nextgqa:3329878386:5,3329878386,coarse,temporal,nextgqa
+nextgqa:5012237466:3,5012237466,native,TC,nextgqa
+nextgqa:5012237466:3,5012237466,coarse,temporal,nextgqa
+nextgqa:3205604574:0,3205604574,native,CW,nextgqa
+nextgqa:3205604574:0,3205604574,coarse,causal,nextgqa
+nextgqa:9935699345:3,9935699345,native,TN,nextgqa
+nextgqa:9935699345:3,9935699345,coarse,temporal,nextgqa
+nextgqa:4825019426:0,4825019426,native,CW,nextgqa
+nextgqa:4825019426:0,4825019426,coarse,causal,nextgqa
+nextgqa:3992773451:2,3992773451,native,TN,nextgqa
+nextgqa:3992773451:2,3992773451,coarse,temporal,nextgqa
+nextgqa:3020343223:9,3020343223,native,CW,nextgqa
+nextgqa:3020343223:9,3020343223,coarse,causal,nextgqa
+nextgqa:3111307977:4,3111307977,native,CH,nextgqa
+nextgqa:3111307977:4,3111307977,coarse,causal,nextgqa
+nextgqa:7957216542:4,7957216542,native,TC,nextgqa
+nextgqa:7957216542:4,7957216542,coarse,temporal,nextgqa
+nextgqa:4968786437:1,4968786437,native,CW,nextgqa
+nextgqa:4968786437:1,4968786437,coarse,causal,nextgqa
+nextgqa:4561357748:0,4561357748,native,TN,nextgqa
+nextgqa:4561357748:0,4561357748,coarse,temporal,nextgqa
+nextgqa:8576727783:6,8576727783,native,CW,nextgqa
+nextgqa:8576727783:6,8576727783,coarse,causal,nextgqa
+nextgqa:8652248426:4,8652248426,native,CW,nextgqa
+nextgqa:8652248426:4,8652248426,coarse,causal,nextgqa
+nextgqa:12753577835:1,12753577835,native,CW,nextgqa
+nextgqa:12753577835:1,12753577835,coarse,causal,nextgqa
+nextgqa:8277189448:8,8277189448,native,TN,nextgqa
+nextgqa:8277189448:8,8277189448,coarse,temporal,nextgqa
+nextgqa:3065858527:5,3065858527,native,CW,nextgqa
+nextgqa:3065858527:5,3065858527,coarse,causal,nextgqa
+nextgqa:4123808525:5,4123808525,native,CH,nextgqa
+nextgqa:4123808525:5,4123808525,coarse,causal,nextgqa
+nextgqa:4959088086:8,4959088086,native,CW,nextgqa
+nextgqa:4959088086:8,4959088086,coarse,causal,nextgqa
+nextgqa:11169386614:5,11169386614,native,CW,nextgqa
+nextgqa:11169386614:5,11169386614,coarse,causal,nextgqa
+nextgqa:8109777832:1,8109777832,native,CW,nextgqa
+nextgqa:8109777832:1,8109777832,coarse,causal,nextgqa
+nextgqa:4775972536:7,4775972536,native,CH,nextgqa
+nextgqa:4775972536:7,4775972536,coarse,causal,nextgqa
+nextgqa:8466126930:5,8466126930,native,CH,nextgqa
+nextgqa:8466126930:5,8466126930,coarse,causal,nextgqa
+nextgqa:3491310026:1,3491310026,native,CW,nextgqa
+nextgqa:3491310026:1,3491310026,coarse,causal,nextgqa
+nextgqa:3579030253:9,3579030253,native,TC,nextgqa
+nextgqa:3579030253:9,3579030253,coarse,temporal,nextgqa
+nextgqa:7587067930:6,7587067930,native,TN,nextgqa
+nextgqa:7587067930:6,7587067930,coarse,temporal,nextgqa
+nextgqa:2679006680:7,2679006680,native,TN,nextgqa
+nextgqa:2679006680:7,2679006680,coarse,temporal,nextgqa
+nextgqa:10985344225:6,10985344225,native,CH,nextgqa
+nextgqa:10985344225:6,10985344225,coarse,causal,nextgqa
+nextgqa:11169386614:3,11169386614,native,CW,nextgqa
+nextgqa:11169386614:3,11169386614,coarse,causal,nextgqa
+nextgqa:6546241805:6,6546241805,native,TN,nextgqa
+nextgqa:6546241805:6,6546241805,coarse,temporal,nextgqa
+nextgqa:2547320060:1,2547320060,native,CW,nextgqa
+nextgqa:2547320060:1,2547320060,coarse,causal,nextgqa
+nextgqa:4675888059:10,4675888059,native,CW,nextgqa
+nextgqa:4675888059:10,4675888059,coarse,causal,nextgqa
+nextgqa:6257273545:4,6257273545,native,TN,nextgqa
+nextgqa:6257273545:4,6257273545,coarse,temporal,nextgqa
+nextgqa:5832442216:3,5832442216,native,CW,nextgqa
+nextgqa:5832442216:3,5832442216,coarse,causal,nextgqa
+nextgqa:3201948915:4,3201948915,native,TC,nextgqa
+nextgqa:3201948915:4,3201948915,coarse,temporal,nextgqa
+nextgqa:4203080888:0,4203080888,native,TC,nextgqa
+nextgqa:4203080888:0,4203080888,coarse,temporal,nextgqa
+nextgqa:12427023395:2,12427023395,native,TC,nextgqa
+nextgqa:12427023395:2,12427023395,coarse,temporal,nextgqa
+nextgqa:4311927018:4,4311927018,native,CW,nextgqa
+nextgqa:4311927018:4,4311927018,coarse,causal,nextgqa
+nextgqa:2794873229:3,2794873229,native,TC,nextgqa
+nextgqa:2794873229:3,2794873229,coarse,temporal,nextgqa
+nextgqa:6608631231:3,6608631231,native,TN,nextgqa
+nextgqa:6608631231:3,6608631231,coarse,temporal,nextgqa
+nextgqa:8632946304:3,8632946304,native,CW,nextgqa
+nextgqa:8632946304:3,8632946304,coarse,causal,nextgqa
+nextgqa:7198714574:4,7198714574,native,TC,nextgqa
+nextgqa:7198714574:4,7198714574,coarse,temporal,nextgqa
+nextgqa:3524009829:2,3524009829,native,CW,nextgqa
+nextgqa:3524009829:2,3524009829,coarse,causal,nextgqa
+nextgqa:5864047618:8,5864047618,native,TC,nextgqa
+nextgqa:5864047618:8,5864047618,coarse,temporal,nextgqa
+nextgqa:5807908661:4,5807908661,native,TC,nextgqa
+nextgqa:5807908661:4,5807908661,coarse,temporal,nextgqa
+nextgqa:4771022581:8,4771022581,native,CW,nextgqa
+nextgqa:4771022581:8,4771022581,coarse,causal,nextgqa
+nextgqa:4945866176:4,4945866176,native,CH,nextgqa
+nextgqa:4945866176:4,4945866176,coarse,causal,nextgqa
+nextgqa:2404303400:5,2404303400,native,CW,nextgqa
+nextgqa:2404303400:5,2404303400,coarse,causal,nextgqa
+nextgqa:2517097455:11,2517097455,native,CH,nextgqa
+nextgqa:2517097455:11,2517097455,coarse,causal,nextgqa
+nextgqa:4742652230:4,4742652230,native,TN,nextgqa
+nextgqa:4742652230:4,4742652230,coarse,temporal,nextgqa
+nextgqa:3804458046:0,3804458046,native,CW,nextgqa
+nextgqa:3804458046:0,3804458046,coarse,causal,nextgqa
+nextgqa:4084841090:2,4084841090,native,TP,nextgqa
+nextgqa:4084841090:2,4084841090,coarse,temporal,nextgqa
+nextgqa:4930378590:0,4930378590,native,CW,nextgqa
+nextgqa:4930378590:0,4930378590,coarse,causal,nextgqa
+nextgqa:4738042036:5,4738042036,native,CH,nextgqa
+nextgqa:4738042036:5,4738042036,coarse,causal,nextgqa
+nextgqa:3060640279:5,3060640279,native,CW,nextgqa
+nextgqa:3060640279:5,3060640279,coarse,causal,nextgqa
+nextgqa:2996876993:6,2996876993,native,TN,nextgqa
+nextgqa:2996876993:6,2996876993,coarse,temporal,nextgqa
+nextgqa:5929534589:1,5929534589,native,CW,nextgqa
+nextgqa:5929534589:1,5929534589,coarse,causal,nextgqa
+nextgqa:4576992325:6,4576992325,native,CH,nextgqa
+nextgqa:4576992325:6,4576992325,coarse,causal,nextgqa
+nextgqa:3491310026:2,3491310026,native,CW,nextgqa
+nextgqa:3491310026:2,3491310026,coarse,causal,nextgqa
+nextgqa:4758751564:1,4758751564,native,CW,nextgqa
+nextgqa:4758751564:1,4758751564,coarse,causal,nextgqa
+nextgqa:5031339015:0,5031339015,native,CW,nextgqa
+nextgqa:5031339015:0,5031339015,coarse,causal,nextgqa
+nextgqa:3653430541:2,3653430541,native,CW,nextgqa
+nextgqa:3653430541:2,3653430541,coarse,causal,nextgqa
+nextgqa:7530704768:9,7530704768,native,TN,nextgqa
+nextgqa:7530704768:9,7530704768,coarse,temporal,nextgqa
+nextgqa:3183346596:4,3183346596,native,TN,nextgqa
+nextgqa:3183346596:4,3183346596,coarse,temporal,nextgqa
+nextgqa:4522565412:3,4522565412,native,CW,nextgqa
+nextgqa:4522565412:3,4522565412,coarse,causal,nextgqa
+nextgqa:3631211612:3,3631211612,native,CW,nextgqa
+nextgqa:3631211612:3,3631211612,coarse,causal,nextgqa
+nextgqa:5402233708:5,5402233708,native,CW,nextgqa
+nextgqa:5402233708:5,5402233708,coarse,causal,nextgqa
+nextgqa:5750350083:2,5750350083,native,CW,nextgqa
+nextgqa:5750350083:2,5750350083,coarse,causal,nextgqa
+nextgqa:6181099606:3,6181099606,native,CW,nextgqa
+nextgqa:6181099606:3,6181099606,coarse,causal,nextgqa
+nextgqa:2925748611:8,2925748611,native,CW,nextgqa
+nextgqa:2925748611:8,2925748611,coarse,causal,nextgqa
+nextgqa:3599210242:6,3599210242,native,CW,nextgqa
+nextgqa:3599210242:6,3599210242,coarse,causal,nextgqa
+nextgqa:4124400853:3,4124400853,native,CW,nextgqa
+nextgqa:4124400853:3,4124400853,coarse,causal,nextgqa
+nextgqa:3842392593:8,3842392593,native,TN,nextgqa
+nextgqa:3842392593:8,3842392593,coarse,temporal,nextgqa
+nextgqa:8201826598:6,8201826598,native,CW,nextgqa
+nextgqa:8201826598:6,8201826598,coarse,causal,nextgqa
+nextgqa:2889738670:3,2889738670,native,TC,nextgqa
+nextgqa:2889738670:3,2889738670,coarse,temporal,nextgqa
+nextgqa:3089060111:5,3089060111,native,TC,nextgqa
+nextgqa:3089060111:5,3089060111,coarse,temporal,nextgqa
+nextgqa:4363482648:0,4363482648,native,TN,nextgqa
+nextgqa:4363482648:0,4363482648,coarse,temporal,nextgqa
+nextgqa:6851952624:7,6851952624,native,TN,nextgqa
+nextgqa:6851952624:7,6851952624,coarse,temporal,nextgqa
+nextgqa:5965267539:3,5965267539,native,CW,nextgqa
+nextgqa:5965267539:3,5965267539,coarse,causal,nextgqa
+nextgqa:5650793185:4,5650793185,native,TC,nextgqa
+nextgqa:5650793185:4,5650793185,coarse,temporal,nextgqa
+nextgqa:3216757365:0,3216757365,native,CH,nextgqa
+nextgqa:3216757365:0,3216757365,coarse,causal,nextgqa
+nextgqa:5306556049:3,5306556049,native,CW,nextgqa
+nextgqa:5306556049:3,5306556049,coarse,causal,nextgqa
+nextgqa:2621535368:4,2621535368,native,CW,nextgqa
+nextgqa:2621535368:4,2621535368,coarse,causal,nextgqa
+nextgqa:4622742353:8,4622742353,native,TN,nextgqa
+nextgqa:4622742353:8,4622742353,coarse,temporal,nextgqa
+nextgqa:8666744695:8,8666744695,native,TN,nextgqa
+nextgqa:8666744695:8,8666744695,coarse,temporal,nextgqa
+nextgqa:5913320110:7,5913320110,native,CW,nextgqa
+nextgqa:5913320110:7,5913320110,coarse,causal,nextgqa
+nextgqa:6181099606:5,6181099606,native,TN,nextgqa
+nextgqa:6181099606:5,6181099606,coarse,temporal,nextgqa
+nextgqa:3653430541:5,3653430541,native,TC,nextgqa
+nextgqa:3653430541:5,3653430541,coarse,temporal,nextgqa
+nextgqa:5818846033:2,5818846033,native,CW,nextgqa
+nextgqa:5818846033:2,5818846033,coarse,causal,nextgqa
+nextgqa:8857007026:8,8857007026,native,CH,nextgqa
+nextgqa:8857007026:8,8857007026,coarse,causal,nextgqa
+nextgqa:8245178837:6,8245178837,native,CW,nextgqa
+nextgqa:8245178837:6,8245178837,coarse,causal,nextgqa
+nextgqa:11794880314:4,11794880314,native,CW,nextgqa
+nextgqa:11794880314:4,11794880314,coarse,causal,nextgqa
+nextgqa:3205604574:6,3205604574,native,CH,nextgqa
+nextgqa:3205604574:6,3205604574,coarse,causal,nextgqa
+nextgqa:10483027904:9,10483027904,native,TC,nextgqa
+nextgqa:10483027904:9,10483027904,coarse,temporal,nextgqa
+nextgqa:4892549531:9,4892549531,native,TN,nextgqa
+nextgqa:4892549531:9,4892549531,coarse,temporal,nextgqa
+nextgqa:10278239024:2,10278239024,native,CW,nextgqa
+nextgqa:10278239024:2,10278239024,coarse,causal,nextgqa
+nextgqa:2569826147:1,2569826147,native,CW,nextgqa
+nextgqa:2569826147:1,2569826147,coarse,causal,nextgqa
+nextgqa:2811954360:2,2811954360,native,TC,nextgqa
+nextgqa:2811954360:2,2811954360,coarse,temporal,nextgqa
+nextgqa:4220559457:8,4220559457,native,TN,nextgqa
+nextgqa:4220559457:8,4220559457,coarse,temporal,nextgqa
+nextgqa:6419015349:8,6419015349,native,TN,nextgqa
+nextgqa:6419015349:8,6419015349,coarse,temporal,nextgqa
+nextgqa:7011018565:8,7011018565,native,TN,nextgqa
+nextgqa:7011018565:8,7011018565,coarse,temporal,nextgqa
+nextgqa:12078592673:5,12078592673,native,TN,nextgqa
+nextgqa:12078592673:5,12078592673,coarse,temporal,nextgqa
+nextgqa:7975528915:6,7975528915,native,CH,nextgqa
+nextgqa:7975528915:6,7975528915,coarse,causal,nextgqa
+nextgqa:7242577724:4,7242577724,native,CW,nextgqa
+nextgqa:7242577724:4,7242577724,coarse,causal,nextgqa
+nextgqa:7108622827:2,7108622827,native,TC,nextgqa
+nextgqa:7108622827:2,7108622827,coarse,temporal,nextgqa
+nextgqa:3672431760:8,3672431760,native,TC,nextgqa
+nextgqa:3672431760:8,3672431760,coarse,temporal,nextgqa
+nextgqa:3172491020:7,3172491020,native,TN,nextgqa
+nextgqa:3172491020:7,3172491020,coarse,temporal,nextgqa
+nextgqa:5728022703:6,5728022703,native,TC,nextgqa
+nextgqa:5728022703:6,5728022703,coarse,temporal,nextgqa
+nextgqa:4978371835:4,4978371835,native,TC,nextgqa
+nextgqa:4978371835:4,4978371835,coarse,temporal,nextgqa
+nextgqa:4474292288:0,4474292288,native,CW,nextgqa
+nextgqa:4474292288:0,4474292288,coarse,causal,nextgqa
+nextgqa:10173643695:8,10173643695,native,CW,nextgqa
+nextgqa:10173643695:8,10173643695,coarse,causal,nextgqa
+nextgqa:4198999510:7,4198999510,native,TC,nextgqa
+nextgqa:4198999510:7,4198999510,coarse,temporal,nextgqa
+nextgqa:3835096097:3,3835096097,native,CW,nextgqa
+nextgqa:3835096097:3,3835096097,coarse,causal,nextgqa
+nextgqa:7530907250:0,7530907250,native,CW,nextgqa
+nextgqa:7530907250:0,7530907250,coarse,causal,nextgqa
+nextgqa:5750350083:4,5750350083,native,CH,nextgqa
+nextgqa:5750350083:4,5750350083,coarse,causal,nextgqa
+nextgqa:2927365215:1,2927365215,native,TN,nextgqa
+nextgqa:2927365215:1,2927365215,coarse,temporal,nextgqa
+nextgqa:7757567866:2,7757567866,native,CW,nextgqa
+nextgqa:7757567866:2,7757567866,coarse,causal,nextgqa
+nextgqa:6378153655:0,6378153655,native,TC,nextgqa
+nextgqa:6378153655:0,6378153655,coarse,temporal,nextgqa
+nextgqa:6029706386:8,6029706386,native,TN,nextgqa
+nextgqa:6029706386:8,6029706386,coarse,temporal,nextgqa
+nextgqa:4536434821:4,4536434821,native,CW,nextgqa
+nextgqa:4536434821:4,4536434821,coarse,causal,nextgqa
+nextgqa:3459862895:7,3459862895,native,TC,nextgqa
+nextgqa:3459862895:7,3459862895,coarse,temporal,nextgqa
+nextgqa:4220559457:2,4220559457,native,CH,nextgqa
+nextgqa:4220559457:2,4220559457,coarse,causal,nextgqa
+nextgqa:6557505435:5,6557505435,native,CW,nextgqa
+nextgqa:6557505435:5,6557505435,coarse,causal,nextgqa
+nextgqa:7580367082:4,7580367082,native,TN,nextgqa
+nextgqa:7580367082:4,7580367082,coarse,temporal,nextgqa
+nextgqa:12068876905:3,12068876905,native,CH,nextgqa
+nextgqa:12068876905:3,12068876905,coarse,causal,nextgqa
+nextgqa:7757567866:3,7757567866,native,CW,nextgqa
+nextgqa:7757567866:3,7757567866,coarse,causal,nextgqa
+nextgqa:6546241805:8,6546241805,native,CW,nextgqa
+nextgqa:6546241805:8,6546241805,coarse,causal,nextgqa
+nextgqa:4863455612:6,4863455612,native,CH,nextgqa
+nextgqa:4863455612:6,4863455612,coarse,causal,nextgqa
+nextgqa:5608598769:8,5608598769,native,CW,nextgqa
+nextgqa:5608598769:8,5608598769,coarse,causal,nextgqa
+nextgqa:3006009155:0,3006009155,native,CW,nextgqa
+nextgqa:3006009155:0,3006009155,coarse,causal,nextgqa
+nextgqa:3579030253:11,3579030253,native,TN,nextgqa
+nextgqa:3579030253:11,3579030253,coarse,temporal,nextgqa
+nextgqa:8686938112:4,8686938112,native,CH,nextgqa
+nextgqa:8686938112:4,8686938112,coarse,causal,nextgqa
+nextgqa:3003152116:3,3003152116,native,TP,nextgqa
+nextgqa:3003152116:3,3003152116,coarse,temporal,nextgqa
+nextgqa:8064396272:4,8064396272,native,CW,nextgqa
+nextgqa:8064396272:4,8064396272,coarse,causal,nextgqa
+nextgqa:8507883824:6,8507883824,native,CH,nextgqa
+nextgqa:8507883824:6,8507883824,coarse,causal,nextgqa
+nextgqa:4656745906:5,4656745906,native,CW,nextgqa
+nextgqa:4656745906:5,4656745906,coarse,causal,nextgqa
+nextgqa:10109006686:3,10109006686,native,CW,nextgqa
+nextgqa:10109006686:3,10109006686,coarse,causal,nextgqa
+nextgqa:3575108079:1,3575108079,native,CW,nextgqa
+nextgqa:3575108079:1,3575108079,coarse,causal,nextgqa
+nextgqa:2405004230:3,2405004230,native,CW,nextgqa
+nextgqa:2405004230:3,2405004230,coarse,causal,nextgqa
+nextgqa:2482233944:5,2482233944,native,CW,nextgqa
+nextgqa:2482233944:5,2482233944,coarse,causal,nextgqa
+nextgqa:5544695007:3,5544695007,native,CW,nextgqa
+nextgqa:5544695007:3,5544695007,coarse,causal,nextgqa
+nextgqa:3210170020:2,3210170020,native,CW,nextgqa
+nextgqa:3210170020:2,3210170020,coarse,causal,nextgqa
+nextgqa:8900428927:13,8900428927,native,TN,nextgqa
+nextgqa:8900428927:13,8900428927,coarse,temporal,nextgqa
+nextgqa:6936757706:6,6936757706,native,CH,nextgqa
+nextgqa:6936757706:6,6936757706,coarse,causal,nextgqa
+nextgqa:8499569359:1,8499569359,native,CH,nextgqa
+nextgqa:8499569359:1,8499569359,coarse,causal,nextgqa
+nextgqa:5818846033:7,5818846033,native,CH,nextgqa
+nextgqa:5818846033:7,5818846033,coarse,causal,nextgqa
+nextgqa:3540508501:8,3540508501,native,TN,nextgqa
+nextgqa:3540508501:8,3540508501,coarse,temporal,nextgqa
+nextgqa:2623063774:6,2623063774,native,TN,nextgqa
+nextgqa:2623063774:6,2623063774,coarse,temporal,nextgqa
+nextgqa:2982867777:9,2982867777,native,CW,nextgqa
+nextgqa:2982867777:9,2982867777,coarse,causal,nextgqa
+nextgqa:5499561130:10,5499561130,native,CH,nextgqa
+nextgqa:5499561130:10,5499561130,coarse,causal,nextgqa
+nextgqa:8032967534:8,8032967534,native,CH,nextgqa
+nextgqa:8032967534:8,8032967534,coarse,causal,nextgqa
+nextgqa:5602364659:6,5602364659,native,CW,nextgqa
+nextgqa:5602364659:6,5602364659,coarse,causal,nextgqa
+nextgqa:5478970215:9,5478970215,native,CW,nextgqa
+nextgqa:5478970215:9,5478970215,coarse,causal,nextgqa
+nextgqa:4107499066:5,4107499066,native,CH,nextgqa
+nextgqa:4107499066:5,4107499066,coarse,causal,nextgqa
+nextgqa:3685025683:3,3685025683,native,TC,nextgqa
+nextgqa:3685025683:3,3685025683,coarse,temporal,nextgqa
+nextgqa:2965378944:8,2965378944,native,CW,nextgqa
+nextgqa:2965378944:8,2965378944,coarse,causal,nextgqa
+nextgqa:5433704698:4,5433704698,native,CW,nextgqa
+nextgqa:5433704698:4,5433704698,coarse,causal,nextgqa
+nextgqa:4880611877:1,4880611877,native,CW,nextgqa
+nextgqa:4880611877:1,4880611877,coarse,causal,nextgqa
+nextgqa:2756607919:2,2756607919,native,TC,nextgqa
+nextgqa:2756607919:2,2756607919,coarse,temporal,nextgqa
+nextgqa:6045316181:4,6045316181,native,TC,nextgqa
+nextgqa:6045316181:4,6045316181,coarse,temporal,nextgqa
+nextgqa:2621535368:7,2621535368,native,TN,nextgqa
+nextgqa:2621535368:7,2621535368,coarse,temporal,nextgqa
+nextgqa:4086138523:0,4086138523,native,TC,nextgqa
+nextgqa:4086138523:0,4086138523,coarse,temporal,nextgqa
+nextgqa:6764483319:7,6764483319,native,TN,nextgqa
+nextgqa:6764483319:7,6764483319,coarse,temporal,nextgqa
+nextgqa:13166998645:2,13166998645,native,CW,nextgqa
+nextgqa:13166998645:2,13166998645,coarse,causal,nextgqa
+nextgqa:3835096097:7,3835096097,native,TN,nextgqa
+nextgqa:3835096097:7,3835096097,coarse,temporal,nextgqa
+nextgqa:2956081853:7,2956081853,native,TN,nextgqa
+nextgqa:2956081853:7,2956081853,coarse,temporal,nextgqa
+nextgqa:10747331063:2,10747331063,native,CW,nextgqa
+nextgqa:10747331063:2,10747331063,coarse,causal,nextgqa
+nextgqa:11794880314:0,11794880314,native,CW,nextgqa
+nextgqa:11794880314:0,11794880314,coarse,causal,nextgqa
+nextgqa:4945866176:2,4945866176,native,CW,nextgqa
+nextgqa:4945866176:2,4945866176,coarse,causal,nextgqa
+nextgqa:13199465314:3,13199465314,native,TC,nextgqa
+nextgqa:13199465314:3,13199465314,coarse,temporal,nextgqa
+nextgqa:3485555298:1,3485555298,native,CH,nextgqa
+nextgqa:3485555298:1,3485555298,coarse,causal,nextgqa
+nextgqa:3659989604:1,3659989604,native,CW,nextgqa
+nextgqa:3659989604:1,3659989604,coarse,causal,nextgqa
+nextgqa:9023339404:3,9023339404,native,CW,nextgqa
+nextgqa:9023339404:3,9023339404,coarse,causal,nextgqa
+nextgqa:4839003204:3,4839003204,native,TC,nextgqa
+nextgqa:4839003204:3,4839003204,coarse,temporal,nextgqa
+nextgqa:3121452683:3,3121452683,native,CW,nextgqa
+nextgqa:3121452683:3,3121452683,coarse,causal,nextgqa
+nextgqa:5093765132:1,5093765132,native,CW,nextgqa
+nextgqa:5093765132:1,5093765132,coarse,causal,nextgqa
+nextgqa:5608598769:3,5608598769,native,CW,nextgqa
+nextgqa:5608598769:3,5608598769,coarse,causal,nextgqa
+nextgqa:3060640279:3,3060640279,native,CW,nextgqa
+nextgqa:3060640279:3,3060640279,coarse,causal,nextgqa
+nextgqa:3769795457:2,3769795457,native,CH,nextgqa
+nextgqa:3769795457:2,3769795457,coarse,causal,nextgqa
+nextgqa:3557601110:6,3557601110,native,TC,nextgqa
+nextgqa:3557601110:6,3557601110,coarse,temporal,nextgqa
+nextgqa:10495085476:4,10495085476,native,TN,nextgqa
+nextgqa:10495085476:4,10495085476,coarse,temporal,nextgqa
+nextgqa:3740849151:1,3740849151,native,CW,nextgqa
+nextgqa:3740849151:1,3740849151,coarse,causal,nextgqa
+nextgqa:8111513362:6,8111513362,native,TN,nextgqa
+nextgqa:8111513362:6,8111513362,coarse,temporal,nextgqa
+nextgqa:6279934011:2,6279934011,native,CW,nextgqa
+nextgqa:6279934011:2,6279934011,coarse,causal,nextgqa
+nextgqa:3516935615:4,3516935615,native,TN,nextgqa
+nextgqa:3516935615:4,3516935615,coarse,temporal,nextgqa
+nextgqa:7527437500:0,7527437500,native,CW,nextgqa
+nextgqa:7527437500:0,7527437500,coarse,causal,nextgqa
+nextgqa:10128261054:6,10128261054,native,TN,nextgqa
+nextgqa:10128261054:6,10128261054,coarse,temporal,nextgqa
+nextgqa:3384417792:4,3384417792,native,CH,nextgqa
+nextgqa:3384417792:4,3384417792,coarse,causal,nextgqa
+nextgqa:8245178837:4,8245178837,native,CW,nextgqa
+nextgqa:8245178837:4,8245178837,coarse,causal,nextgqa
+nextgqa:11400037054:7,11400037054,native,TN,nextgqa
+nextgqa:11400037054:7,11400037054,coarse,temporal,nextgqa
+nextgqa:5912473393:4,5912473393,native,CW,nextgqa
+nextgqa:5912473393:4,5912473393,coarse,causal,nextgqa
+nextgqa:4945866176:0,4945866176,native,CH,nextgqa
+nextgqa:4945866176:0,4945866176,coarse,causal,nextgqa
+nextgqa:2414043078:6,2414043078,native,CW,nextgqa
+nextgqa:2414043078:6,2414043078,coarse,causal,nextgqa
+nextgqa:3628972520:2,3628972520,native,CW,nextgqa
+nextgqa:3628972520:2,3628972520,coarse,causal,nextgqa
+nextgqa:2481132749:7,2481132749,native,TN,nextgqa
+nextgqa:2481132749:7,2481132749,coarse,temporal,nextgqa
+nextgqa:4315349265:4,4315349265,native,TN,nextgqa
+nextgqa:4315349265:4,4315349265,coarse,temporal,nextgqa
+nextgqa:6339181867:5,6339181867,native,CH,nextgqa
+nextgqa:6339181867:5,6339181867,coarse,causal,nextgqa
+nextgqa:2547320060:4,2547320060,native,CW,nextgqa
+nextgqa:2547320060:4,2547320060,coarse,causal,nextgqa
+nextgqa:6181099606:1,6181099606,native,CW,nextgqa
+nextgqa:6181099606:1,6181099606,coarse,causal,nextgqa
+nextgqa:2676529856:7,2676529856,native,TN,nextgqa
+nextgqa:2676529856:7,2676529856,coarse,temporal,nextgqa
+nextgqa:5183812946:7,5183812946,native,TC,nextgqa
+nextgqa:5183812946:7,5183812946,coarse,temporal,nextgqa
+nextgqa:4937654460:0,4937654460,native,TC,nextgqa
+nextgqa:4937654460:0,4937654460,coarse,temporal,nextgqa
+nextgqa:12427023395:0,12427023395,native,CW,nextgqa
+nextgqa:12427023395:0,12427023395,coarse,causal,nextgqa
+nextgqa:12257884095:3,12257884095,native,CW,nextgqa
+nextgqa:12257884095:3,12257884095,coarse,causal,nextgqa
+nextgqa:3495630576:3,3495630576,native,TN,nextgqa
+nextgqa:3495630576:3,3495630576,coarse,temporal,nextgqa
+nextgqa:12299711406:4,12299711406,native,CW,nextgqa
+nextgqa:12299711406:4,12299711406,coarse,causal,nextgqa
+nextgqa:3510222236:3,3510222236,native,CH,nextgqa
+nextgqa:3510222236:3,3510222236,coarse,causal,nextgqa
+nextgqa:3068792452:0,3068792452,native,CW,nextgqa
+nextgqa:3068792452:0,3068792452,coarse,causal,nextgqa
+nextgqa:4834895241:3,4834895241,native,CW,nextgqa
+nextgqa:4834895241:3,4834895241,coarse,causal,nextgqa
+nextgqa:3625960287:10,3625960287,native,TC,nextgqa
+nextgqa:3625960287:10,3625960287,coarse,temporal,nextgqa
+nextgqa:4032595511:2,4032595511,native,CW,nextgqa
+nextgqa:4032595511:2,4032595511,coarse,causal,nextgqa
+nextgqa:3655493767:1,3655493767,native,CW,nextgqa
+nextgqa:3655493767:1,3655493767,coarse,causal,nextgqa
+nextgqa:3557601110:10,3557601110,native,TN,nextgqa
+nextgqa:3557601110:10,3557601110,coarse,temporal,nextgqa
+nextgqa:3701219945:9,3701219945,native,TN,nextgqa
+nextgqa:3701219945:9,3701219945,coarse,temporal,nextgqa
+nextgqa:2758135371:1,2758135371,native,CH,nextgqa
+nextgqa:2758135371:1,2758135371,coarse,causal,nextgqa
+nextgqa:4978371835:0,4978371835,native,CW,nextgqa
+nextgqa:4978371835:0,4978371835,coarse,causal,nextgqa
+nextgqa:4578959773:3,4578959773,native,CW,nextgqa
+nextgqa:4578959773:3,4578959773,coarse,causal,nextgqa
+nextgqa:6579160577:7,6579160577,native,TN,nextgqa
+nextgqa:6579160577:7,6579160577,coarse,temporal,nextgqa
+nextgqa:7011018565:6,7011018565,native,TN,nextgqa
+nextgqa:7011018565:6,7011018565,coarse,temporal,nextgqa
+nextgqa:4273509832:4,4273509832,native,CW,nextgqa
+nextgqa:4273509832:4,4273509832,coarse,causal,nextgqa
+nextgqa:4430422083:2,4430422083,native,CW,nextgqa
+nextgqa:4430422083:2,4430422083,coarse,causal,nextgqa
+nextgqa:8208916209:5,8208916209,native,TN,nextgqa
+nextgqa:8208916209:5,8208916209,coarse,temporal,nextgqa
+nextgqa:3608098943:7,3608098943,native,TC,nextgqa
+nextgqa:3608098943:7,3608098943,coarse,temporal,nextgqa
+nextgqa:8501394817:0,8501394817,native,CH,nextgqa
+nextgqa:8501394817:0,8501394817,coarse,causal,nextgqa
+nextgqa:4084841090:1,4084841090,native,TN,nextgqa
+nextgqa:4084841090:1,4084841090,coarse,temporal,nextgqa
+nextgqa:3216757365:6,3216757365,native,TC,nextgqa
+nextgqa:3216757365:6,3216757365,coarse,temporal,nextgqa
+nextgqa:8857007026:1,8857007026,native,CW,nextgqa
+nextgqa:8857007026:1,8857007026,coarse,causal,nextgqa
+nextgqa:2623764605:5,2623764605,native,TC,nextgqa
+nextgqa:2623764605:5,2623764605,coarse,temporal,nextgqa
+nextgqa:12753577835:4,12753577835,native,TN,nextgqa
+nextgqa:12753577835:4,12753577835,coarse,temporal,nextgqa
+nextgqa:2589833495:6,2589833495,native,TN,nextgqa
+nextgqa:2589833495:6,2589833495,coarse,temporal,nextgqa
+nextgqa:4740545679:5,4740545679,native,TN,nextgqa
+nextgqa:4740545679:5,4740545679,coarse,temporal,nextgqa
+nextgqa:4326843514:4,4326843514,native,TC,nextgqa
+nextgqa:4326843514:4,4326843514,coarse,temporal,nextgqa
+nextgqa:3201948915:2,3201948915,native,TC,nextgqa
+nextgqa:3201948915:2,3201948915,coarse,temporal,nextgqa
+nextgqa:3672431760:3,3672431760,native,CW,nextgqa
+nextgqa:3672431760:3,3672431760,coarse,causal,nextgqa
+nextgqa:3701219945:6,3701219945,native,CH,nextgqa
+nextgqa:3701219945:6,3701219945,coarse,causal,nextgqa
+nextgqa:3697296215:6,3697296215,native,CW,nextgqa
+nextgqa:3697296215:6,3697296215,coarse,causal,nextgqa
+nextgqa:3896532533:2,3896532533,native,CW,nextgqa
+nextgqa:3896532533:2,3896532533,coarse,causal,nextgqa
+nextgqa:7742310064:1,7742310064,native,CH,nextgqa
+nextgqa:7742310064:1,7742310064,coarse,causal,nextgqa
+nextgqa:5918453123:5,5918453123,native,CW,nextgqa
+nextgqa:5918453123:5,5918453123,coarse,causal,nextgqa
+nextgqa:6862984319:5,6862984319,native,TN,nextgqa
+nextgqa:6862984319:5,6862984319,coarse,temporal,nextgqa
+nextgqa:3360208610:2,3360208610,native,CW,nextgqa
+nextgqa:3360208610:2,3360208610,coarse,causal,nextgqa
+nextgqa:7530704768:7,7530704768,native,TC,nextgqa
+nextgqa:7530704768:7,7530704768,coarse,temporal,nextgqa
+nextgqa:8625406771:6,8625406771,native,TN,nextgqa
+nextgqa:8625406771:6,8625406771,coarse,temporal,nextgqa
+nextgqa:10734790773:4,10734790773,native,CW,nextgqa
+nextgqa:10734790773:4,10734790773,coarse,causal,nextgqa
+nextgqa:3440542069:6,3440542069,native,TC,nextgqa
+nextgqa:3440542069:6,3440542069,coarse,temporal,nextgqa
+nextgqa:4127483344:1,4127483344,native,TN,nextgqa
+nextgqa:4127483344:1,4127483344,coarse,temporal,nextgqa
+nextgqa:11506594895:2,11506594895,native,TN,nextgqa
+nextgqa:11506594895:2,11506594895,coarse,temporal,nextgqa
+nextgqa:4000445275:2,4000445275,native,CW,nextgqa
+nextgqa:4000445275:2,4000445275,coarse,causal,nextgqa
+nextgqa:7276759062:4,7276759062,native,TN,nextgqa
+nextgqa:7276759062:4,7276759062,coarse,temporal,nextgqa
+nextgqa:5646554288:9,5646554288,native,CW,nextgqa
+nextgqa:5646554288:9,5646554288,coarse,causal,nextgqa
+nextgqa:3477094374:3,3477094374,native,CW,nextgqa
+nextgqa:3477094374:3,3477094374,coarse,causal,nextgqa
+nextgqa:5972972222:2,5972972222,native,TN,nextgqa
+nextgqa:5972972222:2,5972972222,coarse,temporal,nextgqa
+nextgqa:10467727335:4,10467727335,native,TC,nextgqa
+nextgqa:10467727335:4,10467727335,coarse,temporal,nextgqa
+nextgqa:3932142423:9,3932142423,native,TN,nextgqa
+nextgqa:3932142423:9,3932142423,coarse,temporal,nextgqa
+nextgqa:4873868719:5,4873868719,native,CW,nextgqa
+nextgqa:4873868719:5,4873868719,coarse,causal,nextgqa
+nextgqa:3098102850:4,3098102850,native,CH,nextgqa
+nextgqa:3098102850:4,3098102850,coarse,causal,nextgqa
+nextgqa:5306556049:4,5306556049,native,TC,nextgqa
+nextgqa:5306556049:4,5306556049,coarse,temporal,nextgqa
+nextgqa:2779111829:4,2779111829,native,TN,nextgqa
+nextgqa:2779111829:4,2779111829,coarse,temporal,nextgqa
+nextgqa:3350068648:9,3350068648,native,TN,nextgqa
+nextgqa:3350068648:9,3350068648,coarse,temporal,nextgqa
+nextgqa:4080877621:4,4080877621,native,CW,nextgqa
+nextgqa:4080877621:4,4080877621,coarse,causal,nextgqa
+nextgqa:5918453123:4,5918453123,native,TC,nextgqa
+nextgqa:5918453123:4,5918453123,coarse,temporal,nextgqa
+nextgqa:4170300998:10,4170300998,native,CW,nextgqa
+nextgqa:4170300998:10,4170300998,coarse,causal,nextgqa
+nextgqa:5475182274:6,5475182274,native,CH,nextgqa
+nextgqa:5475182274:6,5475182274,coarse,causal,nextgqa
+nextgqa:5372042516:8,5372042516,native,TP,nextgqa
+nextgqa:5372042516:8,5372042516,coarse,temporal,nextgqa
+nextgqa:4766274786:7,4766274786,native,CH,nextgqa
+nextgqa:4766274786:7,4766274786,coarse,causal,nextgqa
+nextgqa:4555151860:4,4555151860,native,CW,nextgqa
+nextgqa:4555151860:4,4555151860,coarse,causal,nextgqa
+nextgqa:3228132498:2,3228132498,native,CW,nextgqa
+nextgqa:3228132498:2,3228132498,coarse,causal,nextgqa
+nextgqa:5275599750:6,5275599750,native,TN,nextgqa
+nextgqa:5275599750:6,5275599750,coarse,temporal,nextgqa
+nextgqa:4400018396:6,4400018396,native,TP,nextgqa
+nextgqa:4400018396:6,4400018396,coarse,temporal,nextgqa
+nextgqa:10488004303:9,10488004303,native,TN,nextgqa
+nextgqa:10488004303:9,10488004303,coarse,temporal,nextgqa
+nextgqa:3216757365:7,3216757365,native,TN,nextgqa
+nextgqa:3216757365:7,3216757365,coarse,temporal,nextgqa
+nextgqa:3623844354:5,3623844354,native,TN,nextgqa
+nextgqa:3623844354:5,3623844354,coarse,temporal,nextgqa
+nextgqa:4452638970:4,4452638970,native,TP,nextgqa
+nextgqa:4452638970:4,4452638970,coarse,temporal,nextgqa
+nextgqa:5412696114:4,5412696114,native,CW,nextgqa
+nextgqa:5412696114:4,5412696114,coarse,causal,nextgqa
+nextgqa:2623764605:4,2623764605,native,TC,nextgqa
+nextgqa:2623764605:4,2623764605,coarse,temporal,nextgqa
+nextgqa:5866947362:4,5866947362,native,CH,nextgqa
+nextgqa:5866947362:4,5866947362,coarse,causal,nextgqa
+nextgqa:4578959773:1,4578959773,native,CW,nextgqa
+nextgqa:4578959773:1,4578959773,coarse,causal,nextgqa
+nextgqa:10640925015:0,10640925015,native,CW,nextgqa
+nextgqa:10640925015:0,10640925015,coarse,causal,nextgqa
+nextgqa:4177758139:5,4177758139,native,TN,nextgqa
+nextgqa:4177758139:5,4177758139,coarse,temporal,nextgqa
+nextgqa:5912473393:3,5912473393,native,TN,nextgqa
+nextgqa:5912473393:3,5912473393,coarse,temporal,nextgqa
+nextgqa:4563323343:7,4563323343,native,TN,nextgqa
+nextgqa:4563323343:7,4563323343,coarse,temporal,nextgqa
+nextgqa:9663613477:11,9663613477,native,CW,nextgqa
+nextgqa:9663613477:11,9663613477,coarse,causal,nextgqa
+nextgqa:11589691386:4,11589691386,native,CH,nextgqa
+nextgqa:11589691386:4,11589691386,coarse,causal,nextgqa
+nextgqa:3180339331:3,3180339331,native,TN,nextgqa
+nextgqa:3180339331:3,3180339331,coarse,temporal,nextgqa
+nextgqa:9383140374:1,9383140374,native,CH,nextgqa
+nextgqa:9383140374:1,9383140374,coarse,causal,nextgqa
+nextgqa:9402994355:2,9402994355,native,CH,nextgqa
+nextgqa:9402994355:2,9402994355,coarse,causal,nextgqa
+nextgqa:3705663920:8,3705663920,native,CW,nextgqa
+nextgqa:3705663920:8,3705663920,coarse,causal,nextgqa
+nextgqa:6516498145:2,6516498145,native,TC,nextgqa
+nextgqa:6516498145:2,6516498145,coarse,temporal,nextgqa
+nextgqa:7477913592:7,7477913592,native,CW,nextgqa
+nextgqa:7477913592:7,7477913592,coarse,causal,nextgqa
+nextgqa:2779111829:9,2779111829,native,CW,nextgqa
+nextgqa:2779111829:9,2779111829,coarse,causal,nextgqa
+nextgqa:4405746537:2,4405746537,native,CH,nextgqa
+nextgqa:4405746537:2,4405746537,coarse,causal,nextgqa
+nextgqa:3751105478:2,3751105478,native,CW,nextgqa
+nextgqa:3751105478:2,3751105478,coarse,causal,nextgqa
+nextgqa:2399811629:5,2399811629,native,CW,nextgqa
+nextgqa:2399811629:5,2399811629,coarse,causal,nextgqa
+nextgqa:13496244575:3,13496244575,native,TC,nextgqa
+nextgqa:13496244575:3,13496244575,coarse,temporal,nextgqa
+nextgqa:2983727948:5,2983727948,native,CH,nextgqa
+nextgqa:2983727948:5,2983727948,coarse,causal,nextgqa
+nextgqa:8245178837:9,8245178837,native,CW,nextgqa
+nextgqa:8245178837:9,8245178837,coarse,causal,nextgqa
+nextgqa:8371375957:6,8371375957,native,CW,nextgqa
+nextgqa:8371375957:6,8371375957,coarse,causal,nextgqa
+nextgqa:7390196932:7,7390196932,native,CH,nextgqa
+nextgqa:7390196932:7,7390196932,coarse,causal,nextgqa
+nextgqa:5412696114:0,5412696114,native,CW,nextgqa
+nextgqa:5412696114:0,5412696114,coarse,causal,nextgqa
+nextgqa:3765087719:1,3765087719,native,CW,nextgqa
+nextgqa:3765087719:1,3765087719,coarse,causal,nextgqa
+nextgqa:5880312109:2,5880312109,native,TN,nextgqa
+nextgqa:5880312109:2,5880312109,coarse,temporal,nextgqa
+nextgqa:10400848434:2,10400848434,native,CW,nextgqa
+nextgqa:10400848434:2,10400848434,coarse,causal,nextgqa
+nextgqa:7530953680:1,7530953680,native,CH,nextgqa
+nextgqa:7530953680:1,7530953680,coarse,causal,nextgqa
+nextgqa:7527437500:3,7527437500,native,TN,nextgqa
+nextgqa:7527437500:3,7527437500,coarse,temporal,nextgqa
+nextgqa:3404210548:2,3404210548,native,CH,nextgqa
+nextgqa:3404210548:2,3404210548,coarse,causal,nextgqa
+nextgqa:3666030640:4,3666030640,native,TN,nextgqa
+nextgqa:3666030640:4,3666030640,coarse,temporal,nextgqa
+nextgqa:4967866673:0,4967866673,native,TC,nextgqa
+nextgqa:4967866673:0,4967866673,coarse,temporal,nextgqa
+nextgqa:2639225467:7,2639225467,native,CH,nextgqa
+nextgqa:2639225467:7,2639225467,coarse,causal,nextgqa
+nextgqa:3561135916:3,3561135916,native,CW,nextgqa
+nextgqa:3561135916:3,3561135916,coarse,causal,nextgqa
+nextgqa:10128261054:2,10128261054,native,CW,nextgqa
+nextgqa:10128261054:2,10128261054,coarse,causal,nextgqa
+nextgqa:2406887888:1,2406887888,native,CW,nextgqa
+nextgqa:2406887888:1,2406887888,coarse,causal,nextgqa

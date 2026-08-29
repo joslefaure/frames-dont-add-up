@@ -1,0 +1,7 @@
+{
+  "primary_query": "question_only",
+  "sensitivity_query": "question_and_answer_choices",
+  "draws": 10000,
+  "seed": 20260828,
+  "paired_answerer_rows": 17940
+}

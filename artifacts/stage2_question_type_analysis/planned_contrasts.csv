@@ -1,0 +1,7 @@
+model,benchmark,contrast,union_source_videos,causal_source_videos,temporal_source_videos,shared_source_videos,estimate,ci_low,ci_high
+internvl35_38b,nextgqa,temporal_minus_causal_absolute_gap,380,246,182,48,0.2708232192723475,0.09072595189289613,0.4573911478953374
+internvl35_8b,nextgqa,temporal_minus_causal_absolute_gap,380,246,182,48,0.08120822578777198,-0.06953994473296722,0.23759506736423283
+perception_lm_8b,nextgqa,temporal_minus_causal_absolute_gap,380,246,182,48,0.23318675413743,0.04359031939226777,0.42518980592173133
+qwen3_vl_32b,nextgqa,temporal_minus_causal_absolute_gap,380,246,182,48,0.3853958532582714,0.05855191349021748,0.7288898355343764
+qwen3_vl_4b,nextgqa,temporal_minus_causal_absolute_gap,380,246,182,48,0.3233938760553545,-0.030413526914154856,0.6844496954719045
+videollama3_7b,nextgqa,temporal_minus_causal_absolute_gap,380,246,182,48,0.030124609377480266,-0.018147031266404445,0.082854540486994

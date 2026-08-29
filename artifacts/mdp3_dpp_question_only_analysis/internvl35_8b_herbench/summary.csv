@@ -1,0 +1,3 @@
+model,benchmark,condition,items,accuracy,mean_logodds,evidence_recall_at_k,temporal_coverage,charged_candidate_frames,mean_seconds
+internvl35_8b,herbench,mdp3_8,500,0.458,-0.7272463656207546,0.0325,0.8525714285714285,64.0,0.11416403102874756
+internvl35_8b,herbench,plain_dpp_8,500,0.444,-0.7920226570433005,0.034,0.8243492063492064,64.0,0.1130215106010437

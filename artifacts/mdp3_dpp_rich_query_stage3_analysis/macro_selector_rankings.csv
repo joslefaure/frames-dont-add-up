@@ -1,0 +1,21 @@
+condition,metric,settings,macro_mean,rank,selector_name
+plain_dpp_8,correct,18,0.5512709752851107,1,Plain DPP
+mdp3_8,correct,18,0.5476303177485311,2,MDP3
+bolt_its8,correct,18,0.5357200863323572,3,BOLT-ITS
+siglip_dino_submodular8,correct,18,0.5355536564229891,4,Relevance-diversity
+aks_fixedk8,correct,18,0.5298063189178591,5,AKS
+siglip_relevance8,correct,18,0.5298063189178591,5,SigLIP relevance
+random8,correct,18,0.5200864716609696,7,Seeded random
+dino_diversity8,correct,18,0.5200675455225665,8,DINO diversity
+uniform8,correct,18,0.5194697493984416,9,Uniform
+dino_change8,correct,18,0.5131148654416342,10,DINO change
+plain_dpp_8,gold_vs_rest_logodds,18,0.8932622916052667,1,Plain DPP
+mdp3_8,gold_vs_rest_logodds,18,0.8796421021242601,2,MDP3
+siglip_dino_submodular8,gold_vs_rest_logodds,18,0.7125501218769873,3,Relevance-diversity
+bolt_its8,gold_vs_rest_logodds,18,0.706829248460103,4,BOLT-ITS
+aks_fixedk8,gold_vs_rest_logodds,18,0.6229930627225626,5,AKS
+siglip_relevance8,gold_vs_rest_logodds,18,0.6229930627225626,5,SigLIP relevance
+random8,gold_vs_rest_logodds,18,0.5554046622472608,7,Seeded random
+uniform8,gold_vs_rest_logodds,18,0.5415195121790775,8,Uniform
+dino_diversity8,gold_vs_rest_logodds,18,0.5223268046531089,9,DINO diversity
+dino_change8,gold_vs_rest_logodds,18,0.5090928481615795,10,DINO change

@@ -10,6 +10,7 @@ import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[1]
 FORBIDDEN = re.compile("u" + "1399652|MST" + "115399|/ho" + "me/|/wo" + "rk/|SB" + "ATCH|SL" + "URM", re.I)
+EXCLUDED_PARTS = {".git", ".venv", "reproduced", "__pycache__"}
 
 
 def main():
@@ -24,7 +25,7 @@ def main():
             raise AssertionError(f"integrity mismatch: {entry['path']}")
 
     for path in ROOT.rglob("*"):
-        if (not path.is_file() or path == manifest_path or "__pycache__" in path.parts or
+        if (not path.is_file() or path == manifest_path or EXCLUDED_PARTS.intersection(path.parts) or
                 path.suffix in {".pdf", ".parquet", ".pyc"}):
             continue
         text = path.read_text(errors="ignore")
@@ -44,11 +45,33 @@ def main():
         if len(table) != 7500 or table.groupby(["item_id", "context_index", "pair_type"]).size().ne(1).any():
             raise AssertionError(f"factorial coverage mismatch: {path}")
 
+    for name in ("mdp3_dpp_question_only_analysis", "mdp3_dpp_rich_query_analysis"):
+        cells = sorted((ROOT / "artifacts" / name).glob("*/per_item.parquet"))
+        if len(cells) != 18:
+            raise AssertionError(f"expected 18 MDP3/DPP cells in {name}, found {len(cells)}")
+        total = 0
+        for path in cells:
+            table = pd.read_parquet(path)
+            expected = 990 if table.benchmark.iloc[0] == "nextgqa" else 1000
+            if len(table) != expected or set(table.condition) != {"mdp3_8", "plain_dpp_8"}:
+                raise AssertionError(f"MDP3/DPP coverage mismatch: {path}")
+            if table.duplicated(["item_id", "condition"]).any():
+                raise AssertionError(f"duplicate MDP3/DPP rows: {path}")
+            total += len(table)
+        if total != 17940:
+            raise AssertionError(f"expected 17,940 MDP3/DPP rows in {name}, found {total}")
+
+    for name in ("mdp3_dpp_question_only_selections", "mdp3_dpp_rich_query_selections"):
+        selections = pd.concat([pd.read_csv(path) for path in sorted(
+            (ROOT / "artifacts" / name).glob("*.selections.csv"))], ignore_index=True)
+        if len(selections) != 2990 or selections.duplicated(["item_id", "condition"]).any():
+            raise AssertionError(f"MDP3/DPP selection coverage mismatch: {name}")
+
     registry = pd.read_csv(ROOT / "artifacts/qualitative_registry.csv")
     if len(registry) != 148:
         raise AssertionError(f"expected 148 qualitative cases, found {len(registry)}")
     print(f"PASS: {len(manifest['files'])} files match ARTIFACT_MANIFEST.json")
-    print("PASS: anonymity scan, 18-setting schemas, factorial coverage, and 148-case registry")
+    print("PASS: anonymity scan, 18-setting schemas, factorial and MDP3/DPP coverage, and 148-case registry")
 
 
 if __name__ == "__main__":

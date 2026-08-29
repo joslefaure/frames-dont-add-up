@@ -1,0 +1,51 @@
+{
+  "paper_inclusion_gate_passed": true,
+  "selectors": {
+    "mdp3_8": {
+      "passed": false,
+      "passed_on": [],
+      "details": {
+        "gold_vs_rest_logodds": {
+          "rank": 2,
+          "interval_improvement_over_at_least_one": true,
+          "nonnegative_against_both": true,
+          "no_secondary_interval_supported_harm": true,
+          "passed": false
+        },
+        "correct": {
+          "rank": 1,
+          "interval_improvement_over_at_least_one": false,
+          "nonnegative_against_both": true,
+          "no_secondary_interval_supported_harm": true,
+          "passed": false
+        }
+      }
+    },
+    "plain_dpp_8": {
+      "passed": true,
+      "passed_on": [
+        "gold_vs_rest_logodds"
+      ],
+      "details": {
+        "gold_vs_rest_logodds": {
+          "rank": 1,
+          "interval_improvement_over_at_least_one": true,
+          "nonnegative_against_both": true,
+          "no_secondary_interval_supported_harm": true,
+          "passed": true
+        },
+        "correct": {
+          "rank": 2,
+          "interval_improvement_over_at_least_one": false,
+          "nonnegative_against_both": true,
+          "no_secondary_interval_supported_harm": true,
+          "passed": false
+        }
+      }
+    }
+  },
+  "draws": 10000,
+  "seed": 20260828,
+  "calls": 17940,
+  "items": 1495
+}

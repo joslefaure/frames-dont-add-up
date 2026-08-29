@@ -1,0 +1,11 @@
+selector,completed_cells,accuracy,log_odds,evidence_recall,temporal_coverage,seconds
+Plain DPP,18,0.533,0.752,0.105,0.826,0.447
+MDP3,18,0.536,0.739,0.102,0.848,0.448
+Relevance-diversity,18,0.528,0.626,0.106,0.803,0.446
+BOLT-ITS,18,0.526,0.609,0.11,0.742,0.446
+AKS (alias of relevance),18,0.523,0.541,0.117,0.695,0.447
+SigLIP relevance,18,0.523,0.541,0.117,0.695,0.446
+Seeded random,18,0.513,0.494,0.1,0.799,0.446
+Uniform,18,0.512,0.479,0.088,1.0,0.446
+DINO diversity,18,0.51,0.43,0.101,0.86,0.446
+DINO change,18,0.501,0.41,0.108,0.669,0.446

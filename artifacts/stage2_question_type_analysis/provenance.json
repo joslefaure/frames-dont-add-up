@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "draws": 10000,
+  "resampling_unit": "source_video_id",
+  "primary_estimand": "source-video-equal mean absolute interaction: evidence_evidence minus outside_outside",
+  "nextgqa_coarse_mapping": {
+    "CW": "causal",
+    "CH": "causal",
+    "TN": "temporal",
+    "TC": "temporal",
+    "TP": "temporal"
+  },
+  "lvbench_tag_present_strata": [
+    "temporal grounding",
+    "reasoning",
+    "event understanding",
+    "entity recognition",
+    "key information retrieval",
+    "summarization"
+  ],
+  "setting_tables": 18,
+  "setting_stratum_rows": 114,
+  "planned_contrasts": 6
+}
